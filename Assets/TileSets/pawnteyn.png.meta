@@ -1,0 +1,2205 @@
+fileFormatVersion: 2
+guid: dba2a3f8e4042084f8582a5ec968a109
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4418417180239414478
+    second: pawnteyn_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 46
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pawnteyn_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 466
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bb85efbf0aea2c0800000000000000
+      internalID: -4418417180239414478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 466
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2080871743d48c548b57efa0f2704149
+      internalID: -1777486279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 466
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d31220e6b857b740b65d224902a84b2
+      internalID: 1163618064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 466
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7168a7d161a3d4cb60350a895a280a
+      internalID: 863795414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 420
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd8cf36d036e8b43974e688de5fae0c
+      internalID: 405124224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 420
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76df9d9487580314ca2c65db71985faa
+      internalID: 172045016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 420
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38462e6b345c77d4f88600c8bc7ec6f6
+      internalID: -421144940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 420
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f957986ca3bf2404d8eb15fb1f128de2
+      internalID: 348972617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 420
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab99a465a6dfedc4887ed872c85fddb3
+      internalID: -2111113348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 374
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28463cc583d0e7449972fb265da099e
+      internalID: -456591243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 374
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5570cf45ca0d5c42949f071cdcca297
+      internalID: -1987172627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 374
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56880da3205aa984ab45a49904550ea6
+      internalID: -1831219303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 374
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da436740d15f154881a282d90d44b31
+      internalID: 857019404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 374
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9855b3ca07d994d9585df5d417bda9
+      internalID: 1335117383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 328
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f3d86e7f5c9c8499c4144c3d481dab
+      internalID: -932613328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 328
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ad31ad68dccbb4c88a0ad3430e6425
+      internalID: -1174721004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 328
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a54889be0c052741885536d8d717a84
+      internalID: 1811113502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 328
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5d08b0270602840bc61482a5ca3ab5
+      internalID: 1172709595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 328
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b97cff4893b3654c86e910afd2be7a4
+      internalID: 1046589349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 328
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4834afd5989e7ac429d89000f345fa7c
+      internalID: 1084603952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 328
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6948d6515600d3428f61c30339eb732
+      internalID: -1742358238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 282
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f0fd1ba619fdb4b901e6687ad6fde6
+      internalID: 851840332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 282
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55b0f8106717e140b3b50e43842affe
+      internalID: 1258401841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 282
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63df6ca7f6da980449ffa7e961517d0c
+      internalID: -323207325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 282
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e862b7f5ef55284292dba29023cb64c
+      internalID: 1367627929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 282
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb8796e222ef7b45b77ddd2edda20f5
+      internalID: -1957713715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_26
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 282
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dc5cf09878cbe46b9575893d223571
+      internalID: -1606810489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 282
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57142732d1cba704288507b139b9955f
+      internalID: -169082507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 282
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a3527d3377ca04a9bef593fd29f0fc
+      internalID: -817460034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 282
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63667e02b10c214995937d82bae3aa3
+      internalID: 1320539921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f16ef369ef7b64b98884178f7cd54c
+      internalID: -1052323011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 236
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40e6a231d429c84f87a1a930b6e68f4
+      internalID: -663209004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 236
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2e248133086f3488aff207da3f0758
+      internalID: 1016342467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 236
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62066a99ab7691d418829044f3e77888
+      internalID: 1479276222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_34
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 236
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bc34ee09c711b4da441fead7d7a70a
+      internalID: -39657887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_35
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 236
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921534cc491922f4dbee2d2597155728
+      internalID: -1505579255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 236
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ad01f16ed57c8448b3b84f58404a10
+      internalID: -832430082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 236
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b84b5d995d39a2468ed5eac6c8864b3
+      internalID: 287350833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 236
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebb5e7bbbc3e5d4fadf4ae3c197ae29
+      internalID: -1195893628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 236
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609f47fdb0b331a4f81636fb08eb4f72
+      internalID: -808784970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_40
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 236
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5092589057b00f4f9dcd8147bef11d6
+      internalID: 2088563382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e6bf9f90d7b15458cabff15c7822be
+      internalID: 800160140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 190
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99acf2f26702a8b498cf22e1da8bc31d
+      internalID: 850867115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 190
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef03ba4c30f28e04aa99a2c54194e900
+      internalID: 341214875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 190
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d70748525d56841bf280afc8f4d7eb
+      internalID: 755310061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_45
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 190
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b8b961dd78ade4b8dbeca391b0636d
+      internalID: 1608249438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_46
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 190
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d776a9484156500439a63a1f44d706da
+      internalID: -1575847818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_47
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 190
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549275d61b51d644fb938e1237d265f5
+      internalID: -1823399952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 190
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c66eda651cb0941bfb9990fc1732a3
+      internalID: 596566675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 190
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbdbf597a360cb4a809a506d5cc01d3
+      internalID: -662909525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_50
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 190
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e434eb9e210572d4792806fdc2bd4e20
+      internalID: 1204234635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_51
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 190
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e726ec31c4086eb49a187b0a68e8e6a2
+      internalID: 1325692937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a364d924c315e84449f99a6370b526ce
+      internalID: 1279558525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_53
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321ff763804d1fa4cbd7fef9ade38f91
+      internalID: 1855027049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df89ad33b5b53499b110579c0feb6d
+      internalID: 2014976861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_55
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d36168dfe32b6644b35ce9005ba6dd2
+      internalID: 1763410572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_56
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a5a53b08fe69943b638a4ee6cbabe3
+      internalID: -1081064486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ae630ff124cdb479231815bca57ad2
+      internalID: 38025506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_58
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848d1fda111fe4d4691b511307b7ac9e
+      internalID: 1538826279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_59
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab7480ed6d42fa4994862f73a121892
+      internalID: 1918475411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_60
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d30fa7acc5b1f46b152c853ef96698
+      internalID: -1739829589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_61
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012be18d956696c478361b85fda50246
+      internalID: -2141946731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f59caeb876e39e4ea5884da25dc33b8
+      internalID: 1319920776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ffc11d16597bd41831f2b31e76c62d
+      internalID: 189631514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_64
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 98
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f230b4c3a240c4c8693f1418894685
+      internalID: -296119047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 98
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c31fdda50425468890a419b05f48c
+      internalID: -1881091720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 98
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1953deb4d279014683f39310a0a88ca
+      internalID: -1339581156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_67
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 98
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535b672ba0f0c964ab4961ab67d47c7d
+      internalID: -828181001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_68
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 98
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b61f4eba537b84fbcd8a262f7baab2
+      internalID: -353530860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_69
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 98
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f578e50ee142f4cb925ab326749815
+      internalID: -607037998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_70
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 98
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cea42aa50e02c04e9771fcf186fb75d
+      internalID: -2047838102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_71
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 98
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257611198d40b384fa681444633b6c12
+      internalID: 541585687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_72
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 98
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d0cc0ea7dab1e4eb14d3eb5070033b
+      internalID: -1642398621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_73
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 98
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c6c092406f10349ba6f6bae84bd97b
+      internalID: 419908173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688961a88e0ab843acb20df1a8c9283
+      internalID: 1912578082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_75
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738e2a2c233cb445b383828386fd954
+      internalID: -692824172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_76
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 52
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32b01369aff7eb4796f5a05f6f73fd4
+      internalID: 1862639450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_77
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 52
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1863985da435d4daf082a245c7b6a1
+      internalID: 1867918718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_78
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 52
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13027a387f31ec94ca880d0ef1995414
+      internalID: -835800247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_79
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 52
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f248ca12a916645b8aed6262ebe3ce
+      internalID: 909264367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_80
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 52
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e14b2f7b8770419914f7713046927
+      internalID: 1593346484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_81
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 52
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589ae9ad4d211cf4f8d90cc9d29d62a3
+      internalID: 1053459243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_82
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 52
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc07c11537f00445a02212482f41f5b
+      internalID: -1279081870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_83
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 52
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c282cd32b4c17b140bec9eb411fe0733
+      internalID: 1195722350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a28090c0989fa49b97e3b4cb55b03f
+      internalID: 417267069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_85
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 6
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8049334b20285d044b025dc23814ff9f
+      internalID: 937189469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_86
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 6
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6dd799259df2f42822606e8f78c54d
+      internalID: -796866663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_87
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbadd17a2424bed4dbe269cfa1440b67
+      internalID: -805216358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_88
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 6
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c662868ef93f9f749853b7834ee0ba33
+      internalID: -2073045550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pawnteyn_89
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4831fd6d07aad9449af9fc08df55c3a0
+      internalID: 948124356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 318acfd506bfd9344a10246a2f9fbc40
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":46.0,"y":46.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      pawnteyn_0: -4418417180239414478
+      pawnteyn_1: -1777486279
+      pawnteyn_10: -1987172627
+      pawnteyn_11: -1831219303
+      pawnteyn_12: 857019404
+      pawnteyn_13: 1335117383
+      pawnteyn_14: -932613328
+      pawnteyn_15: -1174721004
+      pawnteyn_16: 1811113502
+      pawnteyn_17: 1172709595
+      pawnteyn_18: 1046589349
+      pawnteyn_19: 1084603952
+      pawnteyn_2: 1163618064
+      pawnteyn_20: -1742358238
+      pawnteyn_21: 851840332
+      pawnteyn_22: 1258401841
+      pawnteyn_23: -323207325
+      pawnteyn_24: 1367627929
+      pawnteyn_25: -1957713715
+      pawnteyn_26: -1606810489
+      pawnteyn_27: -169082507
+      pawnteyn_28: -817460034
+      pawnteyn_29: 1320539921
+      pawnteyn_3: 863795414
+      pawnteyn_30: -1052323011
+      pawnteyn_31: -663209004
+      pawnteyn_32: 1016342467
+      pawnteyn_33: 1479276222
+      pawnteyn_34: -39657887
+      pawnteyn_35: -1505579255
+      pawnteyn_36: -832430082
+      pawnteyn_37: 287350833
+      pawnteyn_38: -1195893628
+      pawnteyn_39: -808784970
+      pawnteyn_4: 405124224
+      pawnteyn_40: 2088563382
+      pawnteyn_41: 800160140
+      pawnteyn_42: 850867115
+      pawnteyn_43: 341214875
+      pawnteyn_44: 755310061
+      pawnteyn_45: 1608249438
+      pawnteyn_46: -1575847818
+      pawnteyn_47: -1823399952
+      pawnteyn_48: 596566675
+      pawnteyn_49: -662909525
+      pawnteyn_5: 172045016
+      pawnteyn_50: 1204234635
+      pawnteyn_51: 1325692937
+      pawnteyn_52: 1279558525
+      pawnteyn_53: 1855027049
+      pawnteyn_54: 2014976861
+      pawnteyn_55: 1763410572
+      pawnteyn_56: -1081064486
+      pawnteyn_57: 38025506
+      pawnteyn_58: 1538826279
+      pawnteyn_59: 1918475411
+      pawnteyn_6: -421144940
+      pawnteyn_60: -1739829589
+      pawnteyn_61: -2141946731
+      pawnteyn_62: 1319920776
+      pawnteyn_63: 189631514
+      pawnteyn_64: -296119047
+      pawnteyn_65: -1881091720
+      pawnteyn_66: -1339581156
+      pawnteyn_67: -828181001
+      pawnteyn_68: -353530860
+      pawnteyn_69: -607037998
+      pawnteyn_7: 348972617
+      pawnteyn_70: -2047838102
+      pawnteyn_71: 541585687
+      pawnteyn_72: -1642398621
+      pawnteyn_73: 419908173
+      pawnteyn_74: 1912578082
+      pawnteyn_75: -692824172
+      pawnteyn_76: 1862639450
+      pawnteyn_77: 1867918718
+      pawnteyn_78: -835800247
+      pawnteyn_79: 909264367
+      pawnteyn_8: -2111113348
+      pawnteyn_80: 1593346484
+      pawnteyn_81: 1053459243
+      pawnteyn_82: -1279081870
+      pawnteyn_83: 1195722350
+      pawnteyn_84: 417267069
+      pawnteyn_85: 937189469
+      pawnteyn_86: -796866663
+      pawnteyn_87: -805216358
+      pawnteyn_88: -2073045550
+      pawnteyn_89: 948124356
+      pawnteyn_9: -456591243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

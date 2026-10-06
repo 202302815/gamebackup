@@ -1,0 +1,3930 @@
+fileFormatVersion: 2
+guid: 650c129f3a00ec54ba07cc41f6527bc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2481242843740084206
+    second: hagdanlast_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hagdanlast_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2186461a7cad09dd0800000000000000
+      internalID: -2481242843740084206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283e800beb104ed42b8aa12cd42b040a
+      internalID: 1528420451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c5d0e86ad6a4045a9bab859f014d78
+      internalID: -519368007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bdbcd7b3ac23844b42b169fd43e2a9
+      internalID: 1401556623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c7a71ddbc76a14d99cdf16ece9d280
+      internalID: -1833198102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 488
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224ed2fe530a1384ba68ee71ac28d587
+      internalID: 2088626818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 464
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde9d0b8b1d58b24f86df30488d7779c
+      internalID: -800924292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae8e5132278f804ca0f9582a85b53c9
+      internalID: -1594617796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 464
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74c7bb1d28085f41b6f2827e0d9cfe1
+      internalID: 2121579496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320797780d0eafc4ca34c5dcc165271d
+      internalID: -2025339321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 464
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b2ef23ef226e640b92ab41e872f9dc
+      internalID: 958749241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 464
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76269fd1210ca7c40b8c530539672ee6
+      internalID: -1069281166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 464
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1facbb7e1d73e5e4b9c6d48cdb3e2cb3
+      internalID: -1564846458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 464
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18518b7fae1876a4abe6f7fa38e630e5
+      internalID: -1973201266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 440
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb85bddc445a92408d7ea373dcde253
+      internalID: 2083295839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 440
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8985ab3777ebb9f468832905660059ce
+      internalID: -878991321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 440
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4961cc315db5ad408f676fd3ebe06d8
+      internalID: 443449704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 440
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f13378b993dbfb4fbb35f22dbda0323
+      internalID: -45095881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 440
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555e2aa01fac4994c94231e9bb4790d3
+      internalID: 1215631543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 440
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099a77c366f1fac449f3a6cceb655dbf
+      internalID: 804637852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 440
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b05ba29af90e04297b5398c9dafefa
+      internalID: -446576015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 440
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9f9074d76dd1a4a89540c34ca1ba7f
+      internalID: 1354183758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 416
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1999c48f236cc9b4681e1a22a839182f
+      internalID: -487562517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938314fda48eafa4b88ba58c7389b9ae
+      internalID: 1528799615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 416
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac7ed8c99a5fba4588925faaa78c7d3
+      internalID: -927679775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48df7f8455bb774198a3a47686eff87
+      internalID: 792077620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 416
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327643cf4d4a10346a2d7316049125f1
+      internalID: -845040931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a1dbbe1a9cc9b42a7c31d3c0e8ae53
+      internalID: -815036938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 416
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5be9e83685457141a15c76c65b7f591
+      internalID: -402666948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 416
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1660efe4979b6be468912e9d9ffedca3
+      internalID: 1144879459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 392
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1befdfd937e18ad4087636217530c14f
+      internalID: -778918679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44ba12bdf5b808498c2d543ad407372
+      internalID: -121926403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 392
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3be1cd3d61a8004d95d40ca41568877
+      internalID: -1163504860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 392
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0287802a36b46744bad9aa6d85ffeb8b
+      internalID: 1786475012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 392
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90de6d8a0ccb7bd4f9ecf1666bb93bc5
+      internalID: -189864864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 392
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54651e34185d1c74eb4b6e1d31de21b9
+      internalID: -668744907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_36
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 392
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db853deb929c22e44a6be776c3e834e1
+      internalID: 1035054840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 392
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b3588831db46943bcee18bc7809e6c
+      internalID: -1134804047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb29dd75b4d838b48ad88a3e3084c909
+      internalID: -1573422060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d16b17fdeadadf408075688c24c3c5f
+      internalID: -60180988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_40
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e716e7b28b327a94f9e3f16d261bb931
+      internalID: 792837351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90119a2640c67c64e89f50b580a54615
+      internalID: 1923160863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabcc109cf625834ebdef75d5d819436
+      internalID: 297824057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa997dd7c7bc6549bd909a1db3f4c3d
+      internalID: -1152240969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_44
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb895cc9bf98814bb429d780b7c15c2
+      internalID: -590708247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a4fc75fd468b14ebf51ba3388977f5
+      internalID: 1022946720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 344
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba69b464b1634ff40840f01359c7ebb6
+      internalID: 1048031297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 344
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d66e0f0e01963943a9e17181e4f0563
+      internalID: 1356275980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 344
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b27de94c400ee4bb5989ab8b0fc273
+      internalID: 1539137690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 344
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafac332833a6964db27b6eed637e7aa
+      internalID: 94441112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_50
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 344
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efc2697476236e4e8e9c0a2079f31fa
+      internalID: -1476097686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 344
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7eb280b39479a4cb6bf1be37a4599a
+      internalID: 1931757867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_52
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 344
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3dc8e80b3c3064d9aa09431ce45208
+      internalID: -242607094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 344
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2749536d3d1a86f4b8090bb51ba11009
+      internalID: -983275193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 320
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699dfc694dadf314a86837977396efab
+      internalID: 1053034399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b305c03e8acf1284386ded10c2ae8859
+      internalID: -489826332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_56
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 320
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76abf722efddd1142a6366d7ca118dcf
+      internalID: 1236904043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8a93275fd0d2c49bb766ef026f5628
+      internalID: -2028124728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_58
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 320
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab86f53df6a0da48b0d58f3e18730c1
+      internalID: 1540931731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca9441c76db764ab348a58021ef351
+      internalID: 476472939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_60
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 320
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd5c6e3e3addce4e9c6775f889fa8be
+      internalID: 1815867205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 320
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1746d394eabccc940bf7d11cf42b03e8
+      internalID: 999923796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 296
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7208f935decd340b63e895af69429d
+      internalID: 555740830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 296
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eff915b15a8ac54798d9e5c24da932d
+      internalID: 398052599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 296
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8401c7b973fe7340a59874fe93c61f7
+      internalID: 573262644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 296
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936f518d360c85349b93d0a94c8975ce
+      internalID: 1183751631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_66
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 296
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03667359bae150845bcc8a08ded2708d
+      internalID: 461998031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 296
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39024a52d19786d42bf9c49afc27a7c5
+      internalID: 1665978847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_68
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 296
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1601be64d71e90a43b883313ca1022a5
+      internalID: -1137911509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 296
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed33ae28f7cef1f43a7b474e2aa4668e
+      internalID: -1326378580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_70
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 272
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52ca767aacdf664a879a55fddcaa606
+      internalID: -542110423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f506320c54e83594084278a1cc00f0c9
+      internalID: 956254410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_72
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 272
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f296fa834805164690b9ce1d9eabfa4
+      internalID: -872288998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704fc277923d0064da4d366945be5a82
+      internalID: -958385809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_74
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 272
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4317e327bc8524c9c1ee9d43cfd6c4
+      internalID: 2064126587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 272
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37f1e2bd59bc37419c089457f5cf85b
+      internalID: 1369349793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_76
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 272
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3406f64ad462a439eacd71b6d0e701
+      internalID: 111939908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_77
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 272
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e795e1f5b173499bc939a7ae9a831
+      internalID: 815151929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 248
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60fdfbc7b1deaf439fa72623509eeee
+      internalID: -131854199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 248
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da3ce91d19c8174ab9b2326b44c0de4
+      internalID: 875354940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 248
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa04a08baee9f1144b84e53544c23af0
+      internalID: -227435736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 248
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761ea9bbfaabe174284c5728a03847b4
+      internalID: -587458620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_82
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 248
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c931c5bc4d7e86468451f508110ff65
+      internalID: -2067118789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 248
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff46ca031ff05746b0c6cd8c21c91f2
+      internalID: 1057565296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_84
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 248
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b411dd444d7b7c47b1c22d7b48741cb
+      internalID: 570125281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_85
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 248
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcbc64581709364b983806eb50fa646
+      internalID: -1555907699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_86
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11593c6629e67424798883f844008653
+      internalID: 1414997952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8070749ed6c8b6346a99d73a45dd53e3
+      internalID: -915464209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 224
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9676d45efe20f4ab15e10a487ce805
+      internalID: 1526324284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38e0df12f4d0174283bdac512ac6b70
+      internalID: 1574566562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_90
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 224
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb15ecd477837e40903c48b83cf773a
+      internalID: 1218196816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c887ea5fb08b41adf9efa8662a44f
+      internalID: 1101484560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_92
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 224
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535831609969d4b4b91a317c66f9860f
+      internalID: 709537297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_93
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e39262d47f547944890137e200077e9
+      internalID: -523326564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_94
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bd8ea30e716ac488956d35f94e3e66
+      internalID: 478291867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe783691f72daf41992f3103d649cbf
+      internalID: 201479035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_96
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd97959a23472840ae8027802de6546
+      internalID: -82812333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b258a41436111b45a2a5dd7e81b8f86
+      internalID: -553955573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedd7122ffa80364eb6b4e39d1f2054f
+      internalID: -1984759285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9714ae93abe7e764daafc648ad21ab82
+      internalID: 453212284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_100
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a3acc37ba842445be858baf54b22c3
+      internalID: 732240541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047b3cc11fde68246bd64426d1dd8ded
+      internalID: 1688003538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_102
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed92e24577cc9b84fa9ab72b6cde9230
+      internalID: -949718548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31860e30b1c57fc4b9e0608135657a02
+      internalID: 1552340584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_104
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf16ef98e23a10459bff6488b9587c3
+      internalID: -1505398847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba87ab5dd7e7a24f9e8dff9378dba67
+      internalID: 1980976756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b9844a1a61994d966e8b2e201f8df
+      internalID: -1521754623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3f368276c847749a633d29ae05094e
+      internalID: 1532231183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_108
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce124ab8651e07442a5c5ce73e9bef48
+      internalID: 244326115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_109
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a2376f45e04dc41904371263ea37be
+      internalID: -1714606522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_110
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e0dc7fb0a191e46aeb5e676b7d29a8
+      internalID: -1486477163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab9269609c1a4e46bc3db99958a3798
+      internalID: -998890930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_112
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff79916cbff64cc4db8f89ca55ecf0d4
+      internalID: -967366524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b7e10e66230f7498264a44b1038856
+      internalID: -1449518945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_114
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8161c3527654f43b7415a2bb50229a
+      internalID: 1037359061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_115
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf23cd573c10ca4d8c019824b473db8
+      internalID: -472567428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_116
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ae91d3768a12441b36f0d26efbf66b
+      internalID: 515241667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_117
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28e4d9a49434524997217f3adb309e7
+      internalID: 782659888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_118
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370ed954f095c074ca0ee0130fe67fc0
+      internalID: 1654062388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8e31d21710a9f49aa0474e57f7356b
+      internalID: -1644019310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_120
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ccd17a96ef04b46847d5aa3132a812
+      internalID: -1540026693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619521dbbd055db4da6a9f9d453909c8
+      internalID: 1462437224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_122
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c9e843d92e5cf41a7be87e7de9fa0e
+      internalID: 1769728670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75917484a4875c043ae81a6ded9f7c0d
+      internalID: -441392536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_124
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594bbc76ab23cd442b3c085ed3bc0728
+      internalID: -1946814652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_125
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f39f31867b15bf46914824f3ebb95af
+      internalID: -2135120891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_126
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cf93d8723fb5241978672ee5815d2b
+      internalID: 1824245441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e2ccc6179b18f4da51be0d28d9998c
+      internalID: -1346550348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_128
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6078b4a54a3941a4aa150423d86b8410
+      internalID: 285537573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_129
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de7b853db9da9b4a995bc1194e89aa1
+      internalID: 20908720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_130
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3717eff60510d374b976a63ec0c2400a
+      internalID: -1201581492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7116d22701985e149884f70e5a421aa5
+      internalID: -1004689317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_132
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3260b896a6859e4b8d7498c89d19a09
+      internalID: -1891186281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_133
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea624bd351877f4ea3d876d40593153
+      internalID: 580061287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_134
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9968a7cbcd4692c48960bdf78f8fb6ed
+      internalID: 297114689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_135
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffc91b8fa290084ca6234a1ae4a8ed3
+      internalID: -338932015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_136
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a897039ce8bcc48830918027770dd0
+      internalID: -1199404779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_137
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865caf30a8f4bd144a60c76e3145dc7c
+      internalID: 716279413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_138
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa9922a4caba648ad5a02c22606e6a
+      internalID: -769712403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafec683c514a8c439db9f4e4a1fc616
+      internalID: 1679443925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_140
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524b20254600dd947afff59d85c43992
+      internalID: 1372364150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_141
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3c85f1cf85b6043b364e760fef1854
+      internalID: 1975119104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_142
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fd5861c5577544fb91d3acb155ecfa
+      internalID: 157324437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969040c262353e24b906b13fdc859b7e
+      internalID: -1053996783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_144
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf065c2e2abd874c8e58eaa01a35d76
+      internalID: 2103844843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_145
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207a2d62f65bf0847b63d1e35aca9f7a
+      internalID: 427954603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_146
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958884044db99844d90729eb740aac4f
+      internalID: -1030571065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_147
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f517a00e7a5da0b44a5b3025bbd4a56b
+      internalID: 1983255163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_148
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d791335b9b10284b9a0b7d6476f1d8f
+      internalID: 631154012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_149
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 56
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de1447d4b6be54485fe6ef5a5f66a5
+      internalID: -111178626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_150
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce76977f5f38b78428ea986fb79357d7
+      internalID: 2061966320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_151
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0cbc87793d1c74b94d6f353f13e959
+      internalID: -1663097829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_152
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11978852643ac2a44bea8031e6a699ad
+      internalID: -1349300607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_153
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e92d1c0de30c42b99074b128540ac
+      internalID: 641972723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_154
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50f441efebc3d54b816d7f1f528da99
+      internalID: -1869975932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_155
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc19f9c4e0b3c294093a72ff1d00fcd3
+      internalID: 1291143784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_156
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471765c7263589b4a85f255b7e6134b3
+      internalID: 2080827027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_157
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5333534f562899645af5b0adcb389dfd
+      internalID: 718844241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_158
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdf7ed0db071ba44ad331ee92fa582c
+      internalID: 305561452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945ad8e2087853a44a7b10d8dc75f16e
+      internalID: -301387428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_160
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c5f840a44ad9b41a9cf95efb8112e6
+      internalID: 2113981924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_161
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d5332d3fb91bf4fa6bb55af4b77a33
+      internalID: 2004352369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd5b0e3e3ffc24a94d3f87b565a08f
+      internalID: 1091274729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_163
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde2f1eaf37a4b54891909840bc5ca05
+      internalID: -866415384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hagdanlast_164
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6881e23e674bd7549854bd2fa5dbe5e2
+      internalID: -321799097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 209ab0cc2355d7e419d245b1c0dc9b37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      hagdanlast_0: -2481242843740084206
+      hagdanlast_1: 1528420451
+      hagdanlast_10: 958749241
+      hagdanlast_100: 732240541
+      hagdanlast_101: 1688003538
+      hagdanlast_102: -949718548
+      hagdanlast_103: 1552340584
+      hagdanlast_104: -1505398847
+      hagdanlast_105: 1980976756
+      hagdanlast_106: -1521754623
+      hagdanlast_107: 1532231183
+      hagdanlast_108: 244326115
+      hagdanlast_109: -1714606522
+      hagdanlast_11: -1069281166
+      hagdanlast_110: -1486477163
+      hagdanlast_111: -998890930
+      hagdanlast_112: -967366524
+      hagdanlast_113: -1449518945
+      hagdanlast_114: 1037359061
+      hagdanlast_115: -472567428
+      hagdanlast_116: 515241667
+      hagdanlast_117: 782659888
+      hagdanlast_118: 1654062388
+      hagdanlast_119: -1644019310
+      hagdanlast_12: -1564846458
+      hagdanlast_120: -1540026693
+      hagdanlast_121: 1462437224
+      hagdanlast_122: 1769728670
+      hagdanlast_123: -441392536
+      hagdanlast_124: -1946814652
+      hagdanlast_125: -2135120891
+      hagdanlast_126: 1824245441
+      hagdanlast_127: -1346550348
+      hagdanlast_128: 285537573
+      hagdanlast_129: 20908720
+      hagdanlast_13: -1973201266
+      hagdanlast_130: -1201581492
+      hagdanlast_131: -1004689317
+      hagdanlast_132: -1891186281
+      hagdanlast_133: 580061287
+      hagdanlast_134: 297114689
+      hagdanlast_135: -338932015
+      hagdanlast_136: -1199404779
+      hagdanlast_137: 716279413
+      hagdanlast_138: -769712403
+      hagdanlast_139: 1679443925
+      hagdanlast_14: 2083295839
+      hagdanlast_140: 1372364150
+      hagdanlast_141: 1975119104
+      hagdanlast_142: 157324437
+      hagdanlast_143: -1053996783
+      hagdanlast_144: 2103844843
+      hagdanlast_145: 427954603
+      hagdanlast_146: -1030571065
+      hagdanlast_147: 1983255163
+      hagdanlast_148: 631154012
+      hagdanlast_149: -111178626
+      hagdanlast_15: -878991321
+      hagdanlast_150: 2061966320
+      hagdanlast_151: -1663097829
+      hagdanlast_152: -1349300607
+      hagdanlast_153: 641972723
+      hagdanlast_154: -1869975932
+      hagdanlast_155: 1291143784
+      hagdanlast_156: 2080827027
+      hagdanlast_157: 718844241
+      hagdanlast_158: 305561452
+      hagdanlast_159: -301387428
+      hagdanlast_16: 443449704
+      hagdanlast_160: 2113981924
+      hagdanlast_161: 2004352369
+      hagdanlast_162: 1091274729
+      hagdanlast_163: -866415384
+      hagdanlast_164: -321799097
+      hagdanlast_17: -45095881
+      hagdanlast_18: 1215631543
+      hagdanlast_19: 804637852
+      hagdanlast_2: -519368007
+      hagdanlast_20: -446576015
+      hagdanlast_21: 1354183758
+      hagdanlast_22: -487562517
+      hagdanlast_23: 1528799615
+      hagdanlast_24: -927679775
+      hagdanlast_25: 792077620
+      hagdanlast_26: -845040931
+      hagdanlast_27: -815036938
+      hagdanlast_28: -402666948
+      hagdanlast_29: 1144879459
+      hagdanlast_3: 1401556623
+      hagdanlast_30: -778918679
+      hagdanlast_31: -121926403
+      hagdanlast_32: -1163504860
+      hagdanlast_33: 1786475012
+      hagdanlast_34: -189864864
+      hagdanlast_35: -668744907
+      hagdanlast_36: 1035054840
+      hagdanlast_37: -1134804047
+      hagdanlast_38: -1573422060
+      hagdanlast_39: -60180988
+      hagdanlast_4: -1833198102
+      hagdanlast_40: 792837351
+      hagdanlast_41: 1923160863
+      hagdanlast_42: 297824057
+      hagdanlast_43: -1152240969
+      hagdanlast_44: -590708247
+      hagdanlast_45: 1022946720
+      hagdanlast_46: 1048031297
+      hagdanlast_47: 1356275980
+      hagdanlast_48: 1539137690
+      hagdanlast_49: 94441112
+      hagdanlast_5: 2088626818
+      hagdanlast_50: -1476097686
+      hagdanlast_51: 1931757867
+      hagdanlast_52: -242607094
+      hagdanlast_53: -983275193
+      hagdanlast_54: 1053034399
+      hagdanlast_55: -489826332
+      hagdanlast_56: 1236904043
+      hagdanlast_57: -2028124728
+      hagdanlast_58: 1540931731
+      hagdanlast_59: 476472939
+      hagdanlast_6: -800924292
+      hagdanlast_60: 1815867205
+      hagdanlast_61: 999923796
+      hagdanlast_62: 555740830
+      hagdanlast_63: 398052599
+      hagdanlast_64: 573262644
+      hagdanlast_65: 1183751631
+      hagdanlast_66: 461998031
+      hagdanlast_67: 1665978847
+      hagdanlast_68: -1137911509
+      hagdanlast_69: -1326378580
+      hagdanlast_7: -1594617796
+      hagdanlast_70: -542110423
+      hagdanlast_71: 956254410
+      hagdanlast_72: -872288998
+      hagdanlast_73: -958385809
+      hagdanlast_74: 2064126587
+      hagdanlast_75: 1369349793
+      hagdanlast_76: 111939908
+      hagdanlast_77: 815151929
+      hagdanlast_78: -131854199
+      hagdanlast_79: 875354940
+      hagdanlast_8: 2121579496
+      hagdanlast_80: -227435736
+      hagdanlast_81: -587458620
+      hagdanlast_82: -2067118789
+      hagdanlast_83: 1057565296
+      hagdanlast_84: 570125281
+      hagdanlast_85: -1555907699
+      hagdanlast_86: 1414997952
+      hagdanlast_87: -915464209
+      hagdanlast_88: 1526324284
+      hagdanlast_89: 1574566562
+      hagdanlast_9: -2025339321
+      hagdanlast_90: 1218196816
+      hagdanlast_91: 1101484560
+      hagdanlast_92: 709537297
+      hagdanlast_93: -523326564
+      hagdanlast_94: 478291867
+      hagdanlast_95: 201479035
+      hagdanlast_96: -82812333
+      hagdanlast_97: -553955573
+      hagdanlast_98: -1984759285
+      hagdanlast_99: 453212284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

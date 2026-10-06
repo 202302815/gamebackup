@@ -1,0 +1,4321 @@
+fileFormatVersion: 2
+guid: 294c284ad4112bd43846fff590bca5cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5023417372404272671
+    second: dit_side_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dit_side_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e13157d38c394ab0800000000000000
+      internalID: -5023417372404272671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd90ebec4526966438c144ca88e83e12
+      internalID: 794413322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79eb7c0771530e47a73e70416a566a8
+      internalID: -719142445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235e5594e4c26ed469752c1b630c9590
+      internalID: -1579803188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbeb89baca59a0479e3983bb821823e
+      internalID: -400838232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0776b24760113418d908e1c4e0b591
+      internalID: -35557542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca3dce035293ee43b0e18afe242feb6
+      internalID: -1805367695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e822324e39e654c4d9c6df4052a15213
+      internalID: 1128392041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af272e12cd487514991c6d813f1a056a
+      internalID: -2106409808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bcb93b7c42df74fbb961a4c240d495
+      internalID: 2119791784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b6f139dfcd294eb4449a325e419f7
+      internalID: 160423084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e88c36e670f9c840a9fdbe23b8cddbb
+      internalID: 1094902269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ab1ca049382484ea75b7692322cf7c
+      internalID: -1012302138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464eab285d77824448fa707ca0ff7941
+      internalID: 212479167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f1132adab99f94db348aab8aff1ca3
+      internalID: 290094883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65ad9793e812834ea62a3135c7404a3
+      internalID: -1881804798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea015a3686a94794cb04c5bff53edac3
+      internalID: 1787516429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cb5ca6d26d7444293af0fdb7220d24
+      internalID: -889604027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab62deb8f2ddd2d448118266783f5b0d
+      internalID: -1149374306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332dc0a50ba560046a6616d66e7af7ae
+      internalID: 1181439199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9968638c1ac514ca62f6a2a147b3a7
+      internalID: -1341688544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb9551893095c840923e36d993b6c4c
+      internalID: -714076476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d21bc362fa3d44bdd5365da4a368f
+      internalID: -89091361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330fb18908f9a194389bf0c576dedea3
+      internalID: -1533921553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9b640a598f60443a1b6632eb28bc86
+      internalID: 93112736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7457f946d7e894383341f9c2104f95
+      internalID: -949087980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef06a6995eb9cac4588ed1df4d8921ee
+      internalID: -1451410834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e25add7c34b20f4fb2f3528f7941545
+      internalID: -1769358607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d5cf2527bf70743a1235ea0d690d6b
+      internalID: -2064540605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a46b2e6e7ea34191a447557a01007
+      internalID: -19765322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b658ee5eee59cb548acc6b347c65f706
+      internalID: -575738970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ab9c194e6c8a24a9a5b3ded8a3b261
+      internalID: -1208851598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3933a7da4072bb498dd2c7e57f18908
+      internalID: 235153070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c146c0b2adb58d64397c23cf9a6d7de3
+      internalID: -1975207968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabb23caae3de5747b72ebb66a0bd6e7
+      internalID: -1148552103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ed56b2246d5894eb565cd400f07ecb
+      internalID: -332946876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93ee8c92b7fe3d4886903694e2e7e12
+      internalID: 2136217688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b983b571e748a14ca31e44f25f707dc
+      internalID: 1565910136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463caa1d75b3b0940af82c55f8c034e3
+      internalID: 1572034964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b293d577b90457418601f514d31e968
+      internalID: -1511564227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ce42417dbd3b44d9c133a1d6999e99
+      internalID: 1069042997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e92773a6fe9fbb41ac9a71700cfd7fc
+      internalID: -583915597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1e40fc183bc3a448508d17f669db7f
+      internalID: 376549878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f11e61cbf240b4e8d331b91a36b835
+      internalID: -1355009869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e46cc54171def84389a9b0379917def
+      internalID: 1056298330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56f57bdc37bc8c469a10a10328e60bc
+      internalID: 99249399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6334d104fd9255f44beebadfa15dc162
+      internalID: -1993702753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228694a77fac78e4cace49b5ea7653ce
+      internalID: 250040623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e1f80221b439a45b4cf7db3348d0ac
+      internalID: 149743115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fcc5b2cbdea89448e45a6d029a0dd1
+      internalID: 1110524314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df580afe3264bb488e874cffe6e9003
+      internalID: 1751528737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd92a98981d67f14a86e6edbc126506a
+      internalID: 2044398439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a46919d30be4a419ecb682242ead82
+      internalID: 143930517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d739f9518e576784d815ac8da82a6fdc
+      internalID: -1713574854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cc75bf5bd8c9a4d855e7173024c398
+      internalID: 1024855306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7546f1a328b2e4eb4f25a1cf26fe90
+      internalID: 277034193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_56
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1522dd39f6b50a468acdd8755f88c0b
+      internalID: -1750602114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a671ce28c624814ea5269b347f93115
+      internalID: -1399519989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb75ab0af8172544a50f8472cdcc50e
+      internalID: 1719398463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a3283efaeb3c446aec2530c5adeb8f
+      internalID: 2140995389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_60
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cae13a2e313de749bb93a047385c999
+      internalID: -2071221404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80133d85fa6619e43b694487145318e9
+      internalID: 1810087497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535cf0a55da9bde46b4896d3197744d1
+      internalID: 887908651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643a7783592e8a54398199b451d95338
+      internalID: 1482598089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0249dcc946a9304b8a16c5c5a712887
+      internalID: -632119964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275edd459c9dc264482641fc31d2d187
+      internalID: -532627116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ac343883f3e5d4584df386e51fd100
+      internalID: -995242626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e817c09a2a47c41a3f0222298d9116
+      internalID: 1587722110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531a90a29d4defc46808d7c69f29e335
+      internalID: -880770033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273f960160491e34299d8f71a13735c3
+      internalID: 421122668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_70
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f96450d2ab347429c3bf42f0c76149
+      internalID: -985729770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8189ab7eb4023474398f1fcb791923fa
+      internalID: -1923967133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_72
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43efb44f94e7f943882a2d9f2c04aeb
+      internalID: 508776310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7da060e0b196049952ec1b7ce3bef2
+      internalID: 546113372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbc6adcd230db44aa1057489d1ea91b
+      internalID: -237479915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_75
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ca498198faf31478dd8c834c88d903
+      internalID: 1231800051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_76
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242a86199f4fdb647b5f7d68297ec15f
+      internalID: 161724706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c60124c97fe9f48aa77c24bdc85fb6
+      internalID: 414065197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b4b864efd41374abcc1e5353d9d98c
+      internalID: 853321685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fc5c25578d47a41baa064ca79a88fe
+      internalID: 1977381583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3254a00dae231e4fbde97cd4fb6cea2
+      internalID: 78625169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e30672622240949a05b300da8fea05
+      internalID: -1987145819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5b6e7cd5b39e04cbdcb0fdc537ec06
+      internalID: 936026850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_83
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9230ecd13b2abf5429de4fd48af0e0b6
+      internalID: -1391679260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ffc3a4959d5054db4577a363919582
+      internalID: -786662464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50134543944ded4ab769c4a2b7ca213
+      internalID: 2112883549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_86
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbf30c8787b8464bb973c05d2500376
+      internalID: -1624060158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca47d2044e5adb48896fe9a4084c79a
+      internalID: 1305535197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e35733930a159428dcd64e0803a06e
+      internalID: 2121555290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_89
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fd80d0e2cace44db106127db8283ed
+      internalID: 1227276760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5e59f380100594588b74b8005c75c7
+      internalID: 1237535396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1456355a2763b54b98bbf3846ad62e6
+      internalID: -656683390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f86ac87b36cf194f9889fd5d054a420
+      internalID: -2062391884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaaea710b8353f4da31a37611dba0bf
+      internalID: -1983276781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870e26310568e514b823f77a4720ff35
+      internalID: 821758259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062fc74c8d85a7d40917e4001be20975
+      internalID: 122908185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8de2a0f4026a6640a77ee07b45866ad
+      internalID: -1567485591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cff8a6b8e168d4f95a3dd7c23bf07d
+      internalID: -1687022870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fec4239a06d1bf479bf6a530ea3f876
+      internalID: 1239710056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221f19b8139dffc4ea18ce8d5337b427
+      internalID: 231442968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07580644552e7e4b950c9e6435ca9e5
+      internalID: -907047115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_101
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf113fb6701a454d82d1841d18f07c7
+      internalID: -215476764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111b7558ea6dd6649b92d43c7eef7950
+      internalID: 1718671473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00118023819aa77479d9adb985eb54e1
+      internalID: 1947053371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_104
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4af4c872ba021499e09a5647acd618
+      internalID: 1202142927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_105
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8139dbbf8e47bd84a8b193872d3a8951
+      internalID: 1550755456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24962ee4f4093fd4aa3745eb0733bb24
+      internalID: 974607375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a0d1d2e58a40c4bacd167a3b36131d
+      internalID: -65644376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eac4c3ac3b88d54e85a2423b8b3c11e
+      internalID: -1023857633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe957b9a27f99434b8d0d8d43ef5fd7c
+      internalID: 1952459389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc17a2dea0b11aa4c88e5373039645ea
+      internalID: 1425636377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7591be1fb9b2fd24683b61ebaba7776b
+      internalID: 771425028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5edbdc8997adbd43a96e10b34f86a81
+      internalID: 1636849070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24aa10ae20000d46ad30d0dcdf3bdcb
+      internalID: -1661462541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96a61c4f04380a40b3c8c4b3444ac2d
+      internalID: 1163668719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c6081f6da3cb4e81ee29645642faf
+      internalID: -392635385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_116
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fced971c4caec4c8b521cbc67e1995
+      internalID: -262440141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffe41353ac38574a930e5c58b9b8da8
+      internalID: 439532360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_118
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951623ba22a1d574096d19ba85676690
+      internalID: -540699337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976fc7cd6f79ba14890ac4d4e4a00ce9
+      internalID: 1107872941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_120
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8898b05ee75ff8e4eb875215cce41a6d
+      internalID: -1553629844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_121
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7d7a8d9da277b48a770f11fdceef25
+      internalID: -1661002574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8e2825cf57747468c2caca39a29800
+      internalID: 1910479029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a558ac723bd356e46aca23756475881f
+      internalID: 1927009481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f02b7a9e5c9154e9e6ba314b826118
+      internalID: -1340826995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dc5dcc656e4534e877a802fca46718
+      internalID: 374081282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb3aa69d7a383449a8fd4ba5d7b041
+      internalID: -988393936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e8f24b07aa728499aaf36dd8b58a4d
+      internalID: 1083060406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdd89d40f3887941a1f2a44c6f77570
+      internalID: 808268545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b04525870bac964d9dad80f1a7d4f35
+      internalID: -2141833318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d84b3b8ca599084d9534d666bd8688e
+      internalID: -335168520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff06f35b7d582a6448287a0c0f82ba66
+      internalID: 903661664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b13f3b4a9eee240b95c9f178275de1
+      internalID: -1365197362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcdbafd83e7e074b91af8c5adfc7ae5
+      internalID: 542674083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_134
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e359387f660c44ab0517c331b57e9d
+      internalID: -827773855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc8bb4e9827d6c48b4854f83fd9124d
+      internalID: 2044332445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1851205baa4af31419d1675dbc652aef
+      internalID: -90282839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac91aabeb9e8a40baadc451a45d762
+      internalID: -643518438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbbc9681307d9644896861571d4b8ca
+      internalID: 219748314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1841e529eed669468b3a073cf4f7102
+      internalID: 369018456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa870e979e2fb340b4d8ba81f843eed
+      internalID: 1450711846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a91559856c4e14ea6c2d5d5cc7278a
+      internalID: -447593746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36772fc5bcfbfbf448c59f383e02622b
+      internalID: -1389211493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe955b181893e469a132373d22cfa6
+      internalID: -1381214548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70976a0478259ca49a7757606766c448
+      internalID: 1242837431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd5488660ebb0644b2cc0d2b6ae517d
+      internalID: 719544612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b066e23dfcf4157489228fd0bb5c4a1e
+      internalID: -474742077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf26d65fe3f77a4c9d7fc33617157e8
+      internalID: 1191062730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46258d481a9e73a4d9a0258d314b066f
+      internalID: 2073935407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_149
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de98a5a216ef3e448117de81a436921
+      internalID: -1988832115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ababde1989e3248b1119e7661c2fbb
+      internalID: -2036701810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_151
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64d37e419127424f82f6d62122ce58c
+      internalID: 1369009268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f620ac6d7ff27439cc33bea9253ffa
+      internalID: -683849631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7f63922dae6664f8bd46d2a7a53d40
+      internalID: 1949887875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d119f44461f52a542bea020ead543f7d
+      internalID: -1626028665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_155
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1821a5181a88845821d606edb19500
+      internalID: 1978512952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780b0479f14ece447b9f74ace622fdaf
+      internalID: -1136761079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_157
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa7eac44c6de354481abcd2dea45e8a
+      internalID: -716201843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa568d26aff3e554eb63111dddebeab5
+      internalID: 150588115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e15468160047ff408ca53cf1077a315
+      internalID: 1656416127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_160
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcf34969d41e3942a0ee064b1e8d205
+      internalID: -256567623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_161
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92fc42aaa8b770459e9be7d0ffa5684
+      internalID: -2120710684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_162
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c466c3bb4d57344a35fd8a2b7d08da
+      internalID: -571667025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_163
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c36e9ae63bd381498aed473935c5936
+      internalID: 1865912442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_164
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230dfbbdaaf8ae44283801a09cc14a96
+      internalID: -1597165453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_165
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3468dea2d6cd49c45bcc37437a9ed844
+      internalID: -192233620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_166
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17749e78e8306ff41aa88e199271bf92
+      internalID: 915113111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_167
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128dee9cfefe64d42843895b40caa634
+      internalID: -736812932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0939192e35e08864fadf3fde53d484a0
+      internalID: 1912198237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1adc2d2fa074494c90e477482938b22
+      internalID: -1706249486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1654c94f52ef23844926e4dde094e4f1
+      internalID: -353172990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d51057cbdf18d48859c66f53da4d6a
+      internalID: -707071322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_172
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a5626b515d835408572baffe170d14
+      internalID: -1336609624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_173
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95017ccb010da064a865b365114bbc36
+      internalID: 1443150286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43348b078147db42b05d4a12e2a159c
+      internalID: 2074861173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_175
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26615de8844e4249a9b350e02590b6e
+      internalID: -1577663607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_176
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb2852dfe69cec49acc82d803468c80
+      internalID: -1169463984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_177
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a2ba5d9193fee40b50228226d21735
+      internalID: -703706514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_178
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb99606ab43be5c468c6c0fbfe8f0534
+      internalID: 1856735721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_179
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b8f33575fe39b41acb345820e3d693
+      internalID: 1361568028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_180
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79527b3da7589b45af0ddfb59515779
+      internalID: 1126477355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dit_side_181
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0453a9dc916fd4a8f273a873ca7691
+      internalID: -1918605073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 43bcd05e69cf2f748b046e679d50e314
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      dit_side_0: -5023417372404272671
+      dit_side_1: 794413322
+      dit_side_10: 160423084
+      dit_side_100: -907047115
+      dit_side_101: -215476764
+      dit_side_102: 1718671473
+      dit_side_103: 1947053371
+      dit_side_104: 1202142927
+      dit_side_105: 1550755456
+      dit_side_106: 974607375
+      dit_side_107: -65644376
+      dit_side_108: -1023857633
+      dit_side_109: 1952459389
+      dit_side_11: 1094902269
+      dit_side_110: 1425636377
+      dit_side_111: 771425028
+      dit_side_112: 1636849070
+      dit_side_113: -1661462541
+      dit_side_114: 1163668719
+      dit_side_115: -392635385
+      dit_side_116: -262440141
+      dit_side_117: 439532360
+      dit_side_118: -540699337
+      dit_side_119: 1107872941
+      dit_side_12: -1012302138
+      dit_side_120: -1553629844
+      dit_side_121: -1661002574
+      dit_side_122: 1910479029
+      dit_side_123: 1927009481
+      dit_side_124: -1340826995
+      dit_side_125: 374081282
+      dit_side_126: -988393936
+      dit_side_127: 1083060406
+      dit_side_128: 808268545
+      dit_side_129: -2141833318
+      dit_side_13: 212479167
+      dit_side_130: -335168520
+      dit_side_131: 903661664
+      dit_side_132: -1365197362
+      dit_side_133: 542674083
+      dit_side_134: -827773855
+      dit_side_135: 2044332445
+      dit_side_136: -90282839
+      dit_side_137: -643518438
+      dit_side_138: 219748314
+      dit_side_139: 369018456
+      dit_side_14: 290094883
+      dit_side_140: 1450711846
+      dit_side_141: -447593746
+      dit_side_142: -1389211493
+      dit_side_143: -1381214548
+      dit_side_144: 1242837431
+      dit_side_145: 719544612
+      dit_side_146: -474742077
+      dit_side_147: 1191062730
+      dit_side_148: 2073935407
+      dit_side_149: -1988832115
+      dit_side_15: -1881804798
+      dit_side_150: -2036701810
+      dit_side_151: 1369009268
+      dit_side_152: -683849631
+      dit_side_153: 1949887875
+      dit_side_154: -1626028665
+      dit_side_155: 1978512952
+      dit_side_156: -1136761079
+      dit_side_157: -716201843
+      dit_side_158: 150588115
+      dit_side_159: 1656416127
+      dit_side_16: 1787516429
+      dit_side_160: -256567623
+      dit_side_161: -2120710684
+      dit_side_162: -571667025
+      dit_side_163: 1865912442
+      dit_side_164: -1597165453
+      dit_side_165: -192233620
+      dit_side_166: 915113111
+      dit_side_167: -736812932
+      dit_side_168: 1912198237
+      dit_side_169: -1706249486
+      dit_side_17: -889604027
+      dit_side_170: -353172990
+      dit_side_171: -707071322
+      dit_side_172: -1336609624
+      dit_side_173: 1443150286
+      dit_side_174: 2074861173
+      dit_side_175: -1577663607
+      dit_side_176: -1169463984
+      dit_side_177: -703706514
+      dit_side_178: 1856735721
+      dit_side_179: 1361568028
+      dit_side_18: -1149374306
+      dit_side_180: 1126477355
+      dit_side_181: -1918605073
+      dit_side_19: 1181439199
+      dit_side_2: -719142445
+      dit_side_20: -1341688544
+      dit_side_21: -714076476
+      dit_side_22: -89091361
+      dit_side_23: -1533921553
+      dit_side_24: 93112736
+      dit_side_25: -949087980
+      dit_side_26: -1451410834
+      dit_side_27: -1769358607
+      dit_side_28: -2064540605
+      dit_side_29: -19765322
+      dit_side_3: -1579803188
+      dit_side_30: -575738970
+      dit_side_31: -1208851598
+      dit_side_32: 235153070
+      dit_side_33: -1975207968
+      dit_side_34: -1148552103
+      dit_side_35: -332946876
+      dit_side_36: 2136217688
+      dit_side_37: 1565910136
+      dit_side_38: 1572034964
+      dit_side_39: -1511564227
+      dit_side_4: -400838232
+      dit_side_40: 1069042997
+      dit_side_41: -583915597
+      dit_side_42: 376549878
+      dit_side_43: -1355009869
+      dit_side_44: 1056298330
+      dit_side_45: 99249399
+      dit_side_46: -1993702753
+      dit_side_47: 250040623
+      dit_side_48: 149743115
+      dit_side_49: 1110524314
+      dit_side_5: -35557542
+      dit_side_50: 1751528737
+      dit_side_51: 2044398439
+      dit_side_52: 143930517
+      dit_side_53: -1713574854
+      dit_side_54: 1024855306
+      dit_side_55: 277034193
+      dit_side_56: -1750602114
+      dit_side_57: -1399519989
+      dit_side_58: 1719398463
+      dit_side_59: 2140995389
+      dit_side_6: -1805367695
+      dit_side_60: -2071221404
+      dit_side_61: 1810087497
+      dit_side_62: 887908651
+      dit_side_63: 1482598089
+      dit_side_64: -632119964
+      dit_side_65: -532627116
+      dit_side_66: -995242626
+      dit_side_67: 1587722110
+      dit_side_68: -880770033
+      dit_side_69: 421122668
+      dit_side_7: 1128392041
+      dit_side_70: -985729770
+      dit_side_71: -1923967133
+      dit_side_72: 508776310
+      dit_side_73: 546113372
+      dit_side_74: -237479915
+      dit_side_75: 1231800051
+      dit_side_76: 161724706
+      dit_side_77: 414065197
+      dit_side_78: 853321685
+      dit_side_79: 1977381583
+      dit_side_8: -2106409808
+      dit_side_80: 78625169
+      dit_side_81: -1987145819
+      dit_side_82: 936026850
+      dit_side_83: -1391679260
+      dit_side_84: -786662464
+      dit_side_85: 2112883549
+      dit_side_86: -1624060158
+      dit_side_87: 1305535197
+      dit_side_88: 2121555290
+      dit_side_89: 1227276760
+      dit_side_9: 2119791784
+      dit_side_90: 1237535396
+      dit_side_91: -656683390
+      dit_side_92: -2062391884
+      dit_side_93: -1983276781
+      dit_side_94: 821758259
+      dit_side_95: 122908185
+      dit_side_96: -1567485591
+      dit_side_97: -1687022870
+      dit_side_98: 1239710056
+      dit_side_99: 231442968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1607 @@
+fileFormatVersion: 2
+guid: 7b10825c9f5d1a64ba2d3a3255405ff8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8099967096772461714
+    second: AgriMachineLab_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 56
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AgriMachineLab_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 456
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2948977b82dd86070800000000000000
+      internalID: 8099967096772461714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175c7220b01a6a142b69f1cb3e84e711
+      internalID: 2077935743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 400
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d131e85bfad2c9e479c6cdacb326e1d5
+      internalID: -1561608050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76317c3789094cb4399d29b864f9f8ac
+      internalID: -1688691070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 400
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21d4543651a9b54c86f4de70062b707
+      internalID: -1726987748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 400
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d622db19099084985a2f2097d64f1c
+      internalID: -1742109041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 400
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50fe0a8482ac524d8b368677c2ab2eb
+      internalID: -1905325690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 400
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d229737dd7666d45a303ab08a77eefa
+      internalID: -1019059465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 400
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186e07c7996cc8b49b136bc83b22bbf1
+      internalID: -1720004566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 400
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ca78744e769a248aeea9888c812d96
+      internalID: 557530825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2245215b1c1b635449582f7275729648
+      internalID: -1958942728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 344
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee408d5d2235f84ebbd47df1dff51ad
+      internalID: -268252772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 344
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d44303f595f17e4696ae75c2cbc67f0
+      internalID: 982008888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 344
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7826a21e95d4b24bba0f1cb51187fec
+      internalID: 1214927698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 344
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b1bd1946053d49816e3152802a315
+      internalID: -1794230922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 344
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625a0c43c7dcc12488821f7886905693
+      internalID: -4509934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 344
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc07214f67566794f88bff21de2cf83a
+      internalID: 1697880961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 344
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cebd05157e3444595acf15ef41395d
+      internalID: -2141932301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 344
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf36e854eb2d9a4a9c309d33898ab6f
+      internalID: -954291302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649b3ca3cbebc2648bfe5ec9fae40352
+      internalID: -925028827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e79ddf8f9ecaf4cb0a4be91a267dd4
+      internalID: 645257366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f49ab6c17bb2334c95acde4d73caba0
+      internalID: -1134853187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513a9ac1fe7e61248ade446739e26870
+      internalID: 878558181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a3c489dd6c3d345a979f1614824d58
+      internalID: 1154980661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc07ec2f18fe9e48b33deda9343622f
+      internalID: -756739653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0cc2ff1980dd74cab7494a3882be90
+      internalID: -1783983822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14357b7f964a914190225bf59b42f5f
+      internalID: -161604069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577287747fbdd294ba79594dcb8b58d3
+      internalID: 1297287453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cbe928bdd6ea94a86cbcbcafc98eeb
+      internalID: -1711676779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 232
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66d2c871b7eb074b9e7fb9ccac9fdde
+      internalID: 1114032587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 232
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c657c259d602e164aac60f091bb8c083
+      internalID: 1429999290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 232
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b6c940176f5a449481495aa8c46cb
+      internalID: -1362132207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 232
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d9315bfb7e33748affbe211df4a26d
+      internalID: -602411933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 232
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6627f398527dd64b8a8bf2bb626b8d7
+      internalID: -639852757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 232
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ead274995cc3914f8117668f02992e9
+      internalID: -972831362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 232
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd3e0069dae19d45a8e6235f4541cef
+      internalID: -500818587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 232
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c21ec4b34d333a418fdfdb487191360
+      internalID: -412422947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09776fd24e7513440a254567919dd897
+      internalID: -402022483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 176
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059042ef3ce05fe49b92cc9368cb3af0
+      internalID: -1869287504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ed0bbfde98a124faef81c09de75d18
+      internalID: 335966916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 176
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c581b1e067df0647942e249d0698510
+      internalID: 1906181822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efff96f882895d74baa3845857ca2828
+      internalID: -552695860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 176
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e6668144d56784b97c13c82f62f988
+      internalID: -2081677293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc6b7d6fcc201b488360cd8ed7ec7a8
+      internalID: -1308353016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 176
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb8039f30a4274bacfd2350bb86e28
+      internalID: 882189625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 176
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd402727c3dac3478e5440612cca905
+      internalID: -704739534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb9ff25ce78c346945ff6cd39674a1
+      internalID: -1454205623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d07bf81d0087f64ebbb5254f14c9d27
+      internalID: 1017585217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c773d13a312382049a43d9c8deb53342
+      internalID: -1589607329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f5da23db30ee547a2b338cd4ff868a
+      internalID: 1160061760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21e066beead8b04a98c5104ffd0eee3
+      internalID: 1192912421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 120
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a9719376c87ac4985e43cab0429858
+      internalID: -1335630053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d2323ffb1a0c44f80de08aff25aa20
+      internalID: 152401648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_53
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 120
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddf5ca85dba48f46afe36c19c7a847b
+      internalID: -890482213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 120
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0330c302b5dd25945aa3379e76bdd6c0
+      internalID: -90220315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d51486332e440f48bb7ec8cfbbdbecc
+      internalID: 1015609717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd1808d62dbb064d815ed55966e5938
+      internalID: -242896547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba8005051e31e1419fbb89b9c3bed2b
+      internalID: -1311871586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8b98a4288901944a5940da8871a27c
+      internalID: 1123732264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd90ba65c14ff34581422bee6b3e6d6
+      internalID: -81591326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 64
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbf550404293a24fb907bd038540bac
+      internalID: -105718992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2079be92cf3be61429c3198380a0c86d
+      internalID: 113197060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_62
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 64
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ec8038fcaf8845a6de11474a6bdb5
+      internalID: -823413325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgriMachineLab_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79fb4dac913b934fb9610a016812610
+      internalID: -1119512248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: aadfe8a5b518d8d438f9817d5bbb5938
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":56.0,"y":56.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      AgriMachineLab_0: 8099967096772461714
+      AgriMachineLab_1: 2077935743
+      AgriMachineLab_10: -1958942728
+      AgriMachineLab_11: -268252772
+      AgriMachineLab_12: 982008888
+      AgriMachineLab_13: 1214927698
+      AgriMachineLab_14: -1794230922
+      AgriMachineLab_15: -4509934
+      AgriMachineLab_16: 1697880961
+      AgriMachineLab_17: -2141932301
+      AgriMachineLab_18: -954291302
+      AgriMachineLab_19: -925028827
+      AgriMachineLab_2: -1561608050
+      AgriMachineLab_20: 645257366
+      AgriMachineLab_21: -1134853187
+      AgriMachineLab_22: 878558181
+      AgriMachineLab_23: 1154980661
+      AgriMachineLab_24: -756739653
+      AgriMachineLab_25: -1783983822
+      AgriMachineLab_26: -161604069
+      AgriMachineLab_27: 1297287453
+      AgriMachineLab_28: -1711676779
+      AgriMachineLab_29: 1114032587
+      AgriMachineLab_3: -1688691070
+      AgriMachineLab_30: 1429999290
+      AgriMachineLab_31: -1362132207
+      AgriMachineLab_32: -602411933
+      AgriMachineLab_33: -639852757
+      AgriMachineLab_34: -972831362
+      AgriMachineLab_35: -500818587
+      AgriMachineLab_36: -412422947
+      AgriMachineLab_37: -402022483
+      AgriMachineLab_38: -1869287504
+      AgriMachineLab_39: 335966916
+      AgriMachineLab_4: -1726987748
+      AgriMachineLab_40: 1906181822
+      AgriMachineLab_41: -552695860
+      AgriMachineLab_42: -2081677293
+      AgriMachineLab_43: -1308353016
+      AgriMachineLab_44: 882189625
+      AgriMachineLab_45: -704739534
+      AgriMachineLab_46: -1454205623
+      AgriMachineLab_47: 1017585217
+      AgriMachineLab_48: -1589607329
+      AgriMachineLab_49: 1160061760
+      AgriMachineLab_5: -1742109041
+      AgriMachineLab_50: 1192912421
+      AgriMachineLab_51: -1335630053
+      AgriMachineLab_52: 152401648
+      AgriMachineLab_53: -890482213
+      AgriMachineLab_54: -90220315
+      AgriMachineLab_55: 1015609717
+      AgriMachineLab_56: -242896547
+      AgriMachineLab_57: -1311871586
+      AgriMachineLab_58: 1123732264
+      AgriMachineLab_59: -81591326
+      AgriMachineLab_6: -1905325690
+      AgriMachineLab_60: -105718992
+      AgriMachineLab_61: 113197060
+      AgriMachineLab_62: -823413325
+      AgriMachineLab_63: -1119512248
+      AgriMachineLab_7: -1019059465
+      AgriMachineLab_8: -1720004566
+      AgriMachineLab_9: 557530825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

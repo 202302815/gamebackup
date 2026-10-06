@@ -1,0 +1,2126 @@
+fileFormatVersion: 2
+guid: 4ee2d66df484e8341ac4d6998863eaaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8939048923810553257
+    second: tballlines-removebg-preview 1_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_0
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7522f6a6d5e12f380800000000000000
+      internalID: -8939048923810553257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 310
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7f167024d57f344a27f5d9ef23b9fe
+      internalID: 597214625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a39a6d7d30d9d7408eb8c35c2127951
+      internalID: -1701957017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d6211115cad494495faa02236cabc2
+      internalID: 645130073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1151ad4ea14c0d2479b530ff9256bd7c
+      internalID: -784302539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f50b798888b55f4aa4a0a3a14892847
+      internalID: -414847512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d3042bb0da85643b2797be82fe4b4e
+      internalID: -399523841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa53665ca384a141953789308e02cf9
+      internalID: 895047402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef074008a249055449c1463bc3ef57b0
+      internalID: -1411676908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5614caffa4486f148a0ae8612c745f0a
+      internalID: -1885126055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96705f7f3da59784d81d4e81557f3283
+      internalID: -1578497998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea837992f7adff04dbd4fc6477b5cf79
+      internalID: 86193151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5540cd25bef8ca4697bfcce8bfa9480
+      internalID: -643306737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_13
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b432a2ab93973f54fb141d8f3361ab3b
+      internalID: 945264638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 280
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d255d79a17ce04cac7b7d2c11116fd
+      internalID: 40043637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a2e6baa513e9f4c8cc0d61cf31dc48
+      internalID: 950491326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee85af31c2010a43a71b6b2f51d7994
+      internalID: 1189246510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0f12a9fe4bfa646894d9beff43048a
+      internalID: -961099821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d4ac125b0a68a489101ea49b1704de
+      internalID: 540297106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61436687b0d98f4f881b73fd141f06b
+      internalID: 215805787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052d4c5bbaa319b40bc237156537acb2
+      internalID: -372747051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c305d95b13d52a74a85dbd6d212dc945
+      internalID: -1113379227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d466fff0cc8c9429fb1ee3f98ff731
+      internalID: 524974664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1745c59cebb418c4cad0f3c8e191bbe0
+      internalID: -2074790767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf8410d314b2940b1901c4def48924
+      internalID: 1584876817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5e03a01d30534e99b7e4982a77f7c
+      internalID: -75055732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cb5f14a6807894a8a5ff3814bbc6f4
+      internalID: 26673205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 250
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3664c4deb38227e48b362b941e0c3cd9
+      internalID: -1951739579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8880d3d2d7194141b9bd0b6c8199527
+      internalID: 1218451735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d540993c09b9f6845b2c16dd124012a1
+      internalID: -1446554879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59ba00bea55a024f9fe3747f3476dc0
+      internalID: -645139256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faba78b9864ae347ac9db125d0d6828
+      internalID: 899391858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e6aabd24faaa4c86699e3ef16f9c8
+      internalID: 416401232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dab17a499b6e94387703fb2756c6d8
+      internalID: -82668500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb3a25c1799974da6fa2cc76db9a46
+      internalID: -625124699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266f788a6d842ce4299aba9565cb4a3f
+      internalID: 1335455104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b4686aad8192147926d3fbfe229cb2
+      internalID: 575663260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_37
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c815427bab6004c97ad5e282a9c6ce
+      internalID: -1385750916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af1a91aa4f700e47aa48992e269862c
+      internalID: -871967355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501eb127ead333640959e1ce5136d9a5
+      internalID: -1967383934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd34b41328a79a14a9c608e03840c1df
+      internalID: -195840680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9dd5c6fd7e254c8dfb2c784246c47
+      internalID: 279182137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_42
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15cb5be8506f1e4f9dcecbae8c71d92
+      internalID: -631926242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f394c2412b54a7740ae3ff58cdcb6f6c
+      internalID: -1115410667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6721c586cba4664399c8b54125f2b0c
+      internalID: -1611268660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a1413acf33b447a1b91b12ee8639d
+      internalID: 312311357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d70b0d442d252349b6563d89b516512
+      internalID: -227561560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d40ca0b8c190747b3780781d5d6228
+      internalID: -1900331516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_48
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519f440f64438774da010da63286563c
+      internalID: 80440621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f3bdc7a0f123241b3350a5ed904244
+      internalID: -1652956011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334b2ef349952834492e250deb86f5ff
+      internalID: 866463785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce419a85c263f93459737733aac53734
+      internalID: 1268856171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2659f945066b5dd41bd4f66267b0e165
+      internalID: 1638921713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9232ac75eb130f143ba3a42fa84f510c
+      internalID: 341738214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558891b98012f90499fae86f7c7517d7
+      internalID: -1308421205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c64069d78ac9b4ca34d1c180c62b12
+      internalID: -954292642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd532a1f5c9813348b2f232b795bdd8b
+      internalID: -1041465314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_57
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75578f83e85058f4d96831366a2e31d2
+      internalID: -1163731030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d617b18bbb551934682cfdfe410d34f1
+      internalID: 1147305480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00424c25738c8a4998e057dabb7a159
+      internalID: -1766889892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_60
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b1295d3aebd0244a33aa50787439d6
+      internalID: 709791043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c37953046476384e82529ab61839c47
+      internalID: 1688534302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de76f9387c96f4b9ead54f56a86287
+      internalID: -1199995332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57780cb76dc7d3842ab421ebefc53148
+      internalID: 1241835515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_64
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd7eb07b3c5de4bba3c8cd50067cd0
+      internalID: 541612647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_65
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e65f4f3a34b6546aad1dc8cc7afb15
+      internalID: -740700340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d107a1e98651b94c867b927e95f34c8
+      internalID: 1915718010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_67
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af71d45f71b7b74a8e187de36ea0e41
+      internalID: -560363451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_68
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970cac0843904d8458f7d7a82ca10dc0
+      internalID: 603898810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_69
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb05a32087627d469012df9a31de977
+      internalID: 880171385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_70
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21e94fb04ed2604fb96f1b908b406f7
+      internalID: 872198487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f628385f3c1844684e8575f467da56
+      internalID: 1238187407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_72
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339870ad9f24558429fe26c8f3126b84
+      internalID: -1417249397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_73
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6bb7ec247dfde429d477df69594ed2
+      internalID: 1674994787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_74
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cfe1ad6e303ba41b4048fd1d5e1e8f
+      internalID: -412856147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd50c595e88377428cdd9dd0227d778
+      internalID: -1583893005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f186cadad07114abaf14f6a60947b5
+      internalID: -1073338958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_77
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedae71948e6c9e42b9c504e1cf0b593
+      internalID: -1956010892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_78
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8793af9f40b00e241a3263e5eaeec456
+      internalID: 992425799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae495c4615a0b64b86c1123152fc69c
+      internalID: 217232749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_80
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa30fdee2ab9a7a47a92bc5a50098fba
+      internalID: 828355559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_81
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a142d45cc46c319468d767a3426eca49
+      internalID: -850927836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_82
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c3c01ef2702644dac19d086f41ef95
+      internalID: -982979605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_83
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 100
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5628cf6ad8d03a47b07601bdb852be4
+      internalID: -359655065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_84
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25660f0f21b0b1a4e8d069e2b8b776d9
+      internalID: 692797909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tballlines-removebg-preview 1_85
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5156db0ce7e1b8843ae5fe8f4d69e4d4
+      internalID: -1712240172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 27d64792fb952d94c9f3c3387611a2a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":30.0,"y":30.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tballlines-removebg-preview 1_0: -8939048923810553257
+      tballlines-removebg-preview 1_1: 597214625
+      tballlines-removebg-preview 1_10: -1578497998
+      tballlines-removebg-preview 1_11: 86193151
+      tballlines-removebg-preview 1_12: -643306737
+      tballlines-removebg-preview 1_13: 945264638
+      tballlines-removebg-preview 1_14: 40043637
+      tballlines-removebg-preview 1_15: 950491326
+      tballlines-removebg-preview 1_16: 1189246510
+      tballlines-removebg-preview 1_17: -961099821
+      tballlines-removebg-preview 1_18: 540297106
+      tballlines-removebg-preview 1_19: 215805787
+      tballlines-removebg-preview 1_2: -1701957017
+      tballlines-removebg-preview 1_20: -372747051
+      tballlines-removebg-preview 1_21: -1113379227
+      tballlines-removebg-preview 1_22: 524974664
+      tballlines-removebg-preview 1_23: -2074790767
+      tballlines-removebg-preview 1_24: 1584876817
+      tballlines-removebg-preview 1_25: -75055732
+      tballlines-removebg-preview 1_26: 26673205
+      tballlines-removebg-preview 1_27: -1951739579
+      tballlines-removebg-preview 1_28: 1218451735
+      tballlines-removebg-preview 1_29: -1446554879
+      tballlines-removebg-preview 1_3: 645130073
+      tballlines-removebg-preview 1_30: -645139256
+      tballlines-removebg-preview 1_31: 899391858
+      tballlines-removebg-preview 1_32: 416401232
+      tballlines-removebg-preview 1_33: -82668500
+      tballlines-removebg-preview 1_34: -625124699
+      tballlines-removebg-preview 1_35: 1335455104
+      tballlines-removebg-preview 1_36: 575663260
+      tballlines-removebg-preview 1_37: -1385750916
+      tballlines-removebg-preview 1_38: -871967355
+      tballlines-removebg-preview 1_39: -1967383934
+      tballlines-removebg-preview 1_4: -784302539
+      tballlines-removebg-preview 1_40: -195840680
+      tballlines-removebg-preview 1_41: 279182137
+      tballlines-removebg-preview 1_42: -631926242
+      tballlines-removebg-preview 1_43: -1115410667
+      tballlines-removebg-preview 1_44: -1611268660
+      tballlines-removebg-preview 1_45: 312311357
+      tballlines-removebg-preview 1_46: -227561560
+      tballlines-removebg-preview 1_47: -1900331516
+      tballlines-removebg-preview 1_48: 80440621
+      tballlines-removebg-preview 1_49: -1652956011
+      tballlines-removebg-preview 1_5: -414847512
+      tballlines-removebg-preview 1_50: 866463785
+      tballlines-removebg-preview 1_51: 1268856171
+      tballlines-removebg-preview 1_52: 1638921713
+      tballlines-removebg-preview 1_53: 341738214
+      tballlines-removebg-preview 1_54: -1308421205
+      tballlines-removebg-preview 1_55: -954292642
+      tballlines-removebg-preview 1_56: -1041465314
+      tballlines-removebg-preview 1_57: -1163731030
+      tballlines-removebg-preview 1_58: 1147305480
+      tballlines-removebg-preview 1_59: -1766889892
+      tballlines-removebg-preview 1_6: -399523841
+      tballlines-removebg-preview 1_60: 709791043
+      tballlines-removebg-preview 1_61: 1688534302
+      tballlines-removebg-preview 1_62: -1199995332
+      tballlines-removebg-preview 1_63: 1241835515
+      tballlines-removebg-preview 1_64: 541612647
+      tballlines-removebg-preview 1_65: -740700340
+      tballlines-removebg-preview 1_66: 1915718010
+      tballlines-removebg-preview 1_67: -560363451
+      tballlines-removebg-preview 1_68: 603898810
+      tballlines-removebg-preview 1_69: 880171385
+      tballlines-removebg-preview 1_7: 895047402
+      tballlines-removebg-preview 1_70: 872198487
+      tballlines-removebg-preview 1_71: 1238187407
+      tballlines-removebg-preview 1_72: -1417249397
+      tballlines-removebg-preview 1_73: 1674994787
+      tballlines-removebg-preview 1_74: -412856147
+      tballlines-removebg-preview 1_75: -1583893005
+      tballlines-removebg-preview 1_76: -1073338958
+      tballlines-removebg-preview 1_77: -1956010892
+      tballlines-removebg-preview 1_78: 992425799
+      tballlines-removebg-preview 1_79: 217232749
+      tballlines-removebg-preview 1_8: -1411676908
+      tballlines-removebg-preview 1_80: 828355559
+      tballlines-removebg-preview 1_81: -850927836
+      tballlines-removebg-preview 1_82: -982979605
+      tballlines-removebg-preview 1_83: -359655065
+      tballlines-removebg-preview 1_84: 692797909
+      tballlines-removebg-preview 1_85: -1712240172
+      tballlines-removebg-preview 1_9: -1885126055
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

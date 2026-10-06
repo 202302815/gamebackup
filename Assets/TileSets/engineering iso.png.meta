@@ -1,0 +1,4127 @@
+fileFormatVersion: 2
+guid: eae14b406fd8eff4eb34cb04a52cc761
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7073505341246537892
+    second: engineering iso_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: engineering iso_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ffb228e5cd5dd90800000000000000
+      internalID: -7073505341246537892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ee72cebfe788a44bc6b2c19cbc4bb3
+      internalID: -1963709447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3625df3cdf0fb42ac907c03dc3e9d0
+      internalID: -1680842889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa453fcc27451a94b89d83779cd275ce
+      internalID: 299215383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b2471a02489944ab628a1c0acb806b
+      internalID: 1589545874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b778310b6818aa0458e7afbe1d8565c9
+      internalID: -1141462607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1921af2507f3f4889df568bd5477f3
+      internalID: 2104385187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d7504cddd1b274ea66d1bacbc649ac
+      internalID: 877157942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa3e03047aa59b4491a5226dd56688e
+      internalID: 990364982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cd387ae6a935344bfc234efb333f2c
+      internalID: -2070678465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5a8bb066ecc9d45b6e647493f02ae5
+      internalID: -1208431720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15faa542bb812c5498e26f711dfc6345
+      internalID: -1301109654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214661997564a9946800260bf7f6b3e7
+      internalID: -1638414356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5992084dae3b74d8887814774363ca
+      internalID: -634388322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0943ab031e58014dbe6fb6ca576bba7
+      internalID: -1163980013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018278a7ff13aa44595b97ce24d94f5b
+      internalID: -2009785412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e498529e61f9a1a4eb3764ac668aa672
+      internalID: 1624710688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c78a0e8ccda28b4e94f6dd823873e2e
+      internalID: 913749436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32af5e0349ee8c40a77b70391afa622
+      internalID: 217229989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4441cbf7fc35816449c19422a55adcd3
+      internalID: -741908043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475b285adeb86fd45bb82971435e94ca
+      internalID: 704710516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c042d7084834a4a9400d3853e7b65e
+      internalID: 1783155657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbd527927795f74a8033d62c56968ca
+      internalID: -1902246741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0356a96ada70dce428563504b601bd90
+      internalID: -1003637228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f281014e1a69434e8aa8aa013750cb0
+      internalID: -1169031309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a882333f752481a4ea42f9769e6c0fac
+      internalID: -308685542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679baf921b0833a4ab56d68551482041
+      internalID: -1257185168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182520b4c4da5434c8caa4437825499e
+      internalID: -1550905014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cda622be8ced4e4e8ee02edd43a9ce0
+      internalID: 1703749057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea515292a121c248acf0f314fa5d566
+      internalID: 500693224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e3ad423513524da735497dbbd7442
+      internalID: -1427859515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12977139d1357f046b75872024deed09
+      internalID: -941128628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947d2656858af2543ba61388d688551d
+      internalID: 2047202079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f298ad69029694bbf8287ea62798a6
+      internalID: 100945224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1496ad6522338824681bdc529320b6b1
+      internalID: 1595160664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea1a4b8174cef44aa2fa1d573944ace
+      internalID: -1818024379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521a67c33f6c2ed459805c9abe96a263
+      internalID: 1259332760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097d976a87c64c043a492a4c37d3086e
+      internalID: 1769102428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cf8c63936019b4fabc11de1a2feb93
+      internalID: -384464049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f61cbe5a0244a042afa5c860a7e70e9
+      internalID: -402440833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa7cbb838446dc4ba97adad5cc07846
+      internalID: -33557604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ad0e031cdd366479e122a1728272a3
+      internalID: -1056708043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d47d080e678e3149b68d5c0805678f7
+      internalID: -25929078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57423e26ae5d5d140b680d0656446d04
+      internalID: 1526759622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a48ef0226bd63439176801dba49427
+      internalID: -1839808867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32078b3d9065e684f97450c50b16fb2f
+      internalID: 649454693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc0026647daaaf46a0f4f5a7984f09d
+      internalID: -428956385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03b321ab7b1b9641960789ea782ef01
+      internalID: 233231951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c17c49e9b732924b91e12ecf3281ee8
+      internalID: -571448017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd508f6f618e70840bb93685d73ab733
+      internalID: 438704423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_50
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18ed8ceeae446f4a8036b24f7d607bb
+      internalID: -198126830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b14183eeb732d4ba25573dc71164a5
+      internalID: 1347087084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e998cb5ccda7540ad153adaf968aad
+      internalID: -536502418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d0b5ed006625949a570c3f33890080
+      internalID: -996917410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab08b853816ebf46b5d0260bc3cd619
+      internalID: 1497308308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5217af66b276c694c8415118b06f4f35
+      internalID: 1665589757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51666b0bb52aa6f45881f899e2fb67fa
+      internalID: -646561099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2476c5a92db990f4182dd18f0d3dd72f
+      internalID: -1495166203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff273d6d2da43e4abfb5fb6d8f09a6e
+      internalID: -1821343121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670758ca8dbde33419b585229da59289
+      internalID: -1200196054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eada11f2ee23c145a45dbfb730238da
+      internalID: -1614730343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc4818597eb4174aa8579a56efe91bc
+      internalID: -1043991980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92e81f4c42ba304aaca383d05330065
+      internalID: -1369735691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e673e77971399245a346f42f758c980
+      internalID: -539201338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7223b479924fd62469bc332c0a70f708
+      internalID: 1635449388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_65
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972357df618a5d541b207dee7fd8433c
+      internalID: -1719162087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9510fba4c3c40bf45b3cff044d3701c5
+      internalID: -1408953020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fba1ce40a00db4fb5936308498ffd5
+      internalID: -778733461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a5e926e81bf5943a629de240fe94ba
+      internalID: -1411740449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b65ddbfd4bf26c43a3d5187c205d123
+      internalID: 1334441126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535705dfd6f711840b1327985d70b829
+      internalID: -1398809159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc99672eda5fcbb4ca490ce5e3ae8ab0
+      internalID: 861399395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0eca9fb6bc32749a5c10413e918d23
+      internalID: 2105813848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9a89cc0a4f5874e874106c23801aae
+      internalID: 1281978507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ff05112022af74494c27778cc638be
+      internalID: 190295992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce69b34cbc10274385b5c97e5181166
+      internalID: 1479299340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf4b0e0c1047b44937d45e14e05e9d
+      internalID: 213456111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407e4333977e50047b43cd300c148010
+      internalID: -1007340410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241af0b18db5b8440af077276a076d66
+      internalID: -560017580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b8d393fec7c2449ca9ecba9498614
+      internalID: -535074447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be69908524ee292488e1d0df9aeb36e4
+      internalID: 1554792804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bc57ecfc1c1d44080258568407de27
+      internalID: -2059483816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6850fece786e6c4ca2f2de2cc9a7537
+      internalID: -1825976334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af178b6e0e3814b8d5f0b261495a88
+      internalID: -487325691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_84
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d582631df78754fbf9013c885c6d27
+      internalID: -1572279101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_85
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c2992b96049ec4197454fb0c056358
+      internalID: -775163074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e870a2c8775bb4a83c9096ca5b553b
+      internalID: -74769146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2feddf2c607044b838496c54d0a28e
+      internalID: -2022964423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51fc52054150bb499768a46c5179302
+      internalID: 1569946362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4aa322a585d5148b6f7f5eb51b26f8
+      internalID: 1679519371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482405c8fe5de6e4cab671f5d918b6eb
+      internalID: -87631606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcb6fe961c88684988594cdbdce237a
+      internalID: 610286888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249bc0e9cc879724aaf99a156578d176
+      internalID: -1492600846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd263ba4e0b302243835028f394a3b73
+      internalID: -1059330463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3354f9fa8ce13b4e842e6450e9fcc2f
+      internalID: -63840881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_95
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb9195e307a8664388f2789f2712dc3
+      internalID: -999000584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e324d461a68bcc741acc8c71b403d8a5
+      internalID: 670013586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_97
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f07f7d49a43334387c4e12dd7ea294
+      internalID: -813853926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d083b87228bcc9469b0f63d0ab71245
+      internalID: 1278945895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_99
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3183d5a40f1be4f9635777c9d82f7a
+      internalID: 9053141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_100
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f2861f42166be489d057c184b21560
+      internalID: 1289362351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e319e27143cf14bb9e76e1a57d3955
+      internalID: 519887496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_102
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a3805b55190114c935c2288ac788da
+      internalID: -904313518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7d296e42a524a4b8a94c1760779a2e
+      internalID: -1185332386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea928fef041d7c5478517ccf187c83ec
+      internalID: 1593216836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4b40bb0eeecff46974b4a3659d5824
+      internalID: 1501132548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3315ee23e9ad62a488b356b4a419192e
+      internalID: -1401549805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517ed9ab66f9ae14593533cdd84b28d6
+      internalID: 172827019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44a014e2a39d9a47919138b935a966f
+      internalID: 354052673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_109
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9130e9add2d49a54d8ce709f53bc11a2
+      internalID: -2137542348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0544c69597c16048a53637d7206172c
+      internalID: 221954180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d57ff396e5f67b4088ac281b081948d
+      internalID: -250260322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_112
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe717de2b9473544cb645238286fc160
+      internalID: -1735372138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f89ff13c904cfa4e9ceccad18d6ed85
+      internalID: -1634982082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_114
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5edc106c13bf124fb65050adeef75fa
+      internalID: -741551659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde01139236400488fb1c7aac9986d6
+      internalID: 986280570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_116
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250cc7e0d41c2da4c91be049057fbce7
+      internalID: -1607788757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_117
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb7f73587b697d469b8928da8586b4d
+      internalID: 335448556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_118
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf0f9bb816bc5469e74bfee6f7720e
+      internalID: -469520794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_119
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32377e0829048247abddc8cad2e2895
+      internalID: -663250938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337741b742b248149a075fc658c22fa0
+      internalID: 1999789603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47a25d71a3e319459d4425b921fcd1a
+      internalID: 1472473802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_122
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d322b3bab0988440bf2d006f4e3057f
+      internalID: 365100463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07c71f3721b9644382ff63d437fbb52
+      internalID: -992104517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1684268eba1af408c96e52ec7a4297
+      internalID: 2094094960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b445b850f9cc18489961b3c49f78f89
+      internalID: -1284449866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48c77e3ac5aaa047834c3ef29b0fdd1
+      internalID: 1243339223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_127
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bafaab0605bf74408969fee57729631
+      internalID: 1624821836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_128
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83c951617bdd4048a3b12826b9dc61f
+      internalID: 641983552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_129
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612b252325aaf354985dd52adfb17bdc
+      internalID: -1235338708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_130
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c372b6da7956248ab37405b360658d
+      internalID: 20328018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55aba5a89687d94d835e0bc8a77762b
+      internalID: 146056946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_132
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1d3aa942969a141bad5d18d1ecf299
+      internalID: -1975800723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_133
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7737b95631c5dbd44aa0b6a1a5d6c8a1
+      internalID: 1816911414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_134
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b27a2043d9ca14fac934cc7df44bbf
+      internalID: -537912630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_135
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25185819d185854084a39035390b08d
+      internalID: 1014070821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ff483ceb1e0ee4c84ebec5fe5541af
+      internalID: -1547923748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b2d26479a3ae84ab87522508207075
+      internalID: -474006042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71560280f7eee24cbf1c13ad0ab0c87
+      internalID: -325547485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac69924e888d21428e89cfa0a2f3559
+      internalID: -954806259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4115c512a7bfbcd439a8b55517068cf6
+      internalID: 1674764160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918ef9a8edce7644a94b3760d719d272
+      internalID: -1108351108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df85fb7927f8f3149a10207bfb6543ed
+      internalID: -1173591055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c4416f065065840aa6ad35518a9357
+      internalID: 568319108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b9abfb3bc6d82469261678090e636d
+      internalID: 1021118821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_145
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f85db5629cf7d43abbfbdf70d03847
+      internalID: 1963788822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_146
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a993f595f5d49e74fb822c46551e9ca3
+      internalID: 862989131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_147
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62086a91c9169174a870a9ab87def46e
+      internalID: 1283778104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda61d8fa1ec87e448444e4db7cd49ec
+      internalID: 1552208284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_149
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133f1e61b281b414dace83473c821d92
+      internalID: 1919018900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_150
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a408ed76dda3f4197e3d1d5a22bf8b
+      internalID: -372254963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_151
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff4360da95ab8b498b34ed256f591b3
+      internalID: -1466981472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd206aa42ba434a8c334be6620778d
+      internalID: -562273927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b367a8a154caab46b64822bc0d131f6
+      internalID: 482270359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba226effaca5df4eb90cbba10d59cb6
+      internalID: 1324845785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bf5a3ad3ee08641bd091d46a8e0a62
+      internalID: -855904415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f27ba91604c304992abe58423b5a42
+      internalID: 644744413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f99061a575484e4d83f61bd7d84d7d5
+      internalID: -163669519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1b6eda8f09c1147a103d2192c24c60
+      internalID: -322638445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_159
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140171d3d61c6be429124d54b5add0e2
+      internalID: -424876463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_160
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc074f1b21d7eb14ab144729e02275d2
+      internalID: 2062668597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_161
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1652b580086e08c45b924725d6c3aebf
+      internalID: 888423009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_162
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da58b367145767d47a55155501f0f18e
+      internalID: 1494855955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_163
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522d7b1cc3a03a14d86094a80377b70f
+      internalID: -1091737324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_164
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100d822aab974a64dae44585918ab591
+      internalID: 67089335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eea485e0843888499787aef5c37f1a4
+      internalID: -1568220385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44000df0b86f77b42b259f312f571f74
+      internalID: -397905217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_167
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ff97b47670afd45932bbf70855fe85
+      internalID: -341865567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85298f62d91a344f873874b1529f0f0
+      internalID: 2033385794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_169
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7be0ca5d27a0e498e1427188ee3352
+      internalID: -372638624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_170
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ed2a432b8c00f4bb020db34eb04109
+      internalID: -1572834900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_171
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a795d76b38097f249bb1e63ee9cb1254
+      internalID: 784209514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineering iso_172
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa42a571f21e864186b5d50fd2e71d5
+      internalID: 1106479560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4c5846447ad34b440ba930fefd8170c1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      engineering iso_0: -7073505341246537892
+      engineering iso_1: -1963709447
+      engineering iso_10: -1208431720
+      engineering iso_100: 1289362351
+      engineering iso_101: 519887496
+      engineering iso_102: -904313518
+      engineering iso_103: -1185332386
+      engineering iso_104: 1593216836
+      engineering iso_105: 1501132548
+      engineering iso_106: -1401549805
+      engineering iso_107: 172827019
+      engineering iso_108: 354052673
+      engineering iso_109: -2137542348
+      engineering iso_11: -1301109654
+      engineering iso_110: 221954180
+      engineering iso_111: -250260322
+      engineering iso_112: -1735372138
+      engineering iso_113: -1634982082
+      engineering iso_114: -741551659
+      engineering iso_115: 986280570
+      engineering iso_116: -1607788757
+      engineering iso_117: 335448556
+      engineering iso_118: -469520794
+      engineering iso_119: -663250938
+      engineering iso_12: -1638414356
+      engineering iso_120: 1999789603
+      engineering iso_121: 1472473802
+      engineering iso_122: 365100463
+      engineering iso_123: -992104517
+      engineering iso_124: 2094094960
+      engineering iso_125: -1284449866
+      engineering iso_126: 1243339223
+      engineering iso_127: 1624821836
+      engineering iso_128: 641983552
+      engineering iso_129: -1235338708
+      engineering iso_13: -634388322
+      engineering iso_130: 20328018
+      engineering iso_131: 146056946
+      engineering iso_132: -1975800723
+      engineering iso_133: 1816911414
+      engineering iso_134: -537912630
+      engineering iso_135: 1014070821
+      engineering iso_136: -1547923748
+      engineering iso_137: -474006042
+      engineering iso_138: -325547485
+      engineering iso_139: -954806259
+      engineering iso_14: -1163980013
+      engineering iso_140: 1674764160
+      engineering iso_141: -1108351108
+      engineering iso_142: -1173591055
+      engineering iso_143: 568319108
+      engineering iso_144: 1021118821
+      engineering iso_145: 1963788822
+      engineering iso_146: 862989131
+      engineering iso_147: 1283778104
+      engineering iso_148: 1552208284
+      engineering iso_149: 1919018900
+      engineering iso_15: -2009785412
+      engineering iso_150: -372254963
+      engineering iso_151: -1466981472
+      engineering iso_152: -562273927
+      engineering iso_153: 482270359
+      engineering iso_154: 1324845785
+      engineering iso_155: -855904415
+      engineering iso_156: 644744413
+      engineering iso_157: -163669519
+      engineering iso_158: -322638445
+      engineering iso_159: -424876463
+      engineering iso_16: 1624710688
+      engineering iso_160: 2062668597
+      engineering iso_161: 888423009
+      engineering iso_162: 1494855955
+      engineering iso_163: -1091737324
+      engineering iso_164: 67089335
+      engineering iso_165: -1568220385
+      engineering iso_166: -397905217
+      engineering iso_167: -341865567
+      engineering iso_168: 2033385794
+      engineering iso_169: -372638624
+      engineering iso_17: 913749436
+      engineering iso_170: -1572834900
+      engineering iso_171: 784209514
+      engineering iso_172: 1106479560
+      engineering iso_18: 217229989
+      engineering iso_19: -741908043
+      engineering iso_2: -1680842889
+      engineering iso_20: 704710516
+      engineering iso_21: 1783155657
+      engineering iso_22: -1902246741
+      engineering iso_23: -1003637228
+      engineering iso_24: -1169031309
+      engineering iso_25: -308685542
+      engineering iso_26: -1257185168
+      engineering iso_27: -1550905014
+      engineering iso_28: 1703749057
+      engineering iso_29: 500693224
+      engineering iso_3: 299215383
+      engineering iso_30: -1427859515
+      engineering iso_31: -941128628
+      engineering iso_32: 2047202079
+      engineering iso_33: 100945224
+      engineering iso_34: 1595160664
+      engineering iso_35: -1818024379
+      engineering iso_36: 1259332760
+      engineering iso_37: 1769102428
+      engineering iso_38: -384464049
+      engineering iso_39: -402440833
+      engineering iso_4: 1589545874
+      engineering iso_40: -33557604
+      engineering iso_41: -1056708043
+      engineering iso_42: -25929078
+      engineering iso_43: 1526759622
+      engineering iso_44: -1839808867
+      engineering iso_45: 649454693
+      engineering iso_46: -428956385
+      engineering iso_47: 233231951
+      engineering iso_48: -571448017
+      engineering iso_49: 438704423
+      engineering iso_5: -1141462607
+      engineering iso_50: -198126830
+      engineering iso_51: 1347087084
+      engineering iso_52: -536502418
+      engineering iso_53: -996917410
+      engineering iso_54: 1497308308
+      engineering iso_55: 1665589757
+      engineering iso_56: -646561099
+      engineering iso_57: -1495166203
+      engineering iso_58: -1821343121
+      engineering iso_59: -1200196054
+      engineering iso_6: 2104385187
+      engineering iso_60: -1614730343
+      engineering iso_61: -1043991980
+      engineering iso_62: -1369735691
+      engineering iso_63: -539201338
+      engineering iso_64: 1635449388
+      engineering iso_65: -1719162087
+      engineering iso_66: -1408953020
+      engineering iso_67: -778733461
+      engineering iso_68: -1411740449
+      engineering iso_69: 1334441126
+      engineering iso_7: 877157942
+      engineering iso_70: -1398809159
+      engineering iso_71: 861399395
+      engineering iso_72: 2105813848
+      engineering iso_73: 1281978507
+      engineering iso_74: 190295992
+      engineering iso_75: 1479299340
+      engineering iso_76: 213456111
+      engineering iso_77: -1007340410
+      engineering iso_78: -560017580
+      engineering iso_79: -535074447
+      engineering iso_8: 990364982
+      engineering iso_80: 1554792804
+      engineering iso_81: -2059483816
+      engineering iso_82: -1825976334
+      engineering iso_83: -487325691
+      engineering iso_84: -1572279101
+      engineering iso_85: -775163074
+      engineering iso_86: -74769146
+      engineering iso_87: -2022964423
+      engineering iso_88: 1569946362
+      engineering iso_89: 1679519371
+      engineering iso_9: -2070678465
+      engineering iso_90: -87631606
+      engineering iso_91: 610286888
+      engineering iso_92: -1492600846
+      engineering iso_93: -1059330463
+      engineering iso_94: -63840881
+      engineering iso_95: -999000584
+      engineering iso_96: 670013586
+      engineering iso_97: -813853926
+      engineering iso_98: 1278945895
+      engineering iso_99: 9053141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
