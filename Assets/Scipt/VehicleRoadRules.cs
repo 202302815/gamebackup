@@ -13,6 +13,7 @@ public class VehicleRoadRules : MonoBehaviour
     public Tilemap vehicleDown;
     public Tilemap vehicleLeft;
     public Tilemap vehicleRight;
+    public Tilemap[] parkingZones;
 
     private bool wrongWay;
 
@@ -33,7 +34,67 @@ public class VehicleRoadRules : MonoBehaviour
         return false;
     }
 
+    public int GetParkingZone(Vector3Int cell)
+    {
+        if (parkingZones == null || vehicleRoad == null)
+            return -1;
 
+        Vector3 worldPosition = vehicleRoad.GetCellCenterWorld(cell);
+
+        for (int i = 0; i < parkingZones.Length; i++)
+        {
+            Tilemap zone = parkingZones[i];
+
+            if (zone != null &&
+                zone.HasTile(zone.WorldToCell(worldPosition)))
+            {
+                return i;
+            }
+        }
+
+        return -1; // Main road, outside parking.
+    }
+
+    public bool CanTravelForRoute(
+        Vector3Int from,
+        Vector3Int to,
+        int startZone,
+        int goalZone)
+    {
+        if (!CanTravel(from, to))
+            return false;
+
+        int fromZone = GetParkingZone(from);
+        int toZone = GetParkingZone(to);
+
+        // Only endpoint parking areas can be used.
+        if (fromZone >= 0 &&
+            fromZone != startZone &&
+            fromZone != goalZone)
+            return false;
+
+        if (toZone >= 0 &&
+            toZone != startZone &&
+            toZone != goalZone)
+            return false;
+
+        if (fromZone != toZone)
+        {
+            // Leave only the starting parking area.
+            // Once destination parking is entered, stay inside.
+            if (fromZone >= 0 &&
+                (fromZone != startZone || fromZone == goalZone))
+                return false;
+
+            // Enter only destination parking.
+            // Do not re-enter the starting parking area.
+            if (toZone >= 0 &&
+                (toZone != goalZone || toZone == startZone))
+                return false;
+        }
+
+        return true;
+    }
 
     public bool CanTravel(Vector3Int from, Vector3Int to)
     {

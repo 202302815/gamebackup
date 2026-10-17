@@ -403,7 +403,11 @@ public class CampusPathfinding : MonoBehaviour
 
         Vector3Int currentCell = map.WorldToCell(player.position);
         bool cellChanged = currentCell != lastPlayerCell;
-
+        bool parkingBoundaryCrossed =
+            IsVehicleMode &&
+            cellChanged &&
+            vehicleRules.GetParkingZone(currentCell) !=
+            vehicleRules.GetParkingZone(lastPlayerCell);
         if (modeChanged)
         {
             lastPlayerCell = currentCell;
@@ -435,6 +439,7 @@ public class CampusPathfinding : MonoBehaviour
             bool needsNewRoute =
                 routePoints.Count == 0 ||
                 !map.HasTile(currentCell) ||
+                parkingBoundaryCrossed ||
                 DistanceFromRemainingRoute() > rerouteDistance;
 
             if (needsNewRoute)
@@ -546,7 +551,13 @@ public class CampusPathfinding : MonoBehaviour
                 : "This destination has no valid walking arrival point.");
             return;
         }
+        int startParkingZone = IsVehicleMode
+            ? vehicleRules.GetParkingZone(start)
+            : -1;
 
+        int goalParkingZone = IsVehicleMode
+            ? vehicleRules.GetParkingZone(goal)
+            : -1;
         List<Vector3Int> open = new List<Vector3Int> { start };
         HashSet<Vector3Int> closed = new HashSet<Vector3Int>();
         Dictionary<Vector3Int, Vector3Int> parents =
@@ -585,8 +596,15 @@ public class CampusPathfinding : MonoBehaviour
                 if (!map.HasTile(next) || closed.Contains(next))
                     continue;
 
-                if (IsVehicleMode && !vehicleRules.CanTravel(current, next))
+                if (IsVehicleMode &&
+                    !vehicleRules.CanTravelForRoute(
+                        current,
+                        next,
+                        startParkingZone,
+                        goalParkingZone))
+                {
                     continue;
+                }
 
                 int newCost = costs[current] + 1;
 
