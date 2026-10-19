@@ -1,20 +1,149 @@
 {
   "buildings": [
     {
-      "id": "library",
-      "name": "Library",
-      "description": "Provides learning resources and study spaces for students.",
-      "services": "Book borrowing, reading areas, and reference assistance.",
-      "departments": "First department\nSecond department",
-      "coursesOffered": "First course\nSecond course"
+      "id": "Library",
+      "name": "Ladislao N. Diwa Memorial Library",
+      "description": "Welcome to the Ladislao N. Diwa Memorial Library and Museum (LDMLM)—a symbol of knowledge and heritage since 1980. With a collection of over 106,000 volumes and 5,000 series titles, LDMLM honors Ladislao N. Diwa's contributions to academia. Operating under an open shelf system, our mission is to provide excellent, equitable, and relevant library services. We aim to support academic excellence, encourage maximum utilization of resources, and collaborate with all colleges and campuses to supplement research and instruction. Step inside and discover a world of knowledge and inspiration.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": ""
     },
     {
       "id": "Admin",
-      "name": "Admin",
-      "description": "Provides learning resources and study spaces for students.",
-      "services": "Book borrowing, reading areas, and reference assistance.",
+      "name": "Administration Building",
+      "description": "Welcome to the Cavite State University Administration Building at our University.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": ""
+    },
+    {
+      "id": "CEIT",
+      "name": "College of Engineering and Information Technology",
+      "description": "The College of Engineering and Information Technology (CEIT) fosters a dynamic scholarly community dedicated to advancing the frontiers of engineering innovation. CEIT faculty address global challenges through research and curriculum focused on areas such as resilient infrastructure and sustainable transportation systems. By joining CEIT, you will contribute to shaping a brighter future.",
+      "services": "",
+      "departments": "Department of Computer, Electronics, and Electrical Engineering\nDepartment of Industrial Engineering and Technology\nDepartment of Information Technology\nDepartment of Agriculture and Food Engineering\nDepartment of Civil Engineering",
+      "coursesOffered": "Bachelor of Science in Computer Science\nBachelor of Science in Information Technology\nBachelor of Science in Civil Engineering\nBachelor of Science in Architecture\nBachelor of Science in Agricultural and Biosystems Engineering\nBachelor of Science in Electrical Engineering\nBachelor of Science in Industrial Technology\nBachelor of Science in Computer Engineering\nBachelor of Science in Electronics Engineering"
+    },
+    {
+      "id": "CON",
+      "name": "College of Nursing",
+      "description": "Welcome to the College of Nursing, where we embrace the profound impact of early nurturing and education on lifelong health and well-being. Within our supportive and inclusive community, dedicated mentors guide you to excel in the intricate field of nursing, equipping you with the knowledge and skills to make a tangible difference in the lives of individuals and families. Through innovative research and immersive practical experiences, we empower you to navigate the complexities of healthcare and emerge as compassionate, competent caregivers. Join us in a journey where learning knows no bounds, and excellence is the standard.",
+      "services": "",
+      "departments": "Nursing/Over-all Clinical Coordinator\nMedical Technology Department/Program Coordinator\nMidwifery Department",
+      "coursesOffered": "Bachelor of Science in Nursing\nBachelor of Science in Medical Technology / Medical Laboratory Science\nBachelor of Science in Midwifery (Bridging program 2 years)"
+    },
+    {
+      "id": "CAS",
+      "name": "College of Arts and Sciences",
+      "description": "The College of Arts and Sciences at this university welcomes you to its energetic community. Here, scholars explore the vast spectrum of human creativity and knowledge. From the mysteries of the universe to the intricacies of human behavior, the college is dedicated to pushing the boundaries of understanding. By embracing diverse viewpoints and fostering creative exploration, they tackle the complexities of the world. The college invites you to join them at the forefront of intellectual discovery and artistic expression.",
+      "services": "",
+      "departments": "Department of Biological Sciences\nDepartment of Communication and Languages\nDepartment of Humanities\nDepartment of Physical Sciences\nDepartment of Social Sciences",
+      "coursesOffered": "Bachelor of Science in Biology\nBachelor of Arts in Journalism\nBachelor of Arts in English\nBachelor of Science in Psychology\nBachelor of Arts in Political Science\nBachelor of Science in Social Work\nBachelor of Science in Applied Mathematics (Major in Statistics)"
+    },
+    {
+      "id": "CAFENR",
+      "name": "College of Agriculture, Forestry, Environment, and Natural Resources",
+      "description": "The College of Agriculture, Forestry, Environment, and Natural Resources building embodies innovation and sustainability. Its modern design integrates seamlessly with nature, featuring spacious interiors filled with natural light and cutting-edge facilities. With a focus on eco-friendly practices, including energy-efficient systems and green rooftops, the building serves as a hub for interdisciplinary learning and research. Surrounded by lush gardens and outdoor spaces, it inspires environmental stewardship and fosters collaboration among students and faculty.",
+      "services": "",
+      "departments": "Department of Animal Science (DAS)\nDepartment of Agricultural Entrepreneurship (DAE)\nDepartment of Crop Science (DCS)\nDepartment of Accountancy\nDepartment of Forestry and Environmental Science (DFES)\nInstitute of Food Science and Technology (IFST)",
+      "coursesOffered": "Bachelor of Science in Agriculture\nBachelor of Science in Environmental Sciences\nBachelor of Science in Food Technology\nBachelor of Science in Land Use Design and Management\nBachelor in Agricultural Entrepreneurship\nCertificate in Agriculture Science\nDoctor of Philosophy in Agriculture\nDoctor of Philosophy in Food Science\nMaster of Science in Agriculture\nMaster of Science in Food Science"
+    },
+    {
+      "id": "CED",
+      "name": "College of Education",
+      "description": "The College of Education welcomes you! Committed to the transformative power of education, their diverse community offers the tools and support for success in a dynamic field. Through innovative research and hands-on experiences, they empower you to make a lasting impact. Here, learning is limitless and excellence is expected.",
+      "services": "",
+      "departments": "Teacher Education Department (TED)\nHome Economics, Vocational and Technical Education Department (HEVTED)",
+      "coursesOffered": "Bachelor of Secondary Education\nBachelor of Elementary Education\nBachelor of Hotel and Restaurant Management\nBachelor of Tourism Management\nDiploma in Hotel and Restaurant Management\nTeacher Certificate Program\nMasters of Arts in Education\nDoctor of Philosophy in Education"
+    },
+    {
+      "id": "CEMDS",
+      "name": "College of Economics, Management and Development Studies",
+      "description": "The College of Education welcomes you! Committed to the transformative power of education, their diverse community offers the tools and support for success in a dynamic field. Through innovative research and hands-on experiences, they empower you to make a lasting impact. Here, learning is limitless and excellence is expected.",
+      "services": "",
+      "departments": "Department of Management\nDepartment of Economics\nDepartment of Development Studies\nDepartment of Accountancy",
+      "coursesOffered": "Bachelor of Science in Office Administration\nBachelor of Science in Accountancy\nBachelor of Science in Business Administration\nBachelor of Science in Economics\nBachelor of Science in Development Management\nBachelor of Science in International Studies\nGraduate Programs"
+    },
+    {
+      "id": "CVMBS",
+      "name": "College of Veterinary Medicine and Biomedical Sciences",
+      "description": "The College of Veterinary Medicine and Biomedical Sciences at Cavite State University fosters expertise in veterinary medicine, biomedical sciences, and animal welfare. With a focus on ethical practice, professional excellence, and community service, we prepare students for impactful careers in veterinary medicine, research, and animal care. Our curriculum blends hands-on training with innovative research, empowering graduates to drive positive change in their communities. Join us in shaping a healthier, more compassionate society.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": "Doctor of Veterinary Medicine\nBachelor of Science in Veterinary Technology\nBachelor of Science in Animal Health and Management\nBachelor of Science in Biomedical Science\nMaster in Veterinary Studies (open for non-vets)\nMaster in Veterinary Science"
+    },
+    {
+      "id": "CSPEAR",
+      "name": "College of Sports, Physical Education, and Recreation",
+      "description": "Introducing the College of Sports, Physical Education, and Recreation at Cavite State University, established in 1998 to promote excellence in sports across the Southern Tagalog Region. Our mission is to provide top-tier instruction in physical education and recreation sciences while fostering a culture of active living among students and the community. With a focus on leadership and collaboration, we're dedicated to shaping competent professionals and elevating the region's sporting landscape.",
+      "services": "",
+      "departments": "Physical Education, Exercise and Sports Science\nPhysical Education",
+      "coursesOffered": "Bachelor of Physical Education\nBachelor in Sports and Recreational Management"
+    },
+    {
+      "id": "CCJ",
+      "name": "College of Criminal Justice",
+      "description": "The College of Criminal Justice at the University fosters a deep understanding and practical application of law enforcement, criminal justice, and public safety principles. Imbued with a commitment to ethical conduct, professional excellence, and community service, the college cultivates students for fulfilling careers in law enforcement, corrections, and security. The curriculum offers a rich tapestry of experiences, from immersive hands-on training to pioneering research endeavors. This comprehensive approach equips graduates with the necessary tools and knowledge to become instrumental agents of positive change within their communities. By joining the College of Criminal Justice, students become part of a collaborative effort to forge a safer and more equitable society.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": "Bachelor of Science in Criminology\nBachelor of Science in Industrial Security Administration"
+    },
+    {
+      "id": "Cashier",
+      "name": "University Cashier",
+      "description": "The University Cashier's Office, situated in located at the back of the Administration Building, acts as the central hub for students, faculty, and staff to manage all university-related finances. Dedicated staff provide exceptional customer service in a transparent environment. Readily addresses any questions regarding university fees and payments. This ensures a smooth and hassle-free experience when navigating financial obligations at the university.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": ""
+    },
+    {
+      "id": "ResearchCenter",
+      "name": "Research Center",
+      "description": "Introducing the Research Center Building at Cavite State University: a nexus of innovation and collaboration. Equipped with cutting-edge facilities, it fosters groundbreaking research across disciplines, especially in agriculture. Designed for knowledge dissemination and external engagement, it serves as a hub for forging partnerships, training, and recognizing outstanding achievements. A beacon of progress, it embodies the university's commitment to improving lives and advancing knowledge for the community.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": ""
+    },
+    {
+      "id": "InternationalHouse1",
+      "name": "International House 1 / College of Medicine",
+      "description": "International House 1 welcomes students with open arms, serving as a vibrant home away from home for the university community. This bustling dormitory fosters a diverse and inclusive environment, where students from all walks of life connect and forge lasting friendships. International House 1 which also houses the College of Medicine, offers comfortable living spaces, modern amenities, and a supportive atmosphere that empowers residents to excel academically, socially, and personally. Here, students thrive within a community that fosters unforgettable experiences.",
+      "services": "Hostel Tropicana",
+      "departments": "",
+      "coursesOffered": ""
+    },
+    {
+      "id": "BahayNgAlumni",
+      "name": "Bahay ng Alumni",
+      "description": "Welcome to Bahay ng Alumni—a cozy retreat found near the Gymnasium of the University. Our inviting rooms offer a blend of comfort and nostalgia, providing guests with a home-away-from-home experience. Whether you're here for a trip down memory lane or attending an event, we promise a memorable stay filled with warmth and hospitality.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": ""
+    },
+    {
+      "id": "ICC",
+      "name": "International Convention Center",
+      "description": "The University International Convention Center serves as a multipurpose venue for significant university events and external collaborations. This impressive structure hosts formal university functions, from standardized exams and bustling job fairs to grand graduation ceremonies, with its adaptable space configurable to each event's needs. Beyond university-organized gatherings, the center can be rented by external organizations for conferences, or even social events. The University International Convention Center embodies the university's pursuit of excellence, offering a platform to celebrate student achievements and foster collaboration within the broader community.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": ""
+    },
+    {
+      "id": "LayatDiwa",
+      "name": "Layat Diwa Statue",
+      "description": "This brass artwork carries the University’s ideals of TRUTH, EXCELLENCE and SERVICE. There are five basic elements in the artwork together with the symbolic figures and meanings. The unchained female figure, holding a book, represents the empowered Filipino woman. She is beauty personified and is today’s contemporary woman – a mother, a nurturer, an educator, and a humble servant to humanity.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": ""
+    },
+    {
+      "id": "Lagoon",
+      "name": "Lagoon",
+      "description": "The Lagoon, a serene body of water that serves as a central feature of the university's landscape. This tranquil oasis offers a peaceful retreat from the bustling campus, inviting visitors to relax and unwind amidst the beauty of nature. The Lagoon is home to a variety of aquatic plants and animals, creating a vibrant ecosystem that provides a habitat for local wildlife. Whether you're seeking a quiet spot to read, meditate, or simply enjoy the beauty of the outdoors, the Lagoon provides a serene escape for all who visit.",
+      "services": "",
       "departments": "",
       "coursesOffered": ""
     }
+    
   ]
 }
