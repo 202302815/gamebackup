@@ -4,13 +4,17 @@
       "id": "library",
       "name": "Library",
       "description": "Provides learning resources and study spaces for students.",
-      "services": "Book borrowing, reading areas, and reference assistance."
+      "services": "Book borrowing, reading areas, and reference assistance.",
+      "departments": "First department\nSecond department",
+      "coursesOffered": "First course\nSecond course"
     },
     {
-      "id": "test_building",
-      "name": "Second Building",
-      "description": "Replace this with the building's verified description.",
-      "services": "Replace this with its verified offices and services."
+      "id": "Admin",
+      "name": "Admin",
+      "description": "Provides learning resources and study spaces for students.",
+      "services": "Book borrowing, reading areas, and reference assistance.",
+      "departments": "",
+      "coursesOffered": ""
     }
   ]
 }

@@ -8,6 +8,8 @@ public class BuildingInfo
     public string name;
     public string description;
     public string services;
+    public string departments;
+    public string coursesOffered;
 }
 
 [Serializable]
