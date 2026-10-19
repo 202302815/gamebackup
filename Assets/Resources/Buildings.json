@@ -57,12 +57,28 @@
       "coursesOffered": "Bachelor of Secondary Education\nBachelor of Elementary Education\nBachelor of Hotel and Restaurant Management\nBachelor of Tourism Management\nDiploma in Hotel and Restaurant Management\nTeacher Certificate Program\nMasters of Arts in Education\nDoctor of Philosophy in Education"
     },
     {
+      "id": "DIET",
+      "name": "Department of Industrial Engineering and Technology",
+      "description": "Welcome to the Department of Industrial Engineering and Technology at our University. Within our dedicated community, we explore the forefront of technology and innovation. From optimizing manufacturing processes to enhancing supply chain efficiency, we're committed to solving real-world challenges and driving industry forward. Join us as we embark on a journey of discovery and innovation. Welcome to the heart of industrial engineering excellence.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": ""
+    },
+    {
       "id": "CEMDS",
       "name": "College of Economics, Management and Development Studies",
       "description": "The College of Education welcomes you! Committed to the transformative power of education, their diverse community offers the tools and support for success in a dynamic field. Through innovative research and hands-on experiences, they empower you to make a lasting impact. Here, learning is limitless and excellence is expected.",
       "services": "",
       "departments": "Department of Management\nDepartment of Economics\nDepartment of Development Studies\nDepartment of Accountancy",
       "coursesOffered": "Bachelor of Science in Office Administration\nBachelor of Science in Accountancy\nBachelor of Science in Business Administration\nBachelor of Science in Economics\nBachelor of Science in Development Management\nBachelor of Science in International Studies\nGraduate Programs"
+    },
+    {
+      "id": "Home",
+      "name": "Home Economics Vocational and Technical Eduction Department",
+      "description": "This the Home Economics Vocational and Technical Eduction Department",
+      "services": "",
+      "departments": "",
+      "coursesOffered": ""
     },
     {
       "id": "CVMBS",
@@ -143,6 +159,14 @@
       "services": "",
       "departments": "",
       "coursesOffered": ""
+    },
+    {
+      "id": "DIT",
+      "name": "Department of Information Technology",
+      "description": "The Department of Information Technology (DIT), nestled within the College of Engineering and Information Technology (CEIT), is housed in a modern building characterized by sleek architecture and cutting-edge facilities. Its spacious atrium welcomes students and visitors, while state-of-the-art classrooms, labs, and collaborative spaces provide an ideal environment for learning and research. From interactive displays showcasing the latest advancements to dedicated research wings driving innovation, the department's building serves as a dynamic hub for aspiring technologists and researchers alike.",
+      "services": "Computer Laboratory\nThe Computer Laboratory is equipped with the latest hardware and software to support students in their coursework and research. From programming to networking, students have access to the tools they need to succeed.",
+      "departments": "",
+      "coursesOffered": "Bachelor of Science in Computer Science\nBachelor of Science in Information Technology"
     }
     
   ]
