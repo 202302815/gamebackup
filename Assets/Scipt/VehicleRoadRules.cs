@@ -17,6 +17,23 @@ public class VehicleRoadRules : MonoBehaviour
 
     private bool wrongWay;
 
+    [Min(0f)]
+    public float wrongWayAllowanceInTiles = 0.5f;
+
+    private readonly Vector3Int[] movementDirections =
+    {
+    Vector3Int.up,
+    Vector3Int.down,
+    Vector3Int.left,
+    Vector3Int.right
+};
+
+    private readonly float[] wrongWayDistances = new float[4];
+    private readonly bool[] previousRestrictions = new bool[4];
+
+    private Vector2 previousPosition;
+    private bool hasPreviousPosition;
+
     public bool AllowsDirection(Vector3Int cell, Vector3Int direction)
     {
         if (direction == Vector3Int.up)
@@ -217,6 +234,128 @@ public class VehicleRoadRules : MonoBehaviour
             wrongWayMessage.activeSelf != wrongWay)
         {
             wrongWayMessage.SetActive(wrongWay);
+        }
+    }
+
+    bool IsWrongWayDirection(Vector3Int cell, Vector3Int direction)
+    {
+        return AllowsDirection(cell, -direction) &&
+               !AllowsDirection(cell, direction);
+    }
+
+    float GetTileSize(Vector3Int cell)
+    {
+        Vector3 center = vehicleRoad.GetCellCenterWorld(cell);
+
+        float width = Vector2.Distance(
+            center,
+            vehicleRoad.GetCellCenterWorld(cell + Vector3Int.right));
+
+        float height = Vector2.Distance(
+            center,
+            vehicleRoad.GetCellCenterWorld(cell + Vector3Int.up));
+
+        return Mathf.Min(width, height);
+    }
+
+    public Vector2 LimitVehicleVelocity(
+        Vector2 position,
+        Vector2 requestedVelocity,
+        float stepTime)
+    {
+        if (!vehicleMode || vehicleRoad == null)
+        {
+            ResetWrongWayDistance();
+            return requestedVelocity;
+        }
+
+        // Measure actual movement since the previous physics step.
+        // Colliding with a wall does not consume the allowance.
+        if (hasPreviousPosition)
+        {
+            Vector2 displacement = position - previousPosition;
+
+            for (int i = 0; i < movementDirections.Length; i++)
+            {
+                Vector2 direction = new Vector2(
+                    movementDirections[i].x,
+                    movementDirections[i].y);
+
+                float distance = Vector2.Dot(displacement, direction);
+
+                if (distance < 0f)
+                {
+                    // Moving back toward the legal position repays
+                    // the previously travelled wrong-way distance.
+                    wrongWayDistances[i] = Mathf.Max(
+                        0f, wrongWayDistances[i] + distance);
+                }
+                else if (previousRestrictions[i])
+                {
+                    wrongWayDistances[i] += distance;
+                }
+            }
+        }
+
+        previousPosition = position;
+        hasPreviousPosition = true;
+
+        Vector3Int cell = vehicleRoad.WorldToCell(
+            new Vector3(position.x, position.y, 0f));
+
+        bool onRoad = vehicleRoad.HasTile(cell);
+
+        for (int i = 0; i < movementDirections.Length; i++)
+        {
+            previousRestrictions[i] =
+                onRoad &&
+                IsWrongWayDirection(cell, movementDirections[i]);
+        }
+
+        if (!onRoad || stepTime <= 0f)
+            return requestedVelocity;
+
+        float allowance =
+            GetTileSize(cell) * wrongWayAllowanceInTiles;
+
+        Vector2 result = requestedVelocity;
+
+        for (int i = 0; i < movementDirections.Length; i++)
+        {
+            if (!previousRestrictions[i])
+                continue;
+
+            Vector2 direction = new Vector2(
+                movementDirections[i].x,
+                movementDirections[i].y);
+
+            float requestedSpeed = Vector2.Dot(result, direction);
+
+            if (requestedSpeed <= 0f)
+                continue;
+
+            float remainingDistance = Mathf.Max(
+                0f, allowance - wrongWayDistances[i]);
+
+            float allowedSpeed = remainingDistance / stepTime;
+
+            if (requestedSpeed > allowedSpeed)
+            {
+                result -= direction * (requestedSpeed - allowedSpeed);
+            }
+        }
+
+        return result;
+    }
+
+    public void ResetWrongWayDistance()
+    {
+        hasPreviousPosition = false;
+
+        for (int i = 0; i < wrongWayDistances.Length; i++)
+        {
+            wrongWayDistances[i] = 0f;
+            previousRestrictions[i] = false;
         }
     }
 }

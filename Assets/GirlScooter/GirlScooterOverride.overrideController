@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GirlScooterOverride
+  m_Controller: {fileID: 9100000, guid: 2d5a479127092244bb0e05dbe0ea2b53, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8d6f21e5a6252a741be61df73925e0c4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3e69f2682b2c28d4ba287174c5d0af96, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0eabf75fba63d0f4fb374a23c79c2dad, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b1c3baba5b87db24387900c1acecd14a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ba7ae0c912a1dad468e00959d71efc3e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aadd3e7261cee0247b6d318c36f8f77f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: da6dba8aafe3d7644b03387e8c982b29, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b3184e2d0fa684b4e99ff46f83b6d045, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7a95c26f6e6cf9845b079a1b70cd8d75, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b8311b5b09971e940906128db1a734e4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0f14a4646dee8bf4dbbdb4a3a8b1d818, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 51adbd58254f7f2419dd4565f3d5c5dc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b63d368dd9629c842ab7bcab434c406e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 015db501ddd4bbc418996df747a5b15e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7a6460ecfc0e9d64998ff5e5cef51b78, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 35335ad5290b572468e689f5434413a3, type: 2}

@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 7d1e331141e2695479c63524c80fcc3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5173595560283457400
+    second: GirlScooterSpriteSheet_0
+  - first:
+      213: 1108978043539056708
+    second: GirlScooterSpriteSheet_1
+  - first:
+      213: 6546924195737492769
+    second: GirlScooterSpriteSheet_2
+  - first:
+      213: 431391051145944197
+    second: GirlScooterSpriteSheet_3
+  - first:
+      213: 6565118214934660750
+    second: GirlScooterSpriteSheet_4
+  - first:
+      213: 7829977533507414848
+    second: GirlScooterSpriteSheet_5
+  - first:
+      213: 8976400456907210492
+    second: GirlScooterSpriteSheet_6
+  - first:
+      213: 8959913860243310455
+    second: GirlScooterSpriteSheet_7
+  - first:
+      213: -570633972900627149
+    second: GirlScooterSpriteSheet_8
+  - first:
+      213: -8793437457768589237
+    second: GirlScooterSpriteSheet_9
+  - first:
+      213: -1470695021383800485
+    second: GirlScooterSpriteSheet_10
+  - first:
+      213: 4816873664533288552
+    second: GirlScooterSpriteSheet_11
+  - first:
+      213: 3824520106671934136
+    second: GirlScooterSpriteSheet_12
+  - first:
+      213: -4778114625819792324
+    second: GirlScooterSpriteSheet_13
+  - first:
+      213: 8960739848266639278
+    second: GirlScooterSpriteSheet_14
+  - first:
+      213: 379504006990372936
+    second: GirlScooterSpriteSheet_15
+  - first:
+      213: 3519591974832359555
+    second: GirlScooterSpriteSheet_16
+  - first:
+      213: -805256190741024746
+    second: GirlScooterSpriteSheet_17
+  - first:
+      213: 5521699370523802487
+    second: GirlScooterSpriteSheet_18
+  - first:
+      213: 6740719267513132698
+    second: GirlScooterSpriteSheet_19
+  - first:
+      213: -7494540674714925039
+    second: GirlScooterSpriteSheet_20
+  - first:
+      213: 1252426808377385965
+    second: GirlScooterSpriteSheet_21
+  - first:
+      213: -5345305838066223941
+    second: GirlScooterSpriteSheet_22
+  - first:
+      213: 4760573154646903539
+    second: GirlScooterSpriteSheet_23
+  - first:
+      213: 6125908369705370627
+    second: GirlScooterSpriteSheet_24
+  - first:
+      213: 296985263825434115
+    second: GirlScooterSpriteSheet_25
+  - first:
+      213: -5468294188233817137
+    second: GirlScooterSpriteSheet_26
+  - first:
+      213: 5710677760828938016
+    second: GirlScooterSpriteSheet_27
+  - first:
+      213: -7010855996985197818
+    second: GirlScooterSpriteSheet_28
+  - first:
+      213: -1394155318817379038
+    second: GirlScooterSpriteSheet_29
+  - first:
+      213: -6953186425381991614
+    second: GirlScooterSpriteSheet_30
+  - first:
+      213: 3688236162080023950
+    second: GirlScooterSpriteSheet_31
+  - first:
+      213: 6039808694111266402
+    second: GirlScooterSpriteSheet_32
+  - first:
+      213: -7644781636296138244
+    second: GirlScooterSpriteSheet_33
+  - first:
+      213: 1231450317118640451
+    second: GirlScooterSpriteSheet_34
+  - first:
+      213: -8005917531690268207
+    second: GirlScooterSpriteSheet_35
+  - first:
+      213: -2454403659056810765
+    second: GirlScooterSpriteSheet_36
+  - first:
+      213: 1827383682159118435
+    second: GirlScooterSpriteSheet_37
+  - first:
+      213: 6994079500812266610
+    second: GirlScooterSpriteSheet_38
+  - first:
+      213: -3899804901234166939
+    second: GirlScooterSpriteSheet_39
+  - first:
+      213: -1228506566093034218
+    second: GirlScooterSpriteSheet_40
+  - first:
+      213: 4517613808898350520
+    second: GirlScooterSpriteSheet_41
+  - first:
+      213: -7762263492427200341
+    second: GirlScooterSpriteSheet_42
+  - first:
+      213: 1627293493885496843
+    second: GirlScooterSpriteSheet_43
+  - first:
+      213: 6192712026741289270
+    second: GirlScooterSpriteSheet_44
+  - first:
+      213: -2070760368792595230
+    second: GirlScooterSpriteSheet_45
+  - first:
+      213: 1429086473384828533
+    second: GirlScooterSpriteSheet_46
+  - first:
+      213: -7672821019143037984
+    second: GirlScooterSpriteSheet_47
+  - first:
+      213: -7494593879669263607
+    second: GirlScooterSpriteSheet_48
+  - first:
+      213: 7136674305793310543
+    second: GirlScooterSpriteSheet_49
+  - first:
+      213: 1710812219209516308
+    second: GirlScooterSpriteSheet_50
+  - first:
+      213: -59909747264930274
+    second: GirlScooterSpriteSheet_51
+  - first:
+      213: 5217107966327666370
+    second: GirlScooterSpriteSheet_52
+  - first:
+      213: -7387455586868055330
+    second: GirlScooterSpriteSheet_53
+  - first:
+      213: -2706619961443022991
+    second: GirlScooterSpriteSheet_54
+  - first:
+      213: 5089603781243232178
+    second: GirlScooterSpriteSheet_55
+  - first:
+      213: -8146781378274697412
+    second: GirlScooterSpriteSheet_56
+  - first:
+      213: 5805731868086661534
+    second: GirlScooterSpriteSheet_57
+  - first:
+      213: -5118374863788740407
+    second: GirlScooterSpriteSheet_58
+  - first:
+      213: 9065532855046883298
+    second: GirlScooterSpriteSheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GirlScooterSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 976
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877cb3e40cd4cc740800000000000000
+      internalID: 5173595560283457400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlScooterSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 976
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4486adca7a1e36f00800000000000000
+      internalID: 1108978043539056708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlScooterSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 976
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dd7527ed85bda50800000000000000
+      internalID: 6546924195737492769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlScooterSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 655
+        width: 350
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c16da10eb9cf500800000000000000
+      internalID: 431391051145944197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlScooterSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 657
+        width: 350
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8680a5ab3cfb1b50800000000000000
+      internalID: 6565118214934660750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlScooterSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 657
+        width: 350
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04baffbe41ba9ac60800000000000000
+      internalID: 7829977533507414848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlScooterSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 350
+        width: 350
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfebb9318a4929c70800000000000000
+      internalID: 8976400456907210492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlScooterSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 350
+        width: 350
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777c6e92f22085c70800000000000000
+      internalID: 8959913860243310455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlScooterSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 350
+        width: 350
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dfc7ccc63b418f0800000000000000
+      internalID: -570633972900627149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlScooterSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 20
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48d617c83f67f580800000000000000
+      internalID: -8793437457768589237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlScooterSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 20
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59ab7d8baa079be0800000000000000
+      internalID: -1470695021383800485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlScooterSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 20
+        width: 350
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866d076b319f8d240800000000000000
+      internalID: 4816873664533288552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 91c9e774634ad0a49b9de14ccbb3673c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":4.0},"gridSpriteSize":{"x":388.0,"y":337.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      GirlScooterSpriteSheet_0: 5173595560283457400
+      GirlScooterSpriteSheet_1: 1108978043539056708
+      GirlScooterSpriteSheet_10: -1470695021383800485
+      GirlScooterSpriteSheet_11: 4816873664533288552
+      GirlScooterSpriteSheet_2: 6546924195737492769
+      GirlScooterSpriteSheet_3: 431391051145944197
+      GirlScooterSpriteSheet_4: 6565118214934660750
+      GirlScooterSpriteSheet_5: 7829977533507414848
+      GirlScooterSpriteSheet_6: 8976400456907210492
+      GirlScooterSpriteSheet_7: 8959913860243310455
+      GirlScooterSpriteSheet_8: -570633972900627149
+      GirlScooterSpriteSheet_9: -8793437457768589237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

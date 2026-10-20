@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 119cf62b754364d4893052db85f3e23a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1702133327195951733
+    second: BoyScooterSpriteSheet_0
+  - first:
+      213: -2499748744125482001
+    second: BoyScooterSpriteSheet_1
+  - first:
+      213: -2206622146427157699
+    second: BoyScooterSpriteSheet_2
+  - first:
+      213: 2871537408314867005
+    second: BoyScooterSpriteSheet_3
+  - first:
+      213: -3691522672043855779
+    second: BoyScooterSpriteSheet_4
+  - first:
+      213: -5724218866757531423
+    second: BoyScooterSpriteSheet_5
+  - first:
+      213: -9058771082301953709
+    second: BoyScooterSpriteSheet_6
+  - first:
+      213: 5408713255456743260
+    second: BoyScooterSpriteSheet_7
+  - first:
+      213: -4742035221793286212
+    second: BoyScooterSpriteSheet_8
+  - first:
+      213: -6864822003419435492
+    second: BoyScooterSpriteSheet_9
+  - first:
+      213: -2669454534295974777
+    second: BoyScooterSpriteSheet_10
+  - first:
+      213: 5311567490521761041
+    second: BoyScooterSpriteSheet_11
+  - first:
+      213: 1216912957455450136
+    second: BoyScooterSpriteSheet_12
+  - first:
+      213: -310994090871328224
+    second: BoyScooterSpriteSheet_13
+  - first:
+      213: -8279845940272347451
+    second: BoyScooterSpriteSheet_14
+  - first:
+      213: -2256976388345505893
+    second: BoyScooterSpriteSheet_15
+  - first:
+      213: -4237855497755549472
+    second: BoyScooterSpriteSheet_16
+  - first:
+      213: 3191569847414811450
+    second: BoyScooterSpriteSheet_17
+  - first:
+      213: -2967481464492909935
+    second: BoyScooterSpriteSheet_18
+  - first:
+      213: -7215115407517434715
+    second: BoyScooterSpriteSheet_19
+  - first:
+      213: 9175642689443287566
+    second: BoyScooterSpriteSheet_20
+  - first:
+      213: 1922552844672919880
+    second: BoyScooterSpriteSheet_21
+  - first:
+      213: 967299756258544863
+    second: BoyScooterSpriteSheet_22
+  - first:
+      213: -4098772935779480340
+    second: BoyScooterSpriteSheet_23
+  - first:
+      213: -9121415750783636458
+    second: BoyScooterSpriteSheet_24
+  - first:
+      213: 7364562780115934093
+    second: BoyScooterSpriteSheet_25
+  - first:
+      213: -86137305543439886
+    second: BoyScooterSpriteSheet_26
+  - first:
+      213: -5791769091092810865
+    second: BoyScooterSpriteSheet_27
+  - first:
+      213: 7124068539340148015
+    second: BoyScooterSpriteSheet_28
+  - first:
+      213: -5839641357096608203
+    second: BoyScooterSpriteSheet_29
+  - first:
+      213: 2074209115785780673
+    second: BoyScooterSpriteSheet_30
+  - first:
+      213: 7757232832530948979
+    second: BoyScooterSpriteSheet_31
+  - first:
+      213: -4357408372449064875
+    second: BoyScooterSpriteSheet_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoyScooterSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 973
+        width: 388
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5725ed72e313f9710800000000000000
+      internalID: 1702133327195951733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyScooterSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 973
+        width: 388
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febfbaee2cb1f4dd0800000000000000
+      internalID: -2499748744125482001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyScooterSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 973
+        width: 388
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3303b859d08061e0800000000000000
+      internalID: -2206622146427157699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyScooterSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 648
+        width: 388
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d7add0f00c9d720800000000000000
+      internalID: 2871537408314867005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyScooterSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 646
+        width: 388
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50768430b315ccc0800000000000000
+      internalID: -3691522672043855779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyScooterSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 648
+        width: 388
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e80456d44d7f80b0800000000000000
+      internalID: -5724218866757531423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyScooterSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 340
+        width: 388
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359afc132b7c84280800000000000000
+      internalID: -9058771082301953709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyScooterSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 340
+        width: 388
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f127b9c0c9f0b40800000000000000
+      internalID: 5408713255456743260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyScooterSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 340
+        width: 388
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7de941718e03eb0800000000000000
+      internalID: -4742035221793286212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyScooterSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 18
+        width: 388
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e26ef52c04bb0a0800000000000000
+      internalID: -6864822003419435492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyScooterSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 18
+        width: 388
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c8b339e3134fad0800000000000000
+      internalID: -2669454534295974777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyScooterSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 18
+        width: 388
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1150011ad7a76b940800000000000000
+      internalID: 5311567490521761041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7cf0a7433577c44ca0da167d8c0d3da
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":4.0},"gridSpriteSize":{"x":388.0,"y":337.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BoyScooterSpriteSheet_0: 1702133327195951733
+      BoyScooterSpriteSheet_1: -2499748744125482001
+      BoyScooterSpriteSheet_10: -2669454534295974777
+      BoyScooterSpriteSheet_11: 5311567490521761041
+      BoyScooterSpriteSheet_2: -2206622146427157699
+      BoyScooterSpriteSheet_3: 2871537408314867005
+      BoyScooterSpriteSheet_4: -3691522672043855779
+      BoyScooterSpriteSheet_5: -5724218866757531423
+      BoyScooterSpriteSheet_6: -9058771082301953709
+      BoyScooterSpriteSheet_7: 5408713255456743260
+      BoyScooterSpriteSheet_8: -4742035221793286212
+      BoyScooterSpriteSheet_9: -6864822003419435492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

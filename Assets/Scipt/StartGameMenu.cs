@@ -18,6 +18,13 @@ public class StartGameMenu : MonoBehaviour
     public Animator playerAnimator;
     public RuntimeAnimatorController boyController;
     public RuntimeAnimatorController girlController;
+    public VehicleRoadRules vehicleRules;
+    public RuntimeAnimatorController boyScooterController;
+    public RuntimeAnimatorController girlScooterController;
+    public GameObject exitConfirmationPanel;
+    public HowToPlayManager tutorialManager;
+
+    private bool selectedGirl;
 
     private bool waitingForAvatar;
 
@@ -40,6 +47,9 @@ public class StartGameMenu : MonoBehaviour
 
         if (avatarSelectionPanel != null)
             avatarSelectionPanel.SetActive(false);
+
+        if (exitConfirmationPanel != null)
+            exitConfirmationPanel.SetActive(false);
     }
 
     public void StartGame()
@@ -164,9 +174,20 @@ public class StartGameMenu : MonoBehaviour
             return;
         }
 
+        selectedGirl = controller == girlController;
+
+        RuntimeAnimatorController selectedController =
+            GetSelectedController();
+
+        if (selectedController == null)
+        {
+            Debug.LogWarning("Assign the selected avatar's controller.");
+            return;
+        }
+
         playerMovement.StopButton();
 
-        playerAnimator.runtimeAnimatorController = controller;
+        playerAnimator.runtimeAnimatorController = selectedController;
         playerAnimator.Rebind();
 
         playerAnimator.SetBool("isWalking", false);
@@ -181,11 +202,120 @@ public class StartGameMenu : MonoBehaviour
         waitingForAvatar = false;
         avatarSelectionPanel.SetActive(false);
 
+        waitingForAvatar = false;
+        avatarSelectionPanel.SetActive(false);
+
+        if (tutorialManager != null && !tutorialManager.HasSeenTutorial)
+        {
+            Time.timeScale = 0f;
+            SetGameplayUI(false);
+
+            if (playerInput != null)
+                playerInput.enabled = false;
+
+            tutorialManager.ShowTutorial();
+        }
+        else
+        {
+            BeginExploring();
+        }
+    }
+
+    public void BeginExploring()
+    {
+        if (playerMovement != null)
+            playerMovement.StopButton();
+
         SetGameplayUI(true);
 
         if (playerInput != null)
             playerInput.enabled = true;
 
         Time.timeScale = 1f;
+    }
+    RuntimeAnimatorController GetSelectedController()
+    {
+        bool riding = vehicleRules != null && vehicleRules.vehicleMode;
+
+        if (selectedGirl)
+            return riding ? girlScooterController : girlController;
+
+        return riding ? boyScooterController : boyController;
+    }
+
+    public void RefreshAvatarForMode()
+    {
+        if (playerAnimator == null)
+            return;
+
+        RuntimeAnimatorController controller = GetSelectedController();
+
+        if (controller == null)
+        {
+            Debug.LogWarning("Assign all walking and scooter controllers.");
+            return;
+        }
+
+        if (playerAnimator.runtimeAnimatorController == controller)
+            return;
+
+        // Remember movement and facing while changing appearance.
+        bool walking = playerAnimator.GetBool("isWalking");
+        float inputX = playerAnimator.GetFloat("InputX");
+        float inputY = playerAnimator.GetFloat("InputY");
+        float lastX = playerAnimator.GetFloat("LastInputX");
+        float lastY = playerAnimator.GetFloat("LastInputY");
+
+        playerAnimator.runtimeAnimatorController = controller;
+
+        playerAnimator.SetBool("isWalking", walking);
+        playerAnimator.SetFloat("InputX", inputX);
+        playerAnimator.SetFloat("InputY", inputY);
+        playerAnimator.SetFloat("LastInputX", lastX);
+        playerAnimator.SetFloat("LastInputY", lastY);
+
+        playerAnimator.Update(0f);
+    }
+
+    public void ShowExitConfirmation()
+    {
+        if (exitConfirmationPanel == null)
+            return;
+
+        exitConfirmationPanel.SetActive(true);
+        exitConfirmationPanel.transform.SetAsLastSibling();
+
+        CanvasGroup menu = startPanel.GetComponent<CanvasGroup>();
+
+        if (menu != null)
+        {
+            menu.interactable = false;
+            menu.blocksRaycasts = false;
+        }
+    }
+
+    public void CancelExit()
+    {
+        if (exitConfirmationPanel != null)
+            exitConfirmationPanel.SetActive(false);
+
+        CanvasGroup menu = startPanel.GetComponent<CanvasGroup>();
+
+        if (menu != null)
+        {
+            menu.interactable = true;
+            menu.blocksRaycasts = true;
+        }
+    }
+
+    public void BackToStartMenu()
+    {
+        if (gateSelectionPanel != null)
+            gateSelectionPanel.SetActive(false);
+
+        if (startPanel != null)
+            startPanel.SetActive(true);
+
+        Time.timeScale = 0f;
     }
 }

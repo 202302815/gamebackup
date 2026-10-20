@@ -3,7 +3,10 @@ using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [SerializeField] private float moveSpeed = 5f;
+    [SerializeField] private float walkingSpeed = 7f;
+    [SerializeField] private float vehicleSpeed = 10f;
+
+    public VehicleRoadRules vehicleRules;
     private Rigidbody2D rb;
     private Vector2 moveInput;
     private Animator animator;
@@ -18,12 +21,32 @@ public class PlayerMovement : MonoBehaviour
     }
 
 
-    // Update is called once per frame
     void Update()
     {
+        // Keep facing the requested direction, even when blocked.
+        // This keeps the wrong-way warning visible.
         if (moveInput.sqrMagnitude > 0.001f)
             FacingDirection = moveInput.normalized;
-        rb.linearVelocity = moveInput * moveSpeed;
+    }
+
+    void FixedUpdate()
+    {
+        float speed = vehicleRules != null && vehicleRules.vehicleMode
+            ? vehicleSpeed
+            : walkingSpeed;
+
+        Vector2 velocity =
+            Vector2.ClampMagnitude(moveInput, 1f) * speed;
+
+        if (vehicleRules != null)
+        {
+            velocity = vehicleRules.LimitVehicleVelocity(
+                rb.position,
+                velocity,
+                Time.fixedDeltaTime);
+        }
+
+        rb.linearVelocity = velocity;
     }
 
     public void Move(InputAction.CallbackContext context)

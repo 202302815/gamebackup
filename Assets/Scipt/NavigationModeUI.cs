@@ -6,6 +6,7 @@ public class NavigationModeUI : MonoBehaviour
     public VehicleRoadRules vehicleRules;
     public Button walkingButton;
     public Button vehicleButton;
+    public StartGameMenu startGameMenu;
 
     public Color selectedColor = Color.yellow;
     public Color normalColor = Color.white;
@@ -21,6 +22,10 @@ public class NavigationModeUI : MonoBehaviour
             return;
 
         vehicleRules.vehicleMode = false;
+
+        if (startGameMenu != null)
+            startGameMenu.RefreshAvatarForMode();
+
         RefreshButtons();
     }
 
@@ -30,6 +35,10 @@ public class NavigationModeUI : MonoBehaviour
             return;
 
         vehicleRules.vehicleMode = true;
+
+        if (startGameMenu != null)
+            startGameMenu.RefreshAvatarForMode();
+
         RefreshButtons();
     }
 
