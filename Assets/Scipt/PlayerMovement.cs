@@ -12,6 +12,7 @@ public class PlayerMovement : MonoBehaviour
     private Animator animator;
     public Vector2 FacingDirection { get; private set; } = Vector2.down;
     public Vector2 MovementInput => moveInput;
+    public MovementAreaRules movementAreaRules;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -38,9 +39,19 @@ public class PlayerMovement : MonoBehaviour
         Vector2 velocity =
             Vector2.ClampMagnitude(moveInput, 1f) * speed;
 
+        // Preserve your existing wrong-way allowance.
         if (vehicleRules != null)
         {
             velocity = vehicleRules.LimitVehicleVelocity(
+                rb.position,
+                velocity,
+                Time.fixedDeltaTime);
+        }
+
+        // Apply road/sidewalk boundaries afterward.
+        if (movementAreaRules != null)
+        {
+            velocity = movementAreaRules.LimitMovement(
                 rb.position,
                 velocity,
                 Time.fixedDeltaTime);

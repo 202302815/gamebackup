@@ -12,7 +12,7 @@ TagManager:
   - Water
   - UI
   - NavigationArrow
-  - 
+  - CharacterOutline
   - 
   - 
   - 
@@ -70,6 +70,9 @@ TagManager:
     locked: 0
   - name: Decor
     uniqueID: 1250542417
+    locked: 0
+  - name: PlayerOutline
+    uniqueID: 1840323001
     locked: 0
   m_RenderingLayers:
   - Default
