@@ -27,6 +27,8 @@ public class CampusPathfinding : MonoBehaviour
 
     private bool lastVehicleMode;
 
+    public UISoundManager soundManager;
+
     private readonly List<Vector3Int> routeCells =
     new List<Vector3Int>();
 
@@ -384,6 +386,8 @@ public class CampusPathfinding : MonoBehaviour
         {
             
             arrived = true;
+            if (soundManager != null)
+                soundManager.PlayArrivalSound();
             ClearRouteError();
             trail.positionCount = 0;
 

@@ -5,7 +5,8 @@ public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float walkingSpeed = 7f;
     [SerializeField] private float vehicleSpeed = 10f;
-
+    [SerializeField] private float runningSpeed = 10f;
+    private bool sprintHeld;
     public VehicleRoadRules vehicleRules;
     private Rigidbody2D rb;
     private Vector2 moveInput;
@@ -13,6 +14,7 @@ public class PlayerMovement : MonoBehaviour
     public Vector2 FacingDirection { get; private set; } = Vector2.down;
     public Vector2 MovementInput => moveInput;
     public MovementAreaRules movementAreaRules;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -24,17 +26,25 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        // Keep facing the requested direction, even when blocked.
-        // This keeps the wrong-way warning visible.
         if (moveInput.sqrMagnitude > 0.001f)
             FacingDirection = moveInput.normalized;
+
+        // Clear sprint when paused or riding.
+        if (Time.timeScale == 0f ||
+            (vehicleRules != null && vehicleRules.vehicleMode))
+        {
+            sprintHeld = false;
+        }
     }
 
     void FixedUpdate()
     {
-        float speed = vehicleRules != null && vehicleRules.vehicleMode
+        bool riding =
+             vehicleRules != null && vehicleRules.vehicleMode;
+
+        float speed = riding
             ? vehicleSpeed
-            : walkingSpeed;
+            : (sprintHeld ? runningSpeed : walkingSpeed);
 
         Vector2 velocity =
             Vector2.ClampMagnitude(moveInput, 1f) * speed;
@@ -108,10 +118,31 @@ public class PlayerMovement : MonoBehaviour
     }
     public void StopButton()
     {
+        sprintHeld = false;
         animator.SetBool("isWalking", false);
         animator.SetFloat("LastInputX", moveInput.x);
         animator.SetFloat("LastInputY", moveInput.y);
         moveInput = Vector2.zero;
+    }
+    public void StartSprint()
+    {
+        if (Time.timeScale == 0f)
+            return;
+
+        if (vehicleRules != null && vehicleRules.vehicleMode)
+            return;
+
+        sprintHeld = true;
+    }
+
+    public void StopSprint()
+    {
+        sprintHeld = false;
+    }
+
+    void OnDisable()
+    {
+        sprintHeld = false;
     }
 
 }

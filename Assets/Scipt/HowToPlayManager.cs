@@ -29,6 +29,8 @@ public class HowToPlayManager : MonoBehaviour
     public TutorialPage[] pages = new TutorialPage[5];
 
     public UnityEvent onTutorialFinished;
+    public UnityEvent onTutorialReplayFinished;
+    private bool replaying;
 
     private const string TutorialSeenKey = "UniTopia_TutorialSeen";
     private int currentPage;
@@ -69,6 +71,7 @@ public class HowToPlayManager : MonoBehaviour
         }
 
         currentPage = 0;
+        replaying = false;
         tutorialOpen = true;
 
         tutorialPanel.SetActive(true);
@@ -123,19 +126,30 @@ public class HowToPlayManager : MonoBehaviour
         backButton.interactable = currentPage > 0;
 
         nextButtonText.text = currentPage == pages.Length - 1
-            ? "Start Exploring"
+            ? (replaying ? "Return to Options" : "Start Exploring")
             : "Next";
     }
 
     void FinishTutorial()
     {
+        if (!tutorialOpen)
+            return;
+
         tutorialOpen = false;
-
-        PlayerPrefs.SetInt(TutorialSeenKey, 1);
-        PlayerPrefs.Save();
-
         tutorialPanel.SetActive(false);
-        onTutorialFinished.Invoke();
+
+        if (replaying)
+        {
+            replaying = false;
+            onTutorialReplayFinished.Invoke();
+        }
+        else
+        {
+            PlayerPrefs.SetInt(TutorialSeenKey, 1);
+            PlayerPrefs.Save();
+
+            onTutorialFinished.Invoke();
+        }
     }
 
     [ContextMenu("Reset Tutorial Seen Flag")]
@@ -145,5 +159,16 @@ public class HowToPlayManager : MonoBehaviour
         PlayerPrefs.Save();
 
         Debug.Log("Tutorial flag reset.");
+    }
+    public bool ShowTutorialReplay()
+    {
+        ShowTutorial();
+
+        if (!tutorialOpen)
+            return false;
+
+        replaying = true;
+        DisplayPage();
+        return true;
     }
 }

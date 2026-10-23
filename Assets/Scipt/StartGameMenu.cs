@@ -23,10 +23,16 @@ public class StartGameMenu : MonoBehaviour
     public RuntimeAnimatorController girlScooterController;
     public GameObject exitConfirmationPanel;
     public HowToPlayManager tutorialManager;
+    public GameMusicManager musicManager;
+
+    public GameObject aboutPanel;
+    public UnityEngine.UI.ScrollRect aboutScrollView;
 
     private bool selectedGirl;
 
     private bool waitingForAvatar;
+    public PauseMenuManager pauseMenu;
+    private bool exitFromGameplay;
 
     void Start()
     {
@@ -50,6 +56,8 @@ public class StartGameMenu : MonoBehaviour
 
         if (exitConfirmationPanel != null)
             exitConfirmationPanel.SetActive(false);
+        if (aboutPanel != null)
+            aboutPanel.SetActive(false);
     }
 
     public void StartGame()
@@ -80,7 +88,49 @@ public class StartGameMenu : MonoBehaviour
     {
         SpawnAtGate(gate3Spawn);
     }
+    public void OpenAbout()
+    {
+        if (aboutPanel == null)
+            return;
 
+        aboutPanel.SetActive(true);
+        aboutPanel.transform.SetAsLastSibling();
+
+        if (aboutScrollView != null)
+        {
+            Canvas.ForceUpdateCanvases();
+            aboutScrollView.StopMovement();
+            aboutScrollView.verticalNormalizedPosition = 1f;
+        }
+
+        if (startPanel != null)
+        {
+            CanvasGroup menu = startPanel.GetComponent<CanvasGroup>();
+
+            if (menu != null)
+            {
+                menu.interactable = false;
+                menu.blocksRaycasts = false;
+            }
+        }
+    }
+
+    public void CloseAbout()
+    {
+        if (aboutPanel != null)
+            aboutPanel.SetActive(false);
+
+        if (startPanel != null)
+        {
+            CanvasGroup menu = startPanel.GetComponent<CanvasGroup>();
+
+            if (menu != null)
+            {
+                menu.interactable = true;
+                menu.blocksRaycasts = true;
+            }
+        }
+    }
     void SpawnAtGate(Transform spawnPoint)
     {
         if (spawnPoint == null ||
@@ -223,6 +273,8 @@ public class StartGameMenu : MonoBehaviour
 
     public void BeginExploring()
     {
+        if (musicManager != null)
+            musicManager.PlayGameplayMusic();
         if (playerMovement != null)
             playerMovement.StopButton();
 
@@ -279,18 +331,33 @@ public class StartGameMenu : MonoBehaviour
 
     public void ShowExitConfirmation()
     {
+        exitFromGameplay = false;
+        OpenExitConfirmation();
+    }
+
+    public void ShowGameplayExitConfirmation()
+    {
+        exitFromGameplay = true;
+        OpenExitConfirmation();
+    }
+
+    void OpenExitConfirmation()
+    {
         if (exitConfirmationPanel == null)
             return;
 
         exitConfirmationPanel.SetActive(true);
         exitConfirmationPanel.transform.SetAsLastSibling();
 
-        CanvasGroup menu = startPanel.GetComponent<CanvasGroup>();
-
-        if (menu != null)
+        if (!exitFromGameplay && startPanel != null)
         {
-            menu.interactable = false;
-            menu.blocksRaycasts = false;
+            CanvasGroup menu = startPanel.GetComponent<CanvasGroup>();
+
+            if (menu != null)
+            {
+                menu.interactable = false;
+                menu.blocksRaycasts = false;
+            }
         }
     }
 
@@ -299,12 +366,20 @@ public class StartGameMenu : MonoBehaviour
         if (exitConfirmationPanel != null)
             exitConfirmationPanel.SetActive(false);
 
-        CanvasGroup menu = startPanel.GetComponent<CanvasGroup>();
-
-        if (menu != null)
+        if (exitFromGameplay)
         {
-            menu.interactable = true;
-            menu.blocksRaycasts = true;
+            if (pauseMenu != null)
+                pauseMenu.ShowPausePanel();
+        }
+        else if (startPanel != null)
+        {
+            CanvasGroup menu = startPanel.GetComponent<CanvasGroup>();
+
+            if (menu != null)
+            {
+                menu.interactable = true;
+                menu.blocksRaycasts = true;
+            }
         }
     }
 

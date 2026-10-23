@@ -28,6 +28,21 @@ public class MainCameraPinchZoom : MonoBehaviour
     private readonly List<RaycastResult> uiHits =
         new List<RaycastResult>();
 
+    void Awake()
+    {
+        sensitivity = Mathf.Clamp(
+            PlayerPrefs.GetFloat("ZoomSensitivity", sensitivity),
+            0.1f,
+            2f);
+    }
+
+    public void SetZoomSensitivity(float value)
+    {
+        sensitivity = Mathf.Clamp(value, 0.1f, 2f);
+
+        PlayerPrefs.SetFloat("ZoomSensitivity", sensitivity);
+    }
+
     void OnEnable()
     {
         EnhancedTouchSupport.Enable();
