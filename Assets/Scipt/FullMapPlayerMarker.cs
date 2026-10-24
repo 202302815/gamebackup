@@ -7,6 +7,7 @@ public class FullMapPlayerMarker : MonoBehaviour
     public RectTransform mapDisplay;
 
     private RectTransform marker;
+    public Vector2 markerOffset = new Vector2(0f, 15f);
 
     void Awake()
     {
@@ -26,6 +27,6 @@ public class FullMapPlayerMarker : MonoBehaviour
         marker.anchoredPosition = new Vector2(
             rect.xMin + viewport.x * rect.width,
             rect.yMin + viewport.y * rect.height
-        );
+        ) + markerOffset;
     }
 }

@@ -4,6 +4,7 @@ using UnityEngine;
 public class UISoundManager : MonoBehaviour
 {
     public AudioClip buttonClick;
+    public AudioClip BuildingInfo;
     public AudioClip arrivalSound;
     [Range(0f, 1f)]
     public float effectsVolume = 0.5f;
@@ -28,7 +29,11 @@ public class UISoundManager : MonoBehaviour
         if (buttonClick != null)
             source.PlayOneShot(buttonClick);
     }
-
+    public void PlayInfoClick()
+    {
+        if (BuildingInfo != null)
+            source.PlayOneShot(BuildingInfo);
+    }
     public void SetEffectsVolume(float volume)
     {
         effectsVolume = Mathf.Clamp01(volume);

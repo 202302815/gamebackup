@@ -1,0 +1,5885 @@
+fileFormatVersion: 2
+guid: f719dcb27f18b9b47beb2a55b29e067e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4166910920229093709
+    second: tropicanaa_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tropicanaa_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4183fa9767d3d930800000000000000
+      internalID: 4166910920229093709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2798f4c16bb9447a8ef479aa9721f6
+      internalID: 1527345059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f187e4207bdd09b4dab4780ba1502dd2
+      internalID: -998247617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c259690ed68a4082cfdd47f7f9774
+      internalID: -724983602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54257265e1b5e343896e016e0534bb5
+      internalID: 2120496919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c75fc07d9bdd9844ba188e75dece019
+      internalID: -1379269031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fe6f8155659f04089255c584da6de0
+      internalID: -1363981448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39fe205e01f7f24ca59050db8303964
+      internalID: 973440598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301cd05a4ff0d9e4baec825369147abe
+      internalID: 1716605690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b96eef482b29fc40aa3b61d0082ba14
+      internalID: 1873147965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 487
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcf75f4814cd2046af39a314d53aa66
+      internalID: -1478740369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6290c9c7f7d5afb45b894c7a96c0ee9d
+      internalID: 1666262817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec7c9e9ef1234945b8007b295c8f9cf
+      internalID: -1978059564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e83b28d9911f74bb241ddf609e3a42
+      internalID: 814198487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95c52acf9a49fd46ad33a1c1647bf93
+      internalID: 29824610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdba089023f0575488fa5796ebcb8f62
+      internalID: 1684891679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bc85a1c7f3fa84a8e9a0c95feff77e
+      internalID: 1473282569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b0e9a3517290e47a74ba823ff9ce75
+      internalID: -1241654623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359cc1a23ade20848a2097de410f1ca9
+      internalID: -741053528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3499695498eff384299ba8a761e7d325
+      internalID: -1123847902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34c75541e958b14aa732fca3e2e478d
+      internalID: -29761437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472fbcd8bf5b90a4c8e84248fcab7146
+      internalID: 896790108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f17c3bcdcd94444a66554dc43d6844
+      internalID: 457369166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e193dded807d5149a30e78ba14e7001
+      internalID: 1752039456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a67dd0bc0239949ae974a725ead294
+      internalID: 1649023094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_25
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7ad78c5250b9e448373fc1489576c4
+      internalID: 1847212683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9ae7004fb1efb4891b6593b9321baa
+      internalID: -438852371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78328dfdf6bd04459941162dcf58670
+      internalID: 327051859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4be951dbd430e40be18614270ce62e
+      internalID: -1826473328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0a57c3aca58074f980d15ea016a39c
+      internalID: 1256540288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c4af131b939574cae7f7ba6e80e2de
+      internalID: 383434064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a891f9db4a95e0847b35716d8fabaad5
+      internalID: -741834115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83f9ff5307c41d4cb6019c1cdb92fd2
+      internalID: -531229296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470d5a156a0b94340b201ead31e960a5
+      internalID: 619480049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83864b1b54bc25d4e866c0d43c2974fc
+      internalID: 2021927880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd10993c157f014aae23b589e7d0766
+      internalID: -255598045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111778cb75df8cc448e365f9f04f205d
+      internalID: -777373631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef7f0046b38f56439f9773c93d75820
+      internalID: 1162902038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c972503d82741914d8f1c7374c941a76
+      internalID: 1121927521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373a41905063d6140af6c9d9ef26560b
+      internalID: 352173564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47e95983e491054fa0243fc8fa34987
+      internalID: 631135611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66431e33b1a84574aae16354328ac33e
+      internalID: -800150404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5068147c5564b44ada9eb7c458dee9
+      internalID: -1591961054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3de0ebe0afd8845b0d93e6a4c15a9f
+      internalID: 1916760547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_44
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecfeab87d3770e4c8d7ae3d70261905
+      internalID: 770353847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c43165741f1769489aee0f5000fe47d
+      internalID: -2098759292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d98a1dce93af343af46cf55030f482
+      internalID: 1870992376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76159fcb71b724e41bd3b615aafcb6a8
+      internalID: 991658883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfb662ab31888f429c4d1e47c7d97c3
+      internalID: 557294134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887fccb407f049f41a2d3b1ccfa7fd31
+      internalID: 394214201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee169c3292c072d42bcc4ef857725e0d
+      internalID: 1001700344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c60aa48cd082343b2c7ca9aeaec2a5
+      internalID: 817481117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_52
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 415
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311725ac238aa2b40931844b04c02985
+      internalID: 1791115933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 391
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c6d73bcf848cf4dbf10e79d1084fa0
+      internalID: -50118316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_54
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 391
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59740f44a0659ab4f8581303c0a4c669
+      internalID: -909570532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 391
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e13598d7093b554bbc0c2c2eaae023b
+      internalID: -1974350733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_56
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 391
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427354264990fc341aaa06fd72507068
+      internalID: -506277430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 391
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad78e2d61d9e1c54d912489bdce73553
+      internalID: 353948799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_58
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 391
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6f6be504eb1394ba95ce06beb0144e
+      internalID: 1690517909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 391
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79358806bf2545c4eab91f58f53c6521
+      internalID: -1357563527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 391
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e97346e84a79648bc09411e9de7c1b
+      internalID: -2094615206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 391
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79599fe05f5de94abdc5282cf75389f
+      internalID: -1150989380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_62
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 391
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1b660e4eb743c41ab733548d5ad629
+      internalID: -248334730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_63
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 391
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb9bbedbff0c4d43868d90238edea5d
+      internalID: 1981637546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b41931aa6e1814d90dc05edc6e6d14
+      internalID: 403092749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_65
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590d4cdd7b0215742ba6476527ebc3a9
+      internalID: 857906526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1b36c0c72d584c9fb867714288cbf
+      internalID: 1312280708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd65484ed3a8a3d4784172fa1b0e9d75
+      internalID: 832970150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856cd6fc88aeaea4bb79872e94c64bb6
+      internalID: 1819717318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_69
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba79a8595e17ee43b763f7436699dce
+      internalID: -692792807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de5c2231b271e0409bd97f031fc6d34
+      internalID: -423248654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec3e56756567ba4d94e11dc4966943c
+      internalID: 1691070181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78167fe135ff9440954dc39f4fa5f00
+      internalID: -1662157958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_73
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34f09d352d0a1d448bb192a563375dd
+      internalID: -1909503109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc491810dc53c764a84d0fcbcfa6cf86
+      internalID: 1907879728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_75
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ec3e0c081cfa44680ceedf7a574f04
+      internalID: 1452788123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_76
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a5d24e9019ff648b7caa04cc9cfb5c
+      internalID: 1197625536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da304bd4483f9d64c8b5d6375547ff19
+      internalID: -1365246220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb36fdebc62e98647adb8bb9122ad67c
+      internalID: -1013914299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e8fc7e75ee0f74b8bbcc92e3519317
+      internalID: 1168838413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c42cc56e755554b83a38df2e1526b7
+      internalID: 1735623831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_81
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59062cc566e78014db888ed26d807fb8
+      internalID: 895347816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c699f5fb8283740b5d64fc2212f17a
+      internalID: -465882744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f1b828693742b498990a612f1e1a2d
+      internalID: -1716626738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adda75a917779b24c8885f0eb2e51418
+      internalID: -1579002844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_85
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76cc2c93812b0243bf627f2d07c0629
+      internalID: 984176893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd5346be686e4348aa6fec568a1691c
+      internalID: -382978513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_87
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fe32fbf72f2374b87ae43e57ebb2e5
+      internalID: 1977892921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c3957cae6f0e4ba6fe55a5859ff92
+      internalID: -879834783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_89
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0330b42437f094c9d489d077cd4c6a
+      internalID: -498447838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_90
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeca5b98df311847881fc610cdbbcf7
+      internalID: 4549160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_91
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2933aa363c6016e46a8df84c98b08810
+      internalID: -1808152290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4788a2219041ce4e85b2290fdd8adb3
+      internalID: 77789377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099d756b3d9a93d48b296230d8e14995
+      internalID: -1923810786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_94
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6394f0a03375b5c42b01dcf17e5436a1
+      internalID: -252311752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436cfa389d3b7ca4c9a3a8fbf1004e89
+      internalID: -1779623138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_96
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc2a1578537eaf4b8c40d2c0f9d1fc8
+      internalID: -1527146523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e553a690cd2a24cb9f610040e861ad
+      internalID: 792011634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241e849001b62df448f712e55e5db369
+      internalID: 2053261419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb6dfae79bb30f47bd3d8ca03232d43
+      internalID: -229845521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_100
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6dba2cc95f4c446b7954d801b7365c
+      internalID: -1188076261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_101
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba0f424b284ee842b443b1672430cbb
+      internalID: -3653339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da27ca8999cb2ce408194fa937afa365
+      internalID: -1742425181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_103
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 319
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be32a2959cc5e544b470dcef159a2f9
+      internalID: -845453781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe9aa50e40faa543855cd838bc2dfdf
+      internalID: -238074192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be38772a558377445aa817ef09ead820
+      internalID: -143257989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28d0dcfd7fe78e45a72ddffdb11e806
+      internalID: 605455870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f340853e8d5f6d04aa707da73933aa91
+      internalID: 497432210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b04077a4c8d8542a8f5e6ab7d95f69
+      internalID: -291879794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_109
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2990b7fdd2d004aa41963f38bf4781
+      internalID: 2128406116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f60cb30311efa499ff991ef105162a
+      internalID: -1950474927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_111
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c82b75e770a2a49acdca846fa0d06d
+      internalID: -1384855850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8492e765c71ea14995c5ea8f61f42fa
+      internalID: 2058586741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_113
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca0f4e78ae148a479190d173f50ae10
+      internalID: 1769351894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b51bdef55116814a8cdac3fd3676a66
+      internalID: -644141574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_115
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6701fe4d596e10a49a5171f05d02fee2
+      internalID: -1423205285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ef1536e43979043878e2d81e1cb740
+      internalID: 444595720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_117
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a8fcfba66c78043a7c5977685078fd
+      internalID: -1362944157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada96322be5a7154a994427d198036e0
+      internalID: -1303036254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaf9458b4ab0fe49a40d47e57fbf520
+      internalID: -1504085515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_120
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf69b60f79ff684498eb79de5e2d81f0
+      internalID: -686103192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_121
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc853f62f2b6bc43a6422d985d78c09
+      internalID: 1450107755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_122
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181836c32abdb424999a799744bdeaf9
+      internalID: -1043389194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad52587859ce4c34dab8a6c516afadf1
+      internalID: -192734689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_124
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a3166dbe64ec04088154916eeb7860
+      internalID: 1131878343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_125
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d29330f21d08d48a84420e4ce70b04
+      internalID: -1348232570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_126
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678d2d083c40c12489f2819ec2a19608
+      internalID: -1993539935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_127
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189d60435a47bbb4d928fb2a7ccc0a09
+      internalID: -1300872362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_128
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31ae584e924ebe41b1ad6f8b8680e5d
+      internalID: -828064621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_129
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add3975f0c917b54daa9ba3646f02019
+      internalID: 460756159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 247
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c628d84305118498ac19de7a866957
+      internalID: 338680146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 247
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d9a515733d82e4bb64ef47e02c57cc
+      internalID: -938448486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_132
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 247
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf7fb84d3a024b45b373c6763f51fc8
+      internalID: -854594719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 247
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d207289b0f7cf624384cca81737f46b0
+      internalID: 1577428377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_134
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 247
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3e0746bbb3b254fa518c522dd73129
+      internalID: 1480382877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_135
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 247
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aa869b55430ae4e92fe9834e4018cc
+      internalID: 1245890094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_136
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 247
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c7451755e1a814c8347ca4647dbbf5
+      internalID: 1575127814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 247
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71768a59fbdfad4781273c17678350c
+      internalID: 671762905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_138
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 247
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2559e2a9eff19c41a9a4750a5618f42
+      internalID: 869215261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_139
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 247
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67fe447b80fad542b5a813564146807
+      internalID: 355933449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_140
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3b879ad7877fa40bbd5da3a9cc0ba2
+      internalID: 2030014001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_141
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 223
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0596fc84c03cb4284bc410cf9650fb
+      internalID: -75131137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 223
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d1caf5bd3ffbb469b997c744867932
+      internalID: -1017743823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_143
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 223
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8df7d3cc0c8b144bad375e2975b0ac7
+      internalID: -1054495616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_144
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 223
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b15d402d744b54fa4c164fe4ffb4fb
+      internalID: -804733432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_145
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 223
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75824ec4ef0072645819b517a4b7335a
+      internalID: 249676110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 223
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a25ecd54a935243adf2fd29dfd265c
+      internalID: -1078547443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_147
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 223
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874a8129160a84747b61ae457c9812c7
+      internalID: 1919024941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_148
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 223
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87de1e369924d9049aeb3b623463017c
+      internalID: 733633303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_149
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 223
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed249f34a29104ea1d0367c28388a3
+      internalID: -1302819329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845f1961f32825d4fa247896f72888d6
+      internalID: 1041774795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 199
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ceb7fa60d733b4994c9a6c24913fd7
+      internalID: -1494594549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_152
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 199
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad3b4898be0f1439114535f5d62814
+      internalID: 1932369289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 199
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1caf5daa635054196e92651fe82471
+      internalID: -57735890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_154
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 199
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a3302fa987f494f8cdbca60825e115
+      internalID: 1464560459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 199
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ee5c8e7d5a489449f5d596961578d1
+      internalID: 480070878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_156
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 199
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb7db9207417fe4d8acf052d41f783d
+      internalID: 1638824716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_157
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 199
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86231a375bcb1a4c9b4b3d614b93ce9
+      internalID: 882925689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_158
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 199
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90b6a2b5234843419fb9ea2675cceb7
+      internalID: -1427784015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_159
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971d927f40bd08241b350e408f9e6a01
+      internalID: 1006496660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_160
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 199
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8930c4732da54ec4f80fbb9120135900
+      internalID: 263146123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a04bf85dec5e1a4c9c1deb49cee55e9
+      internalID: 202113388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_162
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d57905cb5546f5498309cf028a20764
+      internalID: 2029823373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212829f3873a9a4481e3f8af813f1c5
+      internalID: -203590235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_164
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23379e310810f5f4b9ad0e35e6fcb159
+      internalID: 326600619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909455321fa92e34da95bcdfff2f6092
+      internalID: 1172445882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_166
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31746247f4344540901ffa2ec3bc18c
+      internalID: 1945615463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_167
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff9409ea3ce84045913e82d7ecfdbfc
+      internalID: -262287347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_168
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127dfbd6c5dd1b04392d3bc970ecb0cf
+      internalID: -1304211503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3247aeb15a17e5b44bc4b8f9d20f2f18
+      internalID: -1803273125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_170
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b711edd61d3018d45a6a2da8fe12e7b7
+      internalID: -81075464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_171
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850b4a9d6e192cf47a71d28ce96f0d37
+      internalID: 1021953075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b61f270b2d5e4c46aa7d2cf9d936c6e
+      internalID: -65438108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_173
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b9c15c7e9ef1340ab125d9faaabc5e
+      internalID: -1887198045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_174
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4068f38a980fac64f8b49b4ae3c04795
+      internalID: 393084576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_175
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9b32724321daf4592d7cec426ce2b7
+      internalID: -1295876884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_176
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e0d14f89cb493489376f6cdc5cd46e
+      internalID: -290862659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_177
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dbcd7dd6494c94f956c2b6b7933981
+      internalID: 1950462043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_178
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37fc7b471b878f49bf5b3a6e542f034
+      internalID: 1753802096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_179
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e075b1b71326184b9be65a45e824c19
+      internalID: 1149247518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_180
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6c5576d26e28c4fa4d627662a8021d
+      internalID: -1156864364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_181
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d56815ddd4fd34f9e44e1ff8f193dd
+      internalID: -1326322871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_182
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d431a55a0b9ec54d9b31b060460c7be
+      internalID: 2087509360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f6fc14649827f4aacf376497a3d5dd
+      internalID: -73110367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_184
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fbb45aa0e9e8a4f9d97274985c7830
+      internalID: -2100344930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_185
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02f04327fbe1be4aa7ace200f3b44f7
+      internalID: 271387514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebd1a5051484304baafc5a083fe38fb
+      internalID: -695712645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_187
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb7a57aea8f0854296f3228269e6630
+      internalID: 1945179177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_188
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a8a5401cc596e45b0eb8878d9c21a6
+      internalID: 348250453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_189
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf6b31746f514c4cafa32237ea5be40
+      internalID: -181348159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8653e7af6be0b574895ee7b1021117c4
+      internalID: 716358214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_191
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fdd3e28b5a18e4585d1b6194a03dc0
+      internalID: 433662654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_192
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e6a3eedd91f2b42ba38afe0e2bbe88
+      internalID: 1098540732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_193
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8bce4cf202c0545a7eb6da3bc06745
+      internalID: -1755421012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_194
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643286e491fd4994eb0a227648de4483
+      internalID: -604039019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_195
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d127cba39d3bd24f8bcddfc4445051c
+      internalID: -227706716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_196
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 127
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212f2470f3a29e04faf147d22dda0f5a
+      internalID: 1278385716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_197
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c9b7ef2466828418a00fbcd031a451
+      internalID: 526901628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_198
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc31633c22a4b9e4b9d7417703aef453
+      internalID: 470971241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_199
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df5083885052db42ad3b9c025ce6ac7
+      internalID: -1992270392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_200
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2bc6bbd1dd26048a7eab8f4a116e7c
+      internalID: -1903704177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_201
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c053492e3d893fb4f8ff4dccad447ed7
+      internalID: -1674148794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_202
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a79732da857b804da1961c4c2509621
+      internalID: 2022080111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_203
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29e9e2b7836f6646b85eca2b7039396
+      internalID: -978261795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_204
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efe01e550574e741ae5977b076af6ce
+      internalID: -756331611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_205
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4174aae2127af4ca7972be445cebfd
+      internalID: 1994851798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_206
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42bb311c8242684ca4edfa45b079d11
+      internalID: -1416835306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_207
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dc88d196a113a41b5f2cc47f5ec2a6
+      internalID: -946139213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_208
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116717f2c296c144a97c033c072c6f30
+      internalID: -1398246517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_209
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac92e4825e72d1747b20c0d0e734c842
+      internalID: 1352205730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_210
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43454dc1bdac2f047a2b4cd963c99f54
+      internalID: -2015836558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93041b9e1eca944eb1ed239e78cd83c
+      internalID: -1091578342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_212
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d157abf3f5900d34392b453203155704
+      internalID: 893551209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_213
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248f6ae6c489def4985b4d1dfe185d7e
+      internalID: 1754565316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_214
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0da51268b2fd5147baa846c89a0149c
+      internalID: -973684780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_215
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201666b5bf9b9c640a516551bc257a1c
+      internalID: -603063902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_216
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0783cf88128d1ad469ee25916720a1bb
+      internalID: -1925284551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_217
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33b0938a85c7b440be782db9e09489d
+      internalID: -14121631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_218
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd3a500bcb3cae4eacc6cc210b4c9d8
+      internalID: 167864838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_219
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729c712ae8acf484bb5c65a56ab5abfa
+      internalID: -2038202780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_220
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450a9b453c86e924ea335b9892698114
+      internalID: -1179677224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_221
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5befd37ba38d2e14eb3872fed33d2e74
+      internalID: 1311574720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_222
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b70cfb1746a3f4a82609a032146016
+      internalID: 2143067279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_223
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f48585c0cbe4d4495e11ab86483f95
+      internalID: -1666858553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_224
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b77d6ad02504aa43acc57fba95a9819
+      internalID: -482150148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_225
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbef54035896792428782c2f4a90ac67
+      internalID: 1010556244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_226
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da9723875e3e704fa4796eebb79aa1a
+      internalID: -354125629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_227
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db51b9ac82649f74c8ca6afefe84e2fe
+      internalID: -1716563246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_228
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7762305e9d0e2ea4eb84d6b6226995e9
+      internalID: 909275302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_229
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca26a58767175904f84a1473bc0c153f
+      internalID: -1168231646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769b64aa926a20b47923823e3f50b8d7
+      internalID: -1938531414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_231
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd04923c75df5374aadc400c2b6d5bf8
+      internalID: 1763475496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_232
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31d029fe23f9874eb181fbd2fb2390a
+      internalID: -97778071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_233
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a996f60418971f341afeba757231924e
+      internalID: -607909831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_234
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 31
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa397ab48e9dee40b1347f707242583
+      internalID: -1080779942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_235
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3744a76ce892f24fa5aafb3064ec2da
+      internalID: 2109809507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_236
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 31
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edf6788cfa775a4097a975f5a0be030
+      internalID: -1460333469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_237
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0fa9d38f2137b4b880323fe24730b4
+      internalID: -754987103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_238
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 31
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f92d61afd5c314ba827beb18f2b654
+      internalID: 294886784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_239
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 31
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201648e6ef7e1c34da7696327be6df85
+      internalID: 1696508370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_240
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 31
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75350b8cc4c55f147af2ded5c6b8cc43
+      internalID: 1830634944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_241
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 31
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213aa650907e7f4428a65d20502a9cfc
+      internalID: -628244668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_242
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 31
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eca1e8b5f3aaa47a60b25d72d456f3
+      internalID: -2092291016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_243
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 31
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada75338a36406e4abe8a1793aeef3f2
+      internalID: 1056201897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_244
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 7
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2920989b2fd8e48a8e9908b094e193
+      internalID: 583106215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_245
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1c0c38da57e504aba710ac43fd3a0b
+      internalID: -460475984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_246
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2342171319024014a9cf070fa026cecf
+      internalID: 1569017611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_247
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5550cdfae96abe94aa63592050075ee9
+      internalID: -815502960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_248
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981c79c0f724dbb4892521e0a5f19dc1
+      internalID: 1172046600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tropicanaa_249
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 7
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c0bc9ab568a084e8d85f0bb77e0d64
+      internalID: -1720756617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: de1e7f13782c84148833b03a20004bda
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tropicanaa_0: 4166910920229093709
+      tropicanaa_1: 1527345059
+      tropicanaa_10: -1478740369
+      tropicanaa_100: -1188076261
+      tropicanaa_101: -3653339
+      tropicanaa_102: -1742425181
+      tropicanaa_103: -845453781
+      tropicanaa_104: -238074192
+      tropicanaa_105: -143257989
+      tropicanaa_106: 605455870
+      tropicanaa_107: 497432210
+      tropicanaa_108: -291879794
+      tropicanaa_109: 2128406116
+      tropicanaa_11: 1666262817
+      tropicanaa_110: -1950474927
+      tropicanaa_111: -1384855850
+      tropicanaa_112: 2058586741
+      tropicanaa_113: 1769351894
+      tropicanaa_114: -644141574
+      tropicanaa_115: -1423205285
+      tropicanaa_116: 444595720
+      tropicanaa_117: -1362944157
+      tropicanaa_118: -1303036254
+      tropicanaa_119: -1504085515
+      tropicanaa_12: -1978059564
+      tropicanaa_120: -686103192
+      tropicanaa_121: 1450107755
+      tropicanaa_122: -1043389194
+      tropicanaa_123: -192734689
+      tropicanaa_124: 1131878343
+      tropicanaa_125: -1348232570
+      tropicanaa_126: -1993539935
+      tropicanaa_127: -1300872362
+      tropicanaa_128: -828064621
+      tropicanaa_129: 460756159
+      tropicanaa_13: 814198487
+      tropicanaa_130: 338680146
+      tropicanaa_131: -938448486
+      tropicanaa_132: -854594719
+      tropicanaa_133: 1577428377
+      tropicanaa_134: 1480382877
+      tropicanaa_135: 1245890094
+      tropicanaa_136: 1575127814
+      tropicanaa_137: 671762905
+      tropicanaa_138: 869215261
+      tropicanaa_139: 355933449
+      tropicanaa_14: 29824610
+      tropicanaa_140: 2030014001
+      tropicanaa_141: -75131137
+      tropicanaa_142: -1017743823
+      tropicanaa_143: -1054495616
+      tropicanaa_144: -804733432
+      tropicanaa_145: 249676110
+      tropicanaa_146: -1078547443
+      tropicanaa_147: 1919024941
+      tropicanaa_148: 733633303
+      tropicanaa_149: -1302819329
+      tropicanaa_15: 1684891679
+      tropicanaa_150: 1041774795
+      tropicanaa_151: -1494594549
+      tropicanaa_152: 1932369289
+      tropicanaa_153: -57735890
+      tropicanaa_154: 1464560459
+      tropicanaa_155: 480070878
+      tropicanaa_156: 1638824716
+      tropicanaa_157: 882925689
+      tropicanaa_158: -1427784015
+      tropicanaa_159: 1006496660
+      tropicanaa_16: 1473282569
+      tropicanaa_160: 263146123
+      tropicanaa_161: 202113388
+      tropicanaa_162: 2029823373
+      tropicanaa_163: -203590235
+      tropicanaa_164: 326600619
+      tropicanaa_165: 1172445882
+      tropicanaa_166: 1945615463
+      tropicanaa_167: -262287347
+      tropicanaa_168: -1304211503
+      tropicanaa_169: -1803273125
+      tropicanaa_17: -1241654623
+      tropicanaa_170: -81075464
+      tropicanaa_171: 1021953075
+      tropicanaa_172: -65438108
+      tropicanaa_173: -1887198045
+      tropicanaa_174: 393084576
+      tropicanaa_175: -1295876884
+      tropicanaa_176: -290862659
+      tropicanaa_177: 1950462043
+      tropicanaa_178: 1753802096
+      tropicanaa_179: 1149247518
+      tropicanaa_18: -741053528
+      tropicanaa_180: -1156864364
+      tropicanaa_181: -1326322871
+      tropicanaa_182: 2087509360
+      tropicanaa_183: -73110367
+      tropicanaa_184: -2100344930
+      tropicanaa_185: 271387514
+      tropicanaa_186: -695712645
+      tropicanaa_187: 1945179177
+      tropicanaa_188: 348250453
+      tropicanaa_189: -181348159
+      tropicanaa_19: -1123847902
+      tropicanaa_190: 716358214
+      tropicanaa_191: 433662654
+      tropicanaa_192: 1098540732
+      tropicanaa_193: -1755421012
+      tropicanaa_194: -604039019
+      tropicanaa_195: -227706716
+      tropicanaa_196: 1278385716
+      tropicanaa_197: 526901628
+      tropicanaa_198: 470971241
+      tropicanaa_199: -1992270392
+      tropicanaa_2: -998247617
+      tropicanaa_20: -29761437
+      tropicanaa_200: -1903704177
+      tropicanaa_201: -1674148794
+      tropicanaa_202: 2022080111
+      tropicanaa_203: -978261795
+      tropicanaa_204: -756331611
+      tropicanaa_205: 1994851798
+      tropicanaa_206: -1416835306
+      tropicanaa_207: -946139213
+      tropicanaa_208: -1398246517
+      tropicanaa_209: 1352205730
+      tropicanaa_21: 896790108
+      tropicanaa_210: -2015836558
+      tropicanaa_211: -1091578342
+      tropicanaa_212: 893551209
+      tropicanaa_213: 1754565316
+      tropicanaa_214: -973684780
+      tropicanaa_215: -603063902
+      tropicanaa_216: -1925284551
+      tropicanaa_217: -14121631
+      tropicanaa_218: 167864838
+      tropicanaa_219: -2038202780
+      tropicanaa_22: 457369166
+      tropicanaa_220: -1179677224
+      tropicanaa_221: 1311574720
+      tropicanaa_222: 2143067279
+      tropicanaa_223: -1666858553
+      tropicanaa_224: -482150148
+      tropicanaa_225: 1010556244
+      tropicanaa_226: -354125629
+      tropicanaa_227: -1716563246
+      tropicanaa_228: 909275302
+      tropicanaa_229: -1168231646
+      tropicanaa_23: 1752039456
+      tropicanaa_230: -1938531414
+      tropicanaa_231: 1763475496
+      tropicanaa_232: -97778071
+      tropicanaa_233: -607909831
+      tropicanaa_234: -1080779942
+      tropicanaa_235: 2109809507
+      tropicanaa_236: -1460333469
+      tropicanaa_237: -754987103
+      tropicanaa_238: 294886784
+      tropicanaa_239: 1696508370
+      tropicanaa_24: 1649023094
+      tropicanaa_240: 1830634944
+      tropicanaa_241: -628244668
+      tropicanaa_242: -2092291016
+      tropicanaa_243: 1056201897
+      tropicanaa_244: 583106215
+      tropicanaa_245: -460475984
+      tropicanaa_246: 1569017611
+      tropicanaa_247: -815502960
+      tropicanaa_248: 1172046600
+      tropicanaa_249: -1720756617
+      tropicanaa_25: 1847212683
+      tropicanaa_26: -438852371
+      tropicanaa_27: 327051859
+      tropicanaa_28: -1826473328
+      tropicanaa_29: 1256540288
+      tropicanaa_3: -724983602
+      tropicanaa_30: 383434064
+      tropicanaa_31: -741834115
+      tropicanaa_32: -531229296
+      tropicanaa_33: 619480049
+      tropicanaa_34: 2021927880
+      tropicanaa_35: -255598045
+      tropicanaa_36: -777373631
+      tropicanaa_37: 1162902038
+      tropicanaa_38: 1121927521
+      tropicanaa_39: 352173564
+      tropicanaa_4: 2120496919
+      tropicanaa_40: 631135611
+      tropicanaa_41: -800150404
+      tropicanaa_42: -1591961054
+      tropicanaa_43: 1916760547
+      tropicanaa_44: 770353847
+      tropicanaa_45: -2098759292
+      tropicanaa_46: 1870992376
+      tropicanaa_47: 991658883
+      tropicanaa_48: 557294134
+      tropicanaa_49: 394214201
+      tropicanaa_5: -1379269031
+      tropicanaa_50: 1001700344
+      tropicanaa_51: 817481117
+      tropicanaa_52: 1791115933
+      tropicanaa_53: -50118316
+      tropicanaa_54: -909570532
+      tropicanaa_55: -1974350733
+      tropicanaa_56: -506277430
+      tropicanaa_57: 353948799
+      tropicanaa_58: 1690517909
+      tropicanaa_59: -1357563527
+      tropicanaa_6: -1363981448
+      tropicanaa_60: -2094615206
+      tropicanaa_61: -1150989380
+      tropicanaa_62: -248334730
+      tropicanaa_63: 1981637546
+      tropicanaa_64: 403092749
+      tropicanaa_65: 857906526
+      tropicanaa_66: 1312280708
+      tropicanaa_67: 832970150
+      tropicanaa_68: 1819717318
+      tropicanaa_69: -692792807
+      tropicanaa_7: 973440598
+      tropicanaa_70: -423248654
+      tropicanaa_71: 1691070181
+      tropicanaa_72: -1662157958
+      tropicanaa_73: -1909503109
+      tropicanaa_74: 1907879728
+      tropicanaa_75: 1452788123
+      tropicanaa_76: 1197625536
+      tropicanaa_77: -1365246220
+      tropicanaa_78: -1013914299
+      tropicanaa_79: 1168838413
+      tropicanaa_8: 1716605690
+      tropicanaa_80: 1735623831
+      tropicanaa_81: 895347816
+      tropicanaa_82: -465882744
+      tropicanaa_83: -1716626738
+      tropicanaa_84: -1579002844
+      tropicanaa_85: 984176893
+      tropicanaa_86: -382978513
+      tropicanaa_87: 1977892921
+      tropicanaa_88: -879834783
+      tropicanaa_89: -498447838
+      tropicanaa_9: 1873147965
+      tropicanaa_90: 4549160
+      tropicanaa_91: -1808152290
+      tropicanaa_92: 77789377
+      tropicanaa_93: -1923810786
+      tropicanaa_94: -252311752
+      tropicanaa_95: -1779623138
+      tropicanaa_96: -1527146523
+      tropicanaa_97: 792011634
+      tropicanaa_98: 2053261419
+      tropicanaa_99: -229845521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
