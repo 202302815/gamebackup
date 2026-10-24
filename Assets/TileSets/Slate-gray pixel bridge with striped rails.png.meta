@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: e688bfc2c4c6b544685101656d03b28c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7276037182674615942
+    second: Slate-gray pixel bridge with striped rails_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 215
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7145228bb2560b90800000000000000
+      internalID: -7276037182674615942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 509
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a7c4bb5ee6eaf4291f942ae1bb0c39
+      internalID: 1665751838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 509
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b722203fbb3164b97e6e9e1e416908
+      internalID: 64731540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 509
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b767eeb3413f4e74bb5bb9748f53f8af
+      internalID: 1231519612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_4
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 509
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec15d2863c0dab04584f61e4703c765b
+      internalID: 418534307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_5
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 509
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1c4131ff36a4e43be31db2358e9c39
+      internalID: -87688874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_6
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 509
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee6af319f52ae642a33330e21561ea7
+      internalID: -2135251584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_7
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 509
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcff913768cdf741bd48a899f018fed
+      internalID: -741595952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_8
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 509
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db48cf6a6a05fa24ab508f6526b9bbc6
+      internalID: -1218439401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_9
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 509
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff73ee2f35a7c84b92390b2c3ff4e36
+      internalID: -2001330334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9334b930a9e4d45acfdd447aac3ed8
+      internalID: -558282309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 294
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c8c2dc2f32cbb46be47a5243ff9089
+      internalID: -2137436843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 294
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eef31283faa0f54da4ac6bc273c2a0a
+      internalID: 1536879350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_13
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 294
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926e611c9087c734ab4a4a338a914647
+      internalID: 2064116470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_14
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 294
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb66bbbbabadd48ac25ea81578201f
+      internalID: -353142820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_15
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 294
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d79c43ee0280a419e72e50675ff6b3
+      internalID: -176883604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_16
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 294
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27503204810a36c4888046ff18eb1603
+      internalID: -1146869701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_17
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 294
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17085c1228d28489b762482b1438e0
+      internalID: 1144974286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_18
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 294
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366f2829878548f42b1ad952899e79a7
+      internalID: 1888905173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_19
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 294
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89fea7b632a4034d8eb2171f3f71b53
+      internalID: -1636217737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c409b7f2ade573458b7a354dccba1e4
+      internalID: 1947806782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 79
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6850f03f670cc174ca676c7f99b74de3
+      internalID: -1011817731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_22
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 79
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47624f3ad05e7fb4d832eee50642ad20
+      internalID: 1810698392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_23
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 79
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208e1e3cb76656b47967bf63c2bd9928
+      internalID: -1412938850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_24
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 79
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edca5d94bb5dd9540b8122f64f096c2d
+      internalID: -428621151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_25
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 79
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f60ab1f7ebc16469d5ec6b98f34232
+      internalID: 1922562661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_26
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 79
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5484dd9e38c7cf34b94e5c612e21fdfa
+      internalID: 976976751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_27
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 79
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fc581d18254f6428f6cbbd10f9a442
+      internalID: -579999048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_28
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 79
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c52eeae87879a4a8590583bc3911e4
+      internalID: -974583451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slate-gray pixel bridge with striped rails_29
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 79
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e809c01b9a3f9742b81916b4dc13beb
+      internalID: 17679378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cf88d8bb6c3fd72458cd3ce73e11c8dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":215.0,"y":215.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Slate-gray pixel bridge with striped rails_0: -7276037182674615942
+      Slate-gray pixel bridge with striped rails_1: 1665751838
+      Slate-gray pixel bridge with striped rails_10: -558282309
+      Slate-gray pixel bridge with striped rails_11: -2137436843
+      Slate-gray pixel bridge with striped rails_12: 1536879350
+      Slate-gray pixel bridge with striped rails_13: 2064116470
+      Slate-gray pixel bridge with striped rails_14: -353142820
+      Slate-gray pixel bridge with striped rails_15: -176883604
+      Slate-gray pixel bridge with striped rails_16: -1146869701
+      Slate-gray pixel bridge with striped rails_17: 1144974286
+      Slate-gray pixel bridge with striped rails_18: 1888905173
+      Slate-gray pixel bridge with striped rails_19: -1636217737
+      Slate-gray pixel bridge with striped rails_2: 64731540
+      Slate-gray pixel bridge with striped rails_20: 1947806782
+      Slate-gray pixel bridge with striped rails_21: -1011817731
+      Slate-gray pixel bridge with striped rails_22: 1810698392
+      Slate-gray pixel bridge with striped rails_23: -1412938850
+      Slate-gray pixel bridge with striped rails_24: -428621151
+      Slate-gray pixel bridge with striped rails_25: 1922562661
+      Slate-gray pixel bridge with striped rails_26: 976976751
+      Slate-gray pixel bridge with striped rails_27: -579999048
+      Slate-gray pixel bridge with striped rails_28: -974583451
+      Slate-gray pixel bridge with striped rails_29: 17679378
+      Slate-gray pixel bridge with striped rails_3: 1231519612
+      Slate-gray pixel bridge with striped rails_4: 418534307
+      Slate-gray pixel bridge with striped rails_5: -87688874
+      Slate-gray pixel bridge with striped rails_6: -2135251584
+      Slate-gray pixel bridge with striped rails_7: -741595952
+      Slate-gray pixel bridge with striped rails_8: -1218439401
+      Slate-gray pixel bridge with striped rails_9: -2001330334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

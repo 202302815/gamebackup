@@ -1,6 +1,14 @@
 {
   "buildings": [
     {
+      "id": "HealthServices",
+      "name": "Cavite State University Health Services",
+      "description": "Operating Hours:\nMondays - Thursdays\n7:00 am - 6:00 pm \n\nThe Cavite State University Health Services (CvSU Health Services). This central facility embodies the university's commitment to student well-being by offering a comprehensive range of health services. True to its mission, CvSU Health Services prioritizes preventative, promotive, and curative care for its target clientele – students, faculty, and staff. The dedicated staff provides quality, affordable, and easily accessible healthcare, ensuring a healthy and supportive environment for the entire university community.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": ""
+    },
+    {
       "id": "Library",
       "name": "Ladislao N. Diwa Memorial Library",
       "description": "Welcome to the Ladislao N. Diwa Memorial Library and Museum (LDMLM)—a symbol of knowledge and heritage since 1980. With a collection of over 106,000 volumes and 5,000 series titles, LDMLM honors Ladislao N. Diwa's contributions to academia. Operating under an open shelf system, our mission is to provide excellent, equitable, and relevant library services. We aim to support academic excellence, encourage maximum utilization of resources, and collaborate with all colleges and campuses to supplement research and instruction. Step inside and discover a world of knowledge and inspiration.",

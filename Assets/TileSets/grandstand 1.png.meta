@@ -1,0 +1,3723 @@
+fileFormatVersion: 2
+guid: 3de841449f88fb948a37d68f8db52382
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2864757193306870944
+    second: grandstand 1_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 39
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grandstand 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a41dca3d79a1c720800000000000000
+      internalID: 2864757193306870944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 472
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9252d165e56b574b9586af77550625a
+      internalID: -1574341433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 472
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8acd2e680b690d4b851fa3a61535032
+      internalID: 1909214562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 472
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692bbab50ad2b564a906b5648a7bd84c
+      internalID: -1078235868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 472
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad0671ebf0f8ce44a3ead6ccc6b314d
+      internalID: -1781220070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 472
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e38ce8f33fb7d54fa74bbf9a0953750
+      internalID: 684285262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 472
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a22a4a5c12b1f48a1958fad93e1da0
+      internalID: 125657658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 472
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53720f0cbbbaf4741869ea7ad0a2ca04
+      internalID: -769188054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 472
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32efe8bdd76cf7e4e84348557cbc121f
+      internalID: 1090574475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 472
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8e070241340284e9d8c5f5831bf2d0
+      internalID: 2073806701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 472
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee059549c880cd4d8aee961de604c6c
+      internalID: 1258918335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 472
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4879c251c9bc155478e8dd02d0a01551
+      internalID: 53533646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61abd7d0eebfba4180157c94f101837
+      internalID: -280660949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 433
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7490ffce5c4726419bac4e3a2bd7cfc
+      internalID: -2100140334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 433
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2e7cf191ee6244ba8a9a739872add6
+      internalID: 724906502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 433
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2766773956424c34aac0beada83c2d81
+      internalID: -683678913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 433
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6a2eb476f68764d8d8374ff237e017
+      internalID: -1767544117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 433
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e522967da8ac24db38cd8651a3e916
+      internalID: -1081388683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 433
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203ff974bf1e6784fa1ceda933cfdb6e
+      internalID: -852867991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 433
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23479f2c06e5e2c41823891db823646d
+      internalID: -292618740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 433
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bce63e5c25115429c7d34249d6a152
+      internalID: 1142992003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 433
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2683c6c5ffd4274893f8f2e9f9bec01
+      internalID: 2127516027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 433
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4fa3517c9deb849893b933749be08b
+      internalID: 1969279939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_23
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 433
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7b54401ec5ae546b0fd9bb64e51de1
+      internalID: 1407981587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625a76aaf2a4e1440b868c35f175af14
+      internalID: -1512112314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992dae399a17d4d498f04b6c7cef8014
+      internalID: -557955146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe92ef7d525677448458c2df9852854
+      internalID: -2061741576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259f2d3f836e884408036f640d4e837d
+      internalID: -2088812110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e78bcd353fde4f43bbede2e24c3e9c2
+      internalID: -1774989122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28907dd7837d014daca235639462ab7
+      internalID: -121355335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca39aea19bc8cb34ab2eb9dceb046ba4
+      internalID: 19900417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_31
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2fe2c51ac5c8c44bf854e74f61144f
+      internalID: -463882279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a217280cb05d0b84485b661bc85af3b0
+      internalID: 1740905681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_33
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa010943a9c8e174b9117d481243d0fd
+      internalID: 945560199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fe1478d8a98c9458dce27da284ea69
+      internalID: 1343073486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_35
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2eb5b8f6a82214e864457279fea640
+      internalID: -1900041170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b407b1312175ae14da053edf42b1d692
+      internalID: 524266400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79936d550d33e5049963f7cef3fb1d62
+      internalID: -59931823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d9d60575fbe3b478f6d3d88e0839c2
+      internalID: -439109836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_39
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7400f97d9710f4782042fd3aaa73dc
+      internalID: -1244838453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2e84bae4d97bb4895113b8df30b9d0
+      internalID: -1279153296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe36ae9c20deeb740a14cac4faf9a906
+      internalID: -747749498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_42
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871bf3b11423c654c9cf8e23c388598f
+      internalID: -1528614791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_43
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9977dc42da820e345b6b9c13dc194f2d
+      internalID: 1799790356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_44
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0573d9419e75de4fb899029d6daed73
+      internalID: -1748077325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f716a4a65c76248a752570003b6d47
+      internalID: -637106134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed877dbedff570143b2cb45aad4e3f0a
+      internalID: 1355572998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_47
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922c4f0c077e7f1479944f3ba3c147e5
+      internalID: 790496772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b91420b18509774fa2556107d743f69
+      internalID: -1803977157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_49
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 316
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ad3cc75bb2a2b4fb65521f34417c82
+      internalID: -353864368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 316
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e18420c95f1264ebddd0b3c947f7b4
+      internalID: 319966164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 316
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1a35149e0cc4741a9430279037f570
+      internalID: 1253039148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 316
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d604e22c7fbfe6f40a81636e8bac41cc
+      internalID: 609784118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_53
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 316
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e047ce9effb1d0a4992efe2102253626
+      internalID: 1576709532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_54
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 316
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e4687a977c29f4bbb1740041af6e24
+      internalID: -2019919330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_55
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 316
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f0559534a851f419c9987882a4a509
+      internalID: -1759566616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_56
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 316
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039835535e4848a4c94f2a483f5e6632
+      internalID: 756719962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_57
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 316
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eeb73efe31b944bbebe6b18e436abc
+      internalID: -114349369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_58
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 316
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf5a543171345643a387978b2b88467
+      internalID: -1212577967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_59
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 316
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30281122b0bd4e4ba6d70bd0d9ca372
+      internalID: -2035734989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6b73c6e29fd084c81f712180933c77
+      internalID: 1186141320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_61
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 277
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b8fbfc2ac95c94bafe393e56be27ea
+      internalID: 347724391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_62
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 277
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61910e255615d6248bfec05c03b7fa26
+      internalID: -705561877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_63
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 277
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466c23fc53e600c41aeb2b6ea1a8d660
+      internalID: -1219755258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_64
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 277
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71b7ccc610a684f9d70d8a1b16fb50
+      internalID: -1337347877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_65
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 277
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f1014a37d06c748aee3e12a1545abf
+      internalID: -1859224617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_66
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 277
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79d56e78a297be43a6c7e2c138dd284
+      internalID: -282852775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_67
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 277
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d165574cf43f4d8e2b6eeff7ef81c
+      internalID: -930556333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_68
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 277
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2884181ff6447e14d8ea3e7aebdccd00
+      internalID: -1479731214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_69
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 277
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb08e769bd16e440a661a38a20d93a0
+      internalID: -1870500012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_70
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 277
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3a75e2fe4ff1a408d20edc242c8ffc
+      internalID: -2055227489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_71
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 277
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864574c2bbad8f544a503620648f908c
+      internalID: 839577617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fee7a00bd570624ea5aa80ce28b76da
+      internalID: 1929333678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_73
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad911640d0a6c6d428ed4a1491b59962
+      internalID: 1940656324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_74
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58b3582b39aa784caf4715f387a72bd
+      internalID: -1713099560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_75
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a05e1ea595e104896400792c7fe9c3
+      internalID: 1357131122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_76
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732dedd1f843c684a8d7c3ae5b64a74e
+      internalID: -822629165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_77
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247df535d583dfc4384c83ac9c737bff
+      internalID: -1569337167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_78
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6972c3a046a4ad04cad07c379795c93b
+      internalID: 202368767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_79
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2519470f91b47d428e19f4070ab9363
+      internalID: 1661157464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_80
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdb397f820a95444af79c89aee899c7
+      internalID: 346072254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_81
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d793f6ded68193e48b81693e39654a37
+      internalID: 1547306111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_82
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5571b724f33539b4e9132fbc141c985f
+      internalID: 1799704745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_83
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f54913b5e726a4b87c4d13473676e5
+      internalID: 781894471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2589fcd6c75094581e6523a2323995
+      internalID: 449631148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 199
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c497e867bf7a08a4e9cb1bb2a047d1d1
+      internalID: -1473393621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_86
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 199
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ca66287029ecc40bc5f9adbf42276d
+      internalID: -1299991281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_87
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 199
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9694039045de1b4788689fc96bf4896
+      internalID: -970111978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_88
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 199
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ea140cf338d7c488828f32bc2fb2d3
+      internalID: -149417144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_89
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 199
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5790695d1932fb4d8dddff645ca05e5
+      internalID: 774340479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_90
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 199
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b99bc9df1ca32429021f4dcb16bf2a
+      internalID: 1123525058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 199
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3b1d2049a25a4ab973633918d3a22
+      internalID: 4559206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_92
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 199
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b4116e2ee4e7b499dd2fca8857293f
+      internalID: -1604384494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_93
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 199
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb7681772cc3294dabe00f9d7d1322a
+      internalID: -2125009492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_94
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 199
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f942b43c512e59a4fadb040042eddd06
+      internalID: -1506728375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_95
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 199
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810be909a676a5a47ad98c356d99a98e
+      internalID: -1989605505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e4c9d74166c894385087bb4931451f
+      internalID: -1518199931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 160
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e380c40ba58f793439871395d885f916
+      internalID: -1741989538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_98
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 160
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1524441b99d4414e9b155577172bf92
+      internalID: 1933540355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_99
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 160
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5bbad7e028264469ed8a359648693d
+      internalID: -2107177917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_100
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 160
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4af7373b513e9478fc502b19a4fad7
+      internalID: 677112856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_101
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9792bc62cd7ea4942885c7bf4a04c1f4
+      internalID: 769245919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_102
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 160
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff8edc8b9c6cc4c9545b31ae50a6fb
+      internalID: -1821610741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_103
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 160
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ceecb4a341ec14aa162db89bed7fbd
+      internalID: 1992974398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_104
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 160
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d8e06c1b1daf42ba683b034622387
+      internalID: -514062110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_105
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 160
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab761d68eb0b0834d886b1106783e564
+      internalID: -1596583061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_106
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 160
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d95d7b3e3b9544adbcec2a9a276f8
+      internalID: 165726062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_107
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 160
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7609b05a73c1cbd40962aa9feeb0e44c
+      internalID: 345013490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7c895380ba4d5409d559882ce48b15
+      internalID: -445645245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_109
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 121
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e83908b6082aa4a828fbcd82e230ec
+      internalID: 2141836875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_110
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 121
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed71e95a0b63704db95bcf835c77e6f
+      internalID: -1781804475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_111
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 121
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb5e4a118c721b4282a5fae8e848b34
+      internalID: -252450411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_112
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 121
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800472ed01bd29c48910662d8c6d012e
+      internalID: -40727480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_113
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 121
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fb834bae447d64f82264970542347f
+      internalID: -1583025918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_114
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 121
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11958177b57847547bb17ee5132ec29e
+      internalID: -2082114028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_115
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 121
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d22fe86d6043e418187deb24bac0ed
+      internalID: -1265788429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_116
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 121
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb0765b3d6451f42937d67b88b251e0
+      internalID: -2074042598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_117
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 121
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5d4e2dada674547840b32cca317141
+      internalID: -1417822958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_118
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 121
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e86880bbffec542b4f606f40313a74
+      internalID: -1624575778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_119
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 121
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb79732f1c0bd645abcc2d95ab63c94
+      internalID: -1450509423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097ca7e2787986e47bc8fedbf61b8fa8
+      internalID: -1329572285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_121
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 82
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5946bebb18350d8479d1c57eeef3a69a
+      internalID: -1670948491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_122
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 82
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2563efc4c21b934abde040acdeef953
+      internalID: -1588717013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_123
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 82
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce565228d9d7657418462e0974138f0a
+      internalID: 751752123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_124
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 82
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4703717895bde184688cd8000a74d3e1
+      internalID: -1248387021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_125
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 82
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306893e34a563e743815fae16b508ac5
+      internalID: 1143093346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_126
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 82
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c808b44c311fe84f930d93d0e7a81c5
+      internalID: 309458946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_127
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 82
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bb26bb503506d4fbc6825244db54df
+      internalID: 1718288976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_128
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 82
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f9f19cd7962fa47ac83758d88c16fa
+      internalID: 302350246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_129
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 82
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dd70d8145130546b868648422bac58
+      internalID: -2095447669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_130
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 82
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7940204051ee21045a4aa29393ed5e6d
+      internalID: -1524911842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_131
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 82
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab182f0475997624893656997bd677af
+      internalID: -1844394606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f1639dc27bae499eaafc2131065fe
+      internalID: 87955461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_133
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a9ba2d7688bb742b38d980b58bb451
+      internalID: 629452718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_134
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c3c6144ff38514f8c174097bf4a064
+      internalID: -1799707031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_135
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d114e7a98f4c73b42a3ae2d862931478
+      internalID: 1406964933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_136
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998977c479a25e3448a88db49fefa913
+      internalID: -767811665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_137
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eb2d392e61982458af0f6f0f5b6a2f
+      internalID: 1078376331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_138
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af96ee3059b3904293c90425fe5259c
+      internalID: -858500336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_139
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c415feb3b16724c8fbedb4e74c65b0
+      internalID: 2082661140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_140
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca4ac877e3371a4ab83294a17ace2ca
+      internalID: 1541329718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_141
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61dcc62fd2026e4b9477d25e895e8f5
+      internalID: -1854766504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_142
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20ce9f04fcea8a409571b0b65de4bda
+      internalID: 1612838563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_143
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 43
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc66ae4d8849a9f4dbd8f1ee712024af
+      internalID: 757891250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f9449b2b5b7f442b92e6f4bd5d2110
+      internalID: -821531013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_145
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8284ccda8e35664bb8b26bb0d78e430
+      internalID: -1430788634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_146
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df6069efc5d41b439a60a981e284f62
+      internalID: 1841444633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_147
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4772e49a0ac05374c948da03442f8016
+      internalID: 525504652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_148
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b9cd3b70a18424882b06f89208d639
+      internalID: -1676290864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_149
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3553503798825234294cd79f3ea024ce
+      internalID: 1563922119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_150
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96598116e2d733349bb6d817d90b5e54
+      internalID: -1887916205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_151
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5eb0f98637ff44bb8c55cc82d4ecc0
+      internalID: 1128287518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_152
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47ac23aec97afb41ad7334aa3d94a19
+      internalID: 2106712181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_153
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0bcb15311bbbb4396e83cdb07dae1b
+      internalID: 1488658697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_154
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e548b0bd60ef874a9b621ef4371b0fa
+      internalID: -1402361408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandstand 1_155
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5c6f3907734a4492b0626aee60f16
+      internalID: -1233620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7719d0cacdcf3b34f838e08afb392b7f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":39.0,"y":39.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      grandstand 1_0: 2864757193306870944
+      grandstand 1_1: -1574341433
+      grandstand 1_10: 1258918335
+      grandstand 1_100: 677112856
+      grandstand 1_101: 769245919
+      grandstand 1_102: -1821610741
+      grandstand 1_103: 1992974398
+      grandstand 1_104: -514062110
+      grandstand 1_105: -1596583061
+      grandstand 1_106: 165726062
+      grandstand 1_107: 345013490
+      grandstand 1_108: -445645245
+      grandstand 1_109: 2141836875
+      grandstand 1_11: 53533646
+      grandstand 1_110: -1781804475
+      grandstand 1_111: -252450411
+      grandstand 1_112: -40727480
+      grandstand 1_113: -1583025918
+      grandstand 1_114: -2082114028
+      grandstand 1_115: -1265788429
+      grandstand 1_116: -2074042598
+      grandstand 1_117: -1417822958
+      grandstand 1_118: -1624575778
+      grandstand 1_119: -1450509423
+      grandstand 1_12: -280660949
+      grandstand 1_120: -1329572285
+      grandstand 1_121: -1670948491
+      grandstand 1_122: -1588717013
+      grandstand 1_123: 751752123
+      grandstand 1_124: -1248387021
+      grandstand 1_125: 1143093346
+      grandstand 1_126: 309458946
+      grandstand 1_127: 1718288976
+      grandstand 1_128: 302350246
+      grandstand 1_129: -2095447669
+      grandstand 1_13: -2100140334
+      grandstand 1_130: -1524911842
+      grandstand 1_131: -1844394606
+      grandstand 1_132: 87955461
+      grandstand 1_133: 629452718
+      grandstand 1_134: -1799707031
+      grandstand 1_135: 1406964933
+      grandstand 1_136: -767811665
+      grandstand 1_137: 1078376331
+      grandstand 1_138: -858500336
+      grandstand 1_139: 2082661140
+      grandstand 1_14: 724906502
+      grandstand 1_140: 1541329718
+      grandstand 1_141: -1854766504
+      grandstand 1_142: 1612838563
+      grandstand 1_143: 757891250
+      grandstand 1_144: -821531013
+      grandstand 1_145: -1430788634
+      grandstand 1_146: 1841444633
+      grandstand 1_147: 525504652
+      grandstand 1_148: -1676290864
+      grandstand 1_149: 1563922119
+      grandstand 1_15: -683678913
+      grandstand 1_150: -1887916205
+      grandstand 1_151: 1128287518
+      grandstand 1_152: 2106712181
+      grandstand 1_153: 1488658697
+      grandstand 1_154: -1402361408
+      grandstand 1_155: -1233620
+      grandstand 1_16: -1767544117
+      grandstand 1_17: -1081388683
+      grandstand 1_18: -852867991
+      grandstand 1_19: -292618740
+      grandstand 1_2: 1909214562
+      grandstand 1_20: 1142992003
+      grandstand 1_21: 2127516027
+      grandstand 1_22: 1969279939
+      grandstand 1_23: 1407981587
+      grandstand 1_24: -1512112314
+      grandstand 1_25: -557955146
+      grandstand 1_26: -2061741576
+      grandstand 1_27: -2088812110
+      grandstand 1_28: -1774989122
+      grandstand 1_29: -121355335
+      grandstand 1_3: -1078235868
+      grandstand 1_30: 19900417
+      grandstand 1_31: -463882279
+      grandstand 1_32: 1740905681
+      grandstand 1_33: 945560199
+      grandstand 1_34: 1343073486
+      grandstand 1_35: -1900041170
+      grandstand 1_36: 524266400
+      grandstand 1_37: -59931823
+      grandstand 1_38: -439109836
+      grandstand 1_39: -1244838453
+      grandstand 1_4: -1781220070
+      grandstand 1_40: -1279153296
+      grandstand 1_41: -747749498
+      grandstand 1_42: -1528614791
+      grandstand 1_43: 1799790356
+      grandstand 1_44: -1748077325
+      grandstand 1_45: -637106134
+      grandstand 1_46: 1355572998
+      grandstand 1_47: 790496772
+      grandstand 1_48: -1803977157
+      grandstand 1_49: -353864368
+      grandstand 1_5: 684285262
+      grandstand 1_50: 319966164
+      grandstand 1_51: 1253039148
+      grandstand 1_52: 609784118
+      grandstand 1_53: 1576709532
+      grandstand 1_54: -2019919330
+      grandstand 1_55: -1759566616
+      grandstand 1_56: 756719962
+      grandstand 1_57: -114349369
+      grandstand 1_58: -1212577967
+      grandstand 1_59: -2035734989
+      grandstand 1_6: 125657658
+      grandstand 1_60: 1186141320
+      grandstand 1_61: 347724391
+      grandstand 1_62: -705561877
+      grandstand 1_63: -1219755258
+      grandstand 1_64: -1337347877
+      grandstand 1_65: -1859224617
+      grandstand 1_66: -282852775
+      grandstand 1_67: -930556333
+      grandstand 1_68: -1479731214
+      grandstand 1_69: -1870500012
+      grandstand 1_7: -769188054
+      grandstand 1_70: -2055227489
+      grandstand 1_71: 839577617
+      grandstand 1_72: 1929333678
+      grandstand 1_73: 1940656324
+      grandstand 1_74: -1713099560
+      grandstand 1_75: 1357131122
+      grandstand 1_76: -822629165
+      grandstand 1_77: -1569337167
+      grandstand 1_78: 202368767
+      grandstand 1_79: 1661157464
+      grandstand 1_8: 1090574475
+      grandstand 1_80: 346072254
+      grandstand 1_81: 1547306111
+      grandstand 1_82: 1799704745
+      grandstand 1_83: 781894471
+      grandstand 1_84: 449631148
+      grandstand 1_85: -1473393621
+      grandstand 1_86: -1299991281
+      grandstand 1_87: -970111978
+      grandstand 1_88: -149417144
+      grandstand 1_89: 774340479
+      grandstand 1_9: 2073806701
+      grandstand 1_90: 1123525058
+      grandstand 1_91: 4559206
+      grandstand 1_92: -1604384494
+      grandstand 1_93: -2125009492
+      grandstand 1_94: -1506728375
+      grandstand 1_95: -1989605505
+      grandstand 1_96: -1518199931
+      grandstand 1_97: -1741989538
+      grandstand 1_98: 1933540355
+      grandstand 1_99: -2107177917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

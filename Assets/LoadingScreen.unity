@@ -961,6 +961,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CampusLoadingScreen
   loadingBar: {fileID: 2064532269}
   loadingText: {fileID: 299687742}
+  minimumLoadingTime: 4
 --- !u!4 &1961428350
 Transform:
   m_ObjectHideFlags: 0
