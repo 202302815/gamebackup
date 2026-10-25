@@ -9,6 +9,14 @@
       "coursesOffered": ""
     },
     {
+      "id": "Icon",
+      "name": "International Convention Center",
+      "description": "The University International Convention Center serves as a multipurpose venue for significant university events and external collaborations. This impressive structure hosts formal university functions, from standardized exams and bustling job fairs to grand graduation ceremonies, with its adaptable space configurable to each event's needs. Beyond university-organized gatherings, the center can be rented by external organizations for conferences, or even social events. The University International Convention Center embodies the university's pursuit of excellence, offering a platform to celebrate student achievements and foster collaboration within the broader community.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": ""
+    },
+    {
       "id": "Library",
       "name": "Ladislao N. Diwa Memorial Library",
       "description": "Welcome to the Ladislao N. Diwa Memorial Library and Museum (LDMLM)—a symbol of knowledge and heritage since 1980. With a collection of over 106,000 volumes and 5,000 series titles, LDMLM honors Ladislao N. Diwa's contributions to academia. Operating under an open shelf system, our mission is to provide excellent, equitable, and relevant library services. We aim to support academic excellence, encourage maximum utilization of resources, and collaborate with all colleges and campuses to supplement research and instruction. Step inside and discover a world of knowledge and inspiration.",
@@ -55,6 +63,14 @@
       "services": "",
       "departments": "Nursing/Over-all Clinical Coordinator\nMedical Technology Department/Program Coordinator\nMidwifery Department",
       "coursesOffered": "Bachelor of Science in Nursing\nBachelor of Science in Medical Technology / Medical Laboratory Science\nBachelor of Science in Midwifery (Bridging program 2 years)"
+    },
+    {
+      "id": "DPS",
+      "name": "Department of Physical Sciences",
+      "description": "This is the Department of Physical Sciences building under the College of Arts and Sciences.",
+      "services": "",
+      "departments": "",
+      "coursesOffered": ""
     },
     {
       "id": "CAS",
